@@ -32,11 +32,11 @@
    "items": [
     {
      "label": "Starting point",
-     "text": "Getting back into working out. Goals, preferred days, health history and current fitness aren't known yet - so the plan deliberately starts light and simple. The first weeks are about learning the moves and building the habit."
+     "text": "Getting back into working out. Goals: toning and more energy. Current fitness is unknown, so the plan deliberately starts light and simple, and the targets adjust from your weekly results."
     },
     {
-     "label": "Goal (assumed)",
-     "text": "Get back into a steady routine; build full-body strength (legs, glutes, back, arms, core) with good form; improve cardio fitness and energy. If your goals are different (e.g., more cardio, weight loss, a sport or an event), tell Coach and the plan will be adjusted."
+     "label": "Goal",
+     "text": "TONING: full-body strength (legs, glutes, back, arms, core) with good form and progressive load - small weight increases over time, mostly 10-15 reps per set. ENERGY: easy zone 2 cardio (bike, walking, incline walking) that leaves you feeling good, not wiped out."
     },
     {
      "label": "Targets adjust weekly",
@@ -168,8 +168,8 @@
    "title": "SAFETY",
    "items": [
     {
-     "label": "Check with your doctor",
-     "text": "Before starting, check with your doctor if you have ANY health condition (heart, blood pressure, diabetes, asthma), take medication that affects heart rate or balance, are pregnant or postpartum, have joint/back problems or a past injury, or simply haven't exercised in a long time."
+     "label": "Health check",
+     "text": "If anything changes (new pain, illness, injury, pregnancy, new medication), check with a doctor before continuing."
     },
     {
      "label": "Stop for pain",
