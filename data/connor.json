@@ -1,0 +1,3088 @@
+{
+ "kid": "connor",
+ "name": "Connor",
+ "age": 9,
+ "theme": "connor",
+ "weightsFirst": false,
+ "coachEmail": "justin.dodd@mail.grokbot.com",
+ "coachName": "Coach",
+ "title": "12-Week Beginner Strength Plan - Connor (age 9)",
+ "intro": "Upper/Lower split, 3 sessions/week, ~30 minutes. Mostly bodyweight plus form practice with a broomstick or very light loads. All targets are conservative starting points - adjust to what Connor can do with slow, controlled, good-form reps.",
+ "targetHeader": "Target version / load - suggested, adjust",
+ "warmup": [
+  {
+   "label": "1. Get warm (2 min)",
+   "text": "Jumping jacks, jog in place, skipping, or jump rope. Make it a game: 'Simon says' or follow-the-leader."
+  },
+  {
+   "label": "2. Mobility (2 min)",
+   "text": "10 arm circles each way, 10 bodyweight squats, 5 inchworms, 5 bird dogs per side, 10 calf raises."
+  },
+  {
+   "label": "3. Practice (1 min)",
+   "text": "5 slow practice reps of the first exercise with no weight (or a broomstick), focusing on form."
+  }
+ ],
+ "cooldown": [
+  {
+   "label": "Cool-down (3 min)",
+   "text": "Easy walk, then gentle stretches held 15-20 sec: quads, hamstrings, calves, chest in a doorway, child's pose. Give the sticker / checkmark!"
+  }
+ ],
+ "sections": [
+  {
+   "title": "GOALS",
+   "items": [
+    {
+     "label": "Primary goal",
+     "text": "Have fun, learn safe movement (squat, lunge, hinge, push, pull, core) and build a habit of moving and training with Dad."
+    },
+    {
+     "label": "Secondary goal",
+     "text": "Slow, steady strength gains through more reps, slower reps and harder versions - NOT heavy weight. Good form always beats more reps or more weight."
+    },
+    {
+     "label": "Starting numbers",
+     "text": "Unknown - so the plan starts conservatively. Week 1 is a BASELINE week: the numbers Connor writes down (reps, hold times, squats in 60 sec, max good-form push-ups, longest plank and hang) become his baseline. Targets will be adjusted after Justin sends back each week's results."
+    },
+    {
+     "label": "Phases",
+     "text": "Weeks 1-4: LEARN (learn the movements, 1-2 sets; easy week in week 4)\nWeeks 5-8: BUILD (2-3 sets, harder versions; easy week in week 8)\nWeeks 9-12: CHALLENGE (2-3 sets, harder versions / tiny weight only if EASY; week 12 is a FUN REP-RECORD week compared to week 1 - bodyweight only, NO max lifts)."
+    }
+   ]
+  },
+  {
+   "title": "SCHEDULE",
+   "items": [
+    {
+     "label": "Days",
+     "text": "3 sessions per week (e.g., Mon / Wed / Fri, or fit around sports practices), about 30 minutes each."
+    },
+    {
+     "label": "THE RULE",
+     "text": "Upper and Lower days can be done on back-to-back days (e.g., around practices), but NEVER do two of the same type (Upper + Upper or Lower + Lower) on consecutive days. Aim for at least one full rest day each week, and skip or go light on Lower day right before a game if legs are tired."
+    },
+    {
+     "label": "Lower / Upper rotation",
+     "text": "Alternate Lower and Upper days. Odd weeks (1,3,5,7,9,11): Lower, Upper, Lower. Even weeks (2,4,6,8,10,12): Upper, Lower, Upper. The days keep alternating across weeks (L-U-L | U-L-U | L-U-L ...), and each day type is done 18 times over the 12 weeks."
+    },
+    {
+     "label": "LOWER day",
+     "text": "Squat (box squat to bench to start) | Reverse lunge | Glute bridge | Broomstick hip hinge / RDL (form practice) | Leg extension (bench attachment, lightest setting) | Calf raises | Plank (+ side planks from week 5) | Fun challenge."
+    },
+    {
+     "label": "UPPER day",
+     "text": "Push-ups (incline on rack bar -> bench -> floor) | One-arm row (empty dumbbell handle) | Lat pulldown (light) | Low cable row (light) | Overhead press (broomstick -> empty handles) | Dead hang (flexed-arm hang option from week 9) | Dead bug | Fun challenge."
+    },
+    {
+     "label": "Session length (~30 min)",
+     "text": "5-min warm-up + ~20 min of exercises + 2-min fun challenge + 3-min cool-down. Rest 45-60 sec between sets. To save time, pair two exercises and go back and forth (e.g., squat then plank, push-ups then row)."
+    }
+   ]
+  },
+  {
+   "title": "5-MIN WARM-UP & 3-MIN COOL-DOWN",
+   "items": [
+    {
+     "label": "1. Get warm (2 min)",
+     "text": "Jumping jacks, jog in place, skipping, or jump rope. Make it a game: 'Simon says' or follow-the-leader."
+    },
+    {
+     "label": "2. Mobility (2 min)",
+     "text": "10 arm circles each way, 10 bodyweight squats, 5 inchworms, 5 bird dogs per side, 10 calf raises."
+    },
+    {
+     "label": "3. Practice (1 min)",
+     "text": "5 slow practice reps of the first exercise with no weight (or a broomstick), focusing on form."
+    },
+    {
+     "label": "Cool-down (3 min)",
+     "text": "Easy walk, then gentle stretches held 15-20 sec: quads, hamstrings, calves, chest in a doorway, child's pose. Give the sticker / checkmark!"
+    }
+   ]
+  },
+  {
+   "title": "KEEP IT FUN",
+   "items": [
+    {
+     "label": "Stickers & checkmarks",
+     "text": "Each finished session = a sticker or checkmark on the weekly log. Each fun challenge = a bonus sticker. Finishing the 12 weeks = a celebration (Connor picks the reward)."
+    },
+    {
+     "label": "Games & challenges",
+     "text": "Every session ends with a short fun challenge (bear crawls, wall sits, balance, wheelbarrow walk...). Let Connor pick the music, count reps out loud, or 'coach' Dad for a set."
+    },
+    {
+     "label": "Record board",
+     "text": "Write week-1 baseline numbers on the Progress Log and compare them in week 12. Celebrate effort and good form, not just numbers."
+    }
+   ]
+  },
+  {
+   "title": "PROGRESSION RULES (small steps)",
+   "items": [
+    {
+     "label": "How it works",
+     "text": "Most exercises use 12-15 reps (or a time/per-side target). Keep the same version until ALL sets feel EASY with good form, then make ONE small change next session: add 1-2 reps, add a set, slow the lowering (3 sec), or move to the next harder version."
+    },
+    {
+     "label": "Weight increases",
+     "text": "Only on the handle, machine and bench-attachment exercises, and only after all sets feel EASY with good form: +2.5 lb (or +1.25 lb per handle). Never add weight and reps at the same time. If form slips, go back to the last version."
+    },
+    {
+     "label": "Sets",
+     "text": "1-2 sets in weeks 1-4, building to 2-3 sets in weeks 5-11. Main exercises reach 3 sets; small exercises stay at 1-2."
+    },
+    {
+     "label": "Targets",
+     "text": "Targets in the plan are SUGGESTIONS ONLY. If a target feels HARD, stay at the previous version. If it feels too easy, still only make one small change."
+    },
+    {
+     "label": "Easy (deload) weeks 4 and 8",
+     "text": "Fewer sets (usually 1-2) and easier versions so the body can recover and form stays sharp. Still fun challenges!"
+    },
+    {
+     "label": "Week 12 - fun rep-record week",
+     "text": "Light week plus record tests compared to week 1: max good-form push-ups (same height as week 1), longest good-form plank, squats in 60 sec (same bench), longest dead hang. Bodyweight only. NO one-rep max tests, no heavy maxes, never to failure - stop the first time a rep isn't clean."
+    }
+   ]
+  },
+  {
+   "title": "SAFETY RULES",
+   "items": [
+    {
+     "label": "Adult supervision",
+     "text": "An adult supervises EVERY session. No training alone, and no using the bars, rack or plates without an adult."
+    },
+    {
+     "label": "Form over weight",
+     "text": "Good form always wins. If form breaks down, end the set. Leave 2-3 reps 'in the tank' - nothing to failure."
+    },
+    {
+     "label": "Stop if pain",
+     "text": "Stop immediately for sharp pain or any joint pain (knees, back, shoulders, elbows, wrists, heels). Normal muscle burn/tiredness is OK; pain is not. If pain continues, check with a doctor."
+    },
+    {
+     "label": "No max testing",
+     "text": "No one-rep max (1RM) tests, ever. Progress is measured with good-form reps and hold times."
+    },
+    {
+     "label": "Slow, controlled reps",
+     "text": "About 2-3 seconds down, controlled up. No bouncing, jerking or swinging."
+    },
+    {
+     "label": "Hydrate & recover",
+     "text": "Water before, during and after. Sleep 9-12 hours per night. Regular meals with protein, fruits and vegetables. Rest days matter, especially on heavy practice weeks."
+    },
+    {
+     "label": "Rack safeties set",
+     "text": "Keep the power rack safeties set (and pins locked) whenever the rack is used, including for incline push-ups on the bar. Keep heavy plates and bars stored and out of the way."
+    },
+    {
+     "label": "Environment",
+     "text": "Clear floor space, flat stable shoes, no loose plates on the floor, adult close by at the pull-up bar and dip handles."
+    }
+   ]
+  },
+  {
+   "title": "EQUIPMENT NOTES",
+   "items": [
+    {
+     "label": "Mikolo F4 power rack + safeties",
+     "text": "Bar or safeties set at hip height = incline push-up station (lower it hole by hole as Connor gets stronger). Hold the upright for balance on lunges and calf raises. Safeties always set."
+    },
+    {
+     "label": "Pull-up bar",
+     "text": "Dead hangs (adult lifts him up or he steps up from a sturdy box). From week 9, flexed-arm hang: step up so the chin is over the bar and hold. No band needed. Let go before the grip gives out."
+    },
+    {
+     "label": "Plate-loaded lat pulldown & low cable row",
+     "text": "Start with NOTHING loaded - the handle/carriage still has some resistance. Write it down: ___ lb. Add 2.5 lb only when all sets feel EASY."
+    },
+    {
+     "label": "Landmine",
+     "text": "Not used in this plan - it needs the 45 lb Olympic bar, which is too heavy for now."
+    },
+    {
+     "label": "Dip handles",
+     "text": "Support holds only (3 x 5-10 sec, arms straight, shoulders down) as an occasional fun challenge from week 5. No dips yet. Skip if shoulders feel uncomfortable."
+    },
+    {
+     "label": "Flat bench + leg extension attachment",
+     "text": "Bench = box-squat target, row support, and incline push-up station. Leg extension: lightest setting only to start (write the load: ___ lb), slow and controlled, +2.5 lb only when all sets feel EASY."
+    },
+    {
+     "label": "35 lb bar & 45 lb Olympic bar",
+     "text": "Too heavy for now - DON'T USE. Use a broomstick for bar practice."
+    },
+    {
+     "label": "EZ curl bar",
+     "text": "Probably too heavy too (most EZ bars weigh about 15-25 lb - weigh it: ___ lb). Not in the plan - only if comfortable later (light curls, good form)."
+    },
+    {
+     "label": "Plate-loading dumbbell handles",
+     "text": "Weigh one empty handle: ___ lb (often ~3-6 lb). Used empty for rows, overhead press, goblet squats and RDLs. Add the smallest plate only when all sets feel EASY."
+    },
+    {
+     "label": "Plates on hand",
+     "text": "2 x 45 lb, 4 x 10 lb, 4 x 5 lb. The 45 lb plate laid flat is the step for calf raises. 5 lb plates are too big a jump for a 9-year-old on most exercises."
+    },
+    {
+     "label": "Fixed dumbbells 25s and 45s",
+     "text": "Too heavy - don't use."
+    },
+    {
+     "label": "No TRX",
+     "text": "Not needed; incline push-ups on the rack bar and the pulldown/row cover pulling and pushing."
+    }
+   ]
+  },
+  {
+   "title": "SUGGESTED PURCHASES",
+   "items": [
+    {
+     "label": "Pair of 2.5 lb plates",
+     "text": "Recommended. Allows small +2.5 lb steps on the dumbbell handles, pulldown, cable row and leg extension. Very low cost."
+    },
+    {
+     "label": "Nice to have: 1.25 lb plates",
+     "text": "Even smaller steps (e.g., +1.25 lb per handle on the overhead press)."
+    },
+    {
+     "label": "Stickers + a small calendar",
+     "text": "For tracking sessions and fun challenges."
+    }
+   ]
+  }
+ ],
+ "guide": [
+  {
+   "name": "Bird dog (warm-up)",
+   "day": "Warm-up",
+   "how": "On hands and knees, back flat like a table. Reach one arm forward and the opposite leg back, hold 2 sec without tipping, return and switch."
+  },
+  {
+   "name": "Inchworm (warm-up)",
+   "day": "Warm-up",
+   "how": "Stand, fold forward and put hands on the floor, walk the hands out to a push-up position, then walk the feet up to the hands and stand."
+  },
+  {
+   "name": "Box squat -> bodyweight squat -> goblet squat",
+   "day": "Lower",
+   "how": "Feet shoulder width, chest up. Sit back and down until you lightly touch the bench, then stand up tall - no plopping. Later: same squat without the bench, then with a pause, then holding one empty dumbbell handle at the chest (goblet) only if all sets feel EASY."
+  },
+  {
+   "name": "Reverse lunge / split squat",
+   "day": "Lower",
+   "how": "Stand tall, step one foot back and lower the back knee gently toward the floor. Front knee stays over the middle of the foot. Push through the front heel to come back up. Hold the rack upright for balance at first. Split squat = feet stay in place, just go down and up."
+  },
+  {
+   "name": "Glute bridge (and single-leg bridge)",
+   "day": "Lower",
+   "how": "Lie on your back, knees bent, feet flat. Squeeze your glutes and push through your heels to lift your hips until knees, hips and shoulders line up, pause, lower slowly. Single-leg: one foot up, same thing."
+  },
+  {
+   "name": "Broomstick hip hinge / RDL",
+   "day": "Lower",
+   "how": "Hinge: broomstick along the back touching the head, upper back and tailbone. Soft knees, push hips BACK until you feel the back of the legs stretch, keep all 3 touch points, stand up by squeezing glutes. RDL: hold the stick (later 2 empty handles) at the thighs, slide it down to just below the knees with a flat back, stand up."
+  },
+  {
+   "name": "Leg extension (bench attachment, light)",
+   "day": "Lower",
+   "how": "Sit on the bench with the pad on the front of the ankles. Slowly straighten the knees, squeeze for a second, and lower slowly - no kicking or swinging. Lightest setting to start."
+  },
+  {
+   "name": "Calf raises",
+   "day": "Lower",
+   "how": "Hold the rack for balance. Rise up onto your toes, pause, lower slowly. Later: balls of feet on the edge of a 45 lb plate laid flat, then one leg at a time."
+  },
+  {
+   "name": "Plank and side plank",
+   "day": "Lower",
+   "how": "Plank: forearms on the floor, body in a straight line head to heels, squeeze glutes and belly, breathe. Side plank: on one forearm and the side of the feet (or knees to make it easier), hips up in a straight line. Stop when hips sag."
+  },
+  {
+   "name": "Push-ups (incline -> floor)",
+   "day": "Upper",
+   "how": "Hands on the rack bar/safeties (set at hip height, pins locked) a bit wider than shoulders, body straight like a plank. Lower your chest to the bar and push back up. Lower the bar one hole at a time, then hands on the bench, then the floor. Higher hands = easier."
+  },
+  {
+   "name": "One-arm row (dumbbell handle)",
+   "day": "Upper",
+   "how": "One hand and the same-side knee on the bench, flat back. Hold an empty handle in the other hand, pull it up to the hip, squeeze the shoulder blade, lower slowly. Do all reps, then switch."
+  },
+  {
+   "name": "Lat pulldown (light)",
+   "day": "Upper",
+   "how": "Grip the bar a little wider than shoulders. Pull it down to the upper chest by driving the elbows down, without leaning back or yanking, then let it rise slowly. Start with nothing loaded."
+  },
+  {
+   "name": "Low cable row (light)",
+   "day": "Upper",
+   "how": "Sit tall with a slight knee bend. Pull the handle to your belly while squeezing your shoulder blades together, then let the arms straighten slowly. Start with nothing loaded."
+  },
+  {
+   "name": "Overhead press (broomstick -> empty handles)",
+   "day": "Upper",
+   "how": "Stand tall, squeeze glutes, ribs down. Hold the broomstick (later 2 empty handles) at the shoulders, press straight up until arms are by the ears, lower slowly to the shoulders."
+  },
+  {
+   "name": "Dead hang / flexed-arm hang",
+   "day": "Upper",
+   "how": "Dead hang: adult lifts him to the bar (or step up), hands shoulder width, arms long, shoulders pulled slightly away from ears, hold. Flexed-arm hang (week 9+): step up so the chin is over the bar, hold. Let go before the grip gives out and step down - don't drop."
+  },
+  {
+   "name": "Dead bug",
+   "day": "Upper",
+   "how": "Lie on your back with arms reaching up and knees bent at 90 degrees. Keep the low back pressed into the floor and slowly reach the opposite arm and leg out, breathe out, return and switch sides."
+  },
+  {
+   "name": "Dip-handle support hold (fun challenge)",
+   "day": "Upper",
+   "how": "Adult close by. Hands on the dip handles, jump or step up to straight arms, shoulders pushed DOWN away from the ears, hold 5-10 sec. No dipping. Skip if shoulders feel uncomfortable."
+  },
+  {
+   "name": "Fun challenges",
+   "day": "Both",
+   "how": "Short games at the end of each session (bear crawl, crab walk, wall sit, balance, wheelbarrow walk, plank high-fives...). Good form beats speed. Each one earns a sticker or checkmark."
+  }
+ ],
+ "weeks": [
+  {
+   "week": 1,
+   "phase": "Learn - BASELINE WEEK",
+   "sessions": [
+    {
+     "num": 1,
+     "day": "Mon",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 2,
+       "reps": "12",
+       "target": "Box squat - sit to bench, stand",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 1,
+       "reps": "8/leg",
+       "target": "Reverse lunge, hold rack for balance",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 2,
+       "reps": "12",
+       "target": "Glute bridge",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Broomstick on back (3 touch points)",
+       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Lightest setting = ___ lb",
+       "cue": "Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 2,
+       "reps": "15",
+       "target": "On floor, hand on rack",
+       "cue": "Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank",
+       "sets": 2,
+       "reps": "15-20 sec",
+       "target": "Forearm plank",
+       "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE / BASELINE: Squats in 60 sec",
+      "sets": 1,
+      "reps": "Good-form reps in 60 sec",
+      "target": "Bodyweight, touch the SAME bench each rep",
+      "cue": "BASELINE TEST. Only count good reps (touch bench, stand tall). Note the bench height so week 12 is a fair comparison. Sticker!",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 1
+    },
+    {
+     "num": 2,
+     "day": "Wed",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 2,
+       "reps": "10-12",
+       "target": "Hands on rack bar at hip height",
+       "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 2,
+       "reps": "12/arm",
+       "target": "Empty handle = ___ lb",
+       "cue": "One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Nothing loaded = ___ lb",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Nothing loaded = ___ lb",
+       "cue": "Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Broomstick",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Dead hang - BASELINE TEST",
+       "sets": 1,
+       "reps": "Longest good hang (sec)",
+       "target": "Dead hang, adult helps reach bar",
+       "cue": "TEST: Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 2,
+       "reps": "6/side",
+       "target": "Dead bug",
+       "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE / BASELINE: Max push-ups",
+      "sets": 1,
+      "reps": "Max GOOD-FORM reps",
+      "target": "Hands on rack bar at ___ height (write it)",
+      "cue": "BASELINE TEST. Stop the set the first time a rep isn't clean (hips sag, half rep). Never to failure. Sticker!",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 2
+    },
+    {
+     "num": 3,
+     "day": "Fri",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 2,
+       "reps": "12",
+       "target": "Box squat - sit to bench, stand",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 1,
+       "reps": "8/leg",
+       "target": "Reverse lunge, hold rack for balance",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 2,
+       "reps": "12",
+       "target": "Glute bridge",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Broomstick on back (3 touch points)",
+       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Lightest setting = ___ lb",
+       "cue": "Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 2,
+       "reps": "15",
+       "target": "On floor, hand on rack",
+       "cue": "Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank - BASELINE TEST",
+       "sets": 1,
+       "reps": "Longest GOOD-FORM hold (sec)",
+       "target": "Forearm plank, stop when hips sag",
+       "cue": "TEST: Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Animal-walk race vs. Dad (bear or crab): 20 ft",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 3
+    }
+   ],
+   "deload": false,
+   "record": false,
+   "baseline": true
+  },
+  {
+   "week": 2,
+   "phase": "Learn",
+   "sessions": [
+    {
+     "num": 4,
+     "day": "Mon",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Rack bar at hip height",
+       "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 2,
+       "reps": "12/arm",
+       "target": "Empty handle",
+       "cue": "One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Nothing loaded",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Nothing loaded",
+       "cue": "Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Broomstick",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Dead hang (pull-up bar)",
+       "sets": 2,
+       "reps": "10-15 sec",
+       "target": "Dead hang",
+       "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 2,
+       "reps": "8/side",
+       "target": "Dead bug",
+       "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Plank shoulder taps: 10 each hand",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 1
+    },
+    {
+     "num": 5,
+     "day": "Wed",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 2,
+       "reps": "12",
+       "target": "Box squat to bench",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 2,
+       "reps": "8/leg",
+       "target": "Reverse lunge, hold rack",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 2,
+       "reps": "15",
+       "target": "Glute bridge",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Broomstick hip hinge",
+       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Lightest setting",
+       "cue": "Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 2,
+       "reps": "15",
+       "target": "On floor",
+       "cue": "Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank",
+       "sets": 2,
+       "reps": "20 sec",
+       "target": "Forearm plank",
+       "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Bear crawl: 2 trips of 20 ft",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 2
+    },
+    {
+     "num": 6,
+     "day": "Fri",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Rack bar at hip height",
+       "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 2,
+       "reps": "12/arm",
+       "target": "Empty handle",
+       "cue": "One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Nothing loaded",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Nothing loaded",
+       "cue": "Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Broomstick",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Dead hang (pull-up bar)",
+       "sets": 2,
+       "reps": "10-15 sec",
+       "target": "Dead hang",
+       "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 2,
+       "reps": "8/side",
+       "target": "Dead bug",
+       "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Superman hold: 3 x 10 sec",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 3
+    }
+   ],
+   "deload": false,
+   "record": false,
+   "baseline": false
+  },
+  {
+   "week": 3,
+   "phase": "Learn",
+   "sessions": [
+    {
+     "num": 7,
+     "day": "Mon",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "Box squat, 3-sec lower",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 2,
+       "reps": "10/leg",
+       "target": "Reverse lunge, light hand on rack",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 2,
+       "reps": "15",
+       "target": "Glute bridge, 2-sec squeeze",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Broomstick hip hinge",
+       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "Lightest setting",
+       "cue": "Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 2,
+       "reps": "15-20",
+       "target": "On floor, 1-sec hold at top",
+       "cue": "Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank",
+       "sets": 2,
+       "reps": "20-25 sec",
+       "target": "Forearm plank",
+       "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Crab walk: 2 trips of 20 ft",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 1
+    },
+    {
+     "num": 8,
+     "day": "Wed",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "Rack bar at hip height",
+       "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 2,
+       "reps": "12-15/arm",
+       "target": "Empty handle",
+       "cue": "One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "Nothing loaded",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "Nothing loaded",
+       "cue": "Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Broomstick",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Dead hang (pull-up bar)",
+       "sets": 2,
+       "reps": "15 sec",
+       "target": "Dead hang",
+       "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 2,
+       "reps": "8/side",
+       "target": "Dead bug, slow",
+       "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Plank shoulder taps: 10 each hand",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 2
+    },
+    {
+     "num": 9,
+     "day": "Fri",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "Box squat, 3-sec lower",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 2,
+       "reps": "10/leg",
+       "target": "Reverse lunge, light hand on rack",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 2,
+       "reps": "15",
+       "target": "Glute bridge, 2-sec squeeze",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Broomstick hip hinge",
+       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "Lightest setting",
+       "cue": "Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 2,
+       "reps": "15-20",
+       "target": "On floor, 1-sec hold at top",
+       "cue": "Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank",
+       "sets": 2,
+       "reps": "20-25 sec",
+       "target": "Forearm plank",
+       "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Animal-walk race vs. Dad (bear or crab): 20 ft",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 3
+    }
+   ],
+   "deload": false,
+   "record": false,
+   "baseline": false
+  },
+  {
+   "week": 4,
+   "phase": "Learn - EASY (DELOAD) WEEK",
+   "sessions": [
+    {
+     "num": 10,
+     "day": "Mon",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 1,
+       "reps": "10",
+       "target": "Rack bar at hip height (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 1,
+       "reps": "12/arm",
+       "target": "Empty handle",
+       "cue": "EASY WEEK: fewer sets, easier version. One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Nothing loaded",
+       "cue": "EASY WEEK: fewer sets, easier version. Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Nothing loaded",
+       "cue": "EASY WEEK: fewer sets, easier version. Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Broomstick",
+       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Dead hang (pull-up bar)",
+       "sets": 1,
+       "reps": "10 sec",
+       "target": "Dead hang",
+       "cue": "EASY WEEK: fewer sets, easier version. Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 1,
+       "reps": "6/side",
+       "target": "Dead bug",
+       "cue": "EASY WEEK: fewer sets, easier version. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Plank shoulder taps: 10 each hand",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 1
+    },
+    {
+     "num": 11,
+     "day": "Wed",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 1,
+       "reps": "12",
+       "target": "Box squat (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 1,
+       "reps": "8/leg",
+       "target": "Reverse lunge (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 1,
+       "reps": "12",
+       "target": "Glute bridge",
+       "cue": "EASY WEEK: fewer sets, easier version. Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Broomstick hip hinge",
+       "cue": "EASY WEEK: fewer sets, easier version. Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Lightest setting",
+       "cue": "EASY WEEK: fewer sets, easier version. Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 1,
+       "reps": "15",
+       "target": "On floor",
+       "cue": "EASY WEEK: fewer sets, easier version. Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank",
+       "sets": 1,
+       "reps": "20 sec",
+       "target": "Forearm plank",
+       "cue": "EASY WEEK: fewer sets, easier version. Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Bear crawl: 2 trips of 20 ft",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 2
+    },
+    {
+     "num": 12,
+     "day": "Fri",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 1,
+       "reps": "10",
+       "target": "Rack bar at hip height (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 1,
+       "reps": "12/arm",
+       "target": "Empty handle",
+       "cue": "EASY WEEK: fewer sets, easier version. One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Nothing loaded",
+       "cue": "EASY WEEK: fewer sets, easier version. Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Nothing loaded",
+       "cue": "EASY WEEK: fewer sets, easier version. Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Broomstick",
+       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Dead hang (pull-up bar)",
+       "sets": 1,
+       "reps": "10 sec",
+       "target": "Dead hang",
+       "cue": "EASY WEEK: fewer sets, easier version. Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 1,
+       "reps": "6/side",
+       "target": "Dead bug",
+       "cue": "EASY WEEK: fewer sets, easier version. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Superman hold: 3 x 10 sec",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 3
+    }
+   ],
+   "deload": true,
+   "record": false,
+   "baseline": false
+  },
+  {
+   "week": 5,
+   "phase": "Build",
+   "sessions": [
+    {
+     "num": 13,
+     "day": "Mon",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "Bodyweight squat (no bench) if box was EASY",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 2,
+       "reps": "10/leg",
+       "target": "Reverse lunge, no hands",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 2,
+       "reps": "15",
+       "target": "Bridge, 2-sec squeeze",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Broomstick RDL (stick in hands)",
+       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "Lightest (+2.5 ONLY if 2x15 EASY)",
+       "cue": "Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 2,
+       "reps": "15",
+       "target": "Balls of feet on 45 lb plate edge",
+       "cue": "Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank + side planks",
+       "sets": 2,
+       "reps": "20s front + 10s/side",
+       "target": "1 round = front, left, right",
+       "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Crab walk: 2 trips of 20 ft",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 1
+    },
+    {
+     "num": 14,
+     "day": "Wed",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Bar 1-2 holes LOWER if 2x15 was EASY",
+       "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 2,
+       "reps": "15/arm",
+       "target": "Empty, or +2.5 lb if all EASY",
+       "cue": "One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "Empty, or +2.5 if all EASY",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "Empty, or +2.5 if all EASY",
+       "cue": "Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 2,
+       "reps": "12",
+       "target": "2 empty handles if stick is EASY",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Dead hang (pull-up bar)",
+       "sets": 2,
+       "reps": "15-20 sec",
+       "target": "Dead hang",
+       "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 2,
+       "reps": "10/side",
+       "target": "Dead bug, slow",
+       "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Dip-handle support hold: 3 x 5-10 sec (arms straight, shoulders down)",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 16
+     },
+     "note": null,
+     "dayIndex": 2
+    },
+    {
+     "num": 15,
+     "day": "Fri",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "Bodyweight squat (no bench) if box was EASY",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 2,
+       "reps": "10/leg",
+       "target": "Reverse lunge, no hands",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 2,
+       "reps": "15",
+       "target": "Bridge, 2-sec squeeze",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Broomstick RDL (stick in hands)",
+       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "Lightest (+2.5 ONLY if 2x15 EASY)",
+       "cue": "Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 2,
+       "reps": "15",
+       "target": "Balls of feet on 45 lb plate edge",
+       "cue": "Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank + side planks",
+       "sets": 2,
+       "reps": "20s front + 10s/side",
+       "target": "1 round = front, left, right",
+       "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Animal-walk race vs. Dad (bear or crab): 20 ft",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 3
+    }
+   ],
+   "deload": false,
+   "record": false,
+   "baseline": false
+  },
+  {
+   "week": 6,
+   "phase": "Build",
+   "sessions": [
+    {
+     "num": 16,
+     "day": "Mon",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 3,
+       "reps": "10-12",
+       "target": "Same or 1 hole lower",
+       "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 3,
+       "reps": "12/arm",
+       "target": "Same as last week",
+       "cue": "One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "2 empty handles",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Dead hang (pull-up bar)",
+       "sets": 2,
+       "reps": "20 sec",
+       "target": "Dead hang",
+       "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 2,
+       "reps": "10/side",
+       "target": "Dead bug + bird dog 6/side",
+       "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Plank shoulder taps: 10 each hand",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 1
+    },
+    {
+     "num": 17,
+     "day": "Wed",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 3,
+       "reps": "12",
+       "target": "Bodyweight squat",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 2,
+       "reps": "12/leg",
+       "target": "Reverse lunge, no hands",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 3,
+       "reps": "12",
+       "target": "Bridge, 2-sec squeeze",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Broomstick RDL",
+       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 2,
+       "reps": "15-20",
+       "target": "On plate edge",
+       "cue": "Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank + side planks",
+       "sets": 2,
+       "reps": "25s + 10s/side",
+       "target": "Front, then each side",
+       "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Bear crawl: 2 trips of 20 ft",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 2
+    },
+    {
+     "num": 18,
+     "day": "Fri",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 3,
+       "reps": "10-12",
+       "target": "Same or 1 hole lower",
+       "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 3,
+       "reps": "12/arm",
+       "target": "Same as last week",
+       "cue": "One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "2 empty handles",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Dead hang (pull-up bar)",
+       "sets": 2,
+       "reps": "20 sec",
+       "target": "Dead hang",
+       "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 2,
+       "reps": "10/side",
+       "target": "Dead bug + bird dog 6/side",
+       "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Superman hold: 3 x 10 sec",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 3
+    }
+   ],
+   "deload": false,
+   "record": false,
+   "baseline": false
+  },
+  {
+   "week": 7,
+   "phase": "Build",
+   "sessions": [
+    {
+     "num": 19,
+     "day": "Mon",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 3,
+       "reps": "12-15",
+       "target": "Bodyweight squat, 3-sec lower",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 3,
+       "reps": "10/leg",
+       "target": "Split squat or reverse lunge",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 3,
+       "reps": "15",
+       "target": "Marching bridge (hold top, march)",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 3,
+       "reps": "12",
+       "target": "Broomstick RDL, 3-sec lower",
+       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 2,
+       "reps": "20",
+       "target": "On plate edge, slow down",
+       "cue": "Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank + side planks",
+       "sets": 2,
+       "reps": "25s + 15s/side",
+       "target": "Front, then each side",
+       "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Crab walk: 2 trips of 20 ft",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 1
+    },
+    {
+     "num": 20,
+     "day": "Wed",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 3,
+       "reps": "12",
+       "target": "Same or 1 hole lower",
+       "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 3,
+       "reps": "12-15/arm",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 3,
+       "reps": "12",
+       "target": "Same as last week",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 3,
+       "reps": "12",
+       "target": "Same as last week",
+       "cue": "Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 3,
+       "reps": "12",
+       "target": "2 empty handles",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Dead hang (pull-up bar)",
+       "sets": 3,
+       "reps": "15-20 sec",
+       "target": "Dead hang",
+       "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 2,
+       "reps": "12/side",
+       "target": "Dead bug, 3-sec reach",
+       "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Dip-handle support hold: 3 x 5-10 sec (arms straight, shoulders down)",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 16
+     },
+     "note": null,
+     "dayIndex": 2
+    },
+    {
+     "num": 21,
+     "day": "Fri",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 3,
+       "reps": "12-15",
+       "target": "Bodyweight squat, 3-sec lower",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 3,
+       "reps": "10/leg",
+       "target": "Split squat or reverse lunge",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 3,
+       "reps": "15",
+       "target": "Marching bridge (hold top, march)",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 3,
+       "reps": "12",
+       "target": "Broomstick RDL, 3-sec lower",
+       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 2,
+       "reps": "20",
+       "target": "On plate edge, slow down",
+       "cue": "Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank + side planks",
+       "sets": 2,
+       "reps": "25s + 15s/side",
+       "target": "Front, then each side",
+       "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Animal-walk race vs. Dad (bear or crab): 20 ft",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 3
+    }
+   ],
+   "deload": false,
+   "record": false,
+   "baseline": false
+  },
+  {
+   "week": 8,
+   "phase": "Build - EASY (DELOAD) WEEK",
+   "sessions": [
+    {
+     "num": 22,
+     "day": "Mon",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 2,
+       "reps": "10",
+       "target": "Bar 1-2 holes HIGHER (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 2,
+       "reps": "12/arm",
+       "target": "Empty handle",
+       "cue": "EASY WEEK: fewer sets, easier version. One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Nothing loaded",
+       "cue": "EASY WEEK: fewer sets, easier version. Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Nothing loaded",
+       "cue": "EASY WEEK: fewer sets, easier version. Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Broomstick (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Dead hang (pull-up bar)",
+       "sets": 1,
+       "reps": "10 sec",
+       "target": "Dead hang",
+       "cue": "EASY WEEK: fewer sets, easier version. Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 1,
+       "reps": "8/side",
+       "target": "Dead bug",
+       "cue": "EASY WEEK: fewer sets, easier version. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Plank shoulder taps: 10 each hand",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 1
+    },
+    {
+     "num": 23,
+     "day": "Wed",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 2,
+       "reps": "12",
+       "target": "Bodyweight squat (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 1,
+       "reps": "10/leg",
+       "target": "Reverse lunge (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 2,
+       "reps": "12",
+       "target": "Glute bridge",
+       "cue": "EASY WEEK: fewer sets, easier version. Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Broomstick RDL (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Lightest setting",
+       "cue": "EASY WEEK: fewer sets, easier version. Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 1,
+       "reps": "15",
+       "target": "On floor",
+       "cue": "EASY WEEK: fewer sets, easier version. Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank + side planks",
+       "sets": 1,
+       "reps": "20s + 10s/side",
+       "target": "Easy",
+       "cue": "EASY WEEK: fewer sets, easier version. Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Bear crawl: 2 trips of 20 ft",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 2
+    },
+    {
+     "num": 24,
+     "day": "Fri",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 2,
+       "reps": "10",
+       "target": "Bar 1-2 holes HIGHER (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 2,
+       "reps": "12/arm",
+       "target": "Empty handle",
+       "cue": "EASY WEEK: fewer sets, easier version. One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Nothing loaded",
+       "cue": "EASY WEEK: fewer sets, easier version. Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Nothing loaded",
+       "cue": "EASY WEEK: fewer sets, easier version. Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Broomstick (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Dead hang (pull-up bar)",
+       "sets": 1,
+       "reps": "10 sec",
+       "target": "Dead hang",
+       "cue": "EASY WEEK: fewer sets, easier version. Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 1,
+       "reps": "8/side",
+       "target": "Dead bug",
+       "cue": "EASY WEEK: fewer sets, easier version. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Superman hold: 3 x 10 sec",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 3
+    }
+   ],
+   "deload": true,
+   "record": false,
+   "baseline": false
+  },
+  {
+   "week": 9,
+   "phase": "Challenge",
+   "sessions": [
+    {
+     "num": 25,
+     "day": "Mon",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 3,
+       "reps": "12",
+       "target": "Pause squat (2 sec) or goblet w/ empty handle if EASY",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 3,
+       "reps": "10/leg",
+       "target": "Split squat, 2-sec lower",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 2,
+       "reps": "8/leg",
+       "target": "Single-leg bridge",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 2,
+       "reps": "12",
+       "target": "2 empty handles ONLY if stick form is perfect",
+       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 2,
+       "reps": "10/leg",
+       "target": "Single-leg, hand on rack",
+       "cue": "Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank + side planks",
+       "sets": 2,
+       "reps": "30s + 15s/side",
+       "target": "Front, then each side",
+       "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Crab walk: 2 trips of 20 ft",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 1
+    },
+    {
+     "num": 26,
+     "day": "Wed",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 3,
+       "reps": "10-12",
+       "target": "Hands on bench (or lowest comfy bar)",
+       "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 3,
+       "reps": "12/arm",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 3,
+       "reps": "12-15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 3,
+       "reps": "12-15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 3,
+       "reps": "12",
+       "target": "Empty handles (+1.25/2.5 only if EASY)",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Hang: flexed-arm or dead hang",
+       "sets": 2,
+       "reps": "5-10 sec",
+       "target": "Flexed-arm hang (chin over bar from step) or 20s dead hang",
+       "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 2,
+       "reps": "12/side",
+       "target": "Dead bug, 3-sec reach",
+       "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Dip-handle support hold: 3 x 5-10 sec (arms straight, shoulders down)",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 16
+     },
+     "note": null,
+     "dayIndex": 2
+    },
+    {
+     "num": 27,
+     "day": "Fri",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 3,
+       "reps": "12",
+       "target": "Pause squat (2 sec) or goblet w/ empty handle if EASY",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 3,
+       "reps": "10/leg",
+       "target": "Split squat, 2-sec lower",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 2,
+       "reps": "8/leg",
+       "target": "Single-leg bridge",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 2,
+       "reps": "12",
+       "target": "2 empty handles ONLY if stick form is perfect",
+       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 2,
+       "reps": "10/leg",
+       "target": "Single-leg, hand on rack",
+       "cue": "Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank + side planks",
+       "sets": 2,
+       "reps": "30s + 15s/side",
+       "target": "Front, then each side",
+       "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Animal-walk race vs. Dad (bear or crab): 20 ft",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 3
+    }
+   ],
+   "deload": false,
+   "record": false,
+   "baseline": false
+  },
+  {
+   "week": 10,
+   "phase": "Challenge",
+   "sessions": [
+    {
+     "num": 28,
+     "day": "Mon",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 3,
+       "reps": "10-12",
+       "target": "Hands on bench",
+       "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 3,
+       "reps": "12-15/arm",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 3,
+       "reps": "12-15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 3,
+       "reps": "12-15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 3,
+       "reps": "12-15",
+       "target": "Same, or small jump if EASY",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Hang: flexed-arm or dead hang",
+       "sets": 2,
+       "reps": "5-10 sec",
+       "target": "Flexed-arm hang or dead hang",
+       "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 2,
+       "reps": "12/side",
+       "target": "Dead bug + bird dog 8/side",
+       "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Plank shoulder taps: 10 each hand",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 1
+    },
+    {
+     "num": 29,
+     "day": "Wed",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 3,
+       "reps": "12-15",
+       "target": "Pause or goblet squat (empty handle)",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 3,
+       "reps": "12/leg",
+       "target": "Split squat / reverse lunge",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 3,
+       "reps": "8/leg",
+       "target": "Single-leg bridge",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 3,
+       "reps": "12",
+       "target": "RDL: empty handles or broomstick",
+       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 2,
+       "reps": "12/leg",
+       "target": "Single-leg, hand on rack",
+       "cue": "Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank + side planks",
+       "sets": 2,
+       "reps": "30s + 15s/side",
+       "target": "Front, then each side",
+       "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Bear crawl: 2 trips of 20 ft",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 2
+    },
+    {
+     "num": 30,
+     "day": "Fri",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 3,
+       "reps": "10-12",
+       "target": "Hands on bench",
+       "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 3,
+       "reps": "12-15/arm",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 3,
+       "reps": "12-15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 3,
+       "reps": "12-15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 3,
+       "reps": "12-15",
+       "target": "Same, or small jump if EASY",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Hang: flexed-arm or dead hang",
+       "sets": 2,
+       "reps": "5-10 sec",
+       "target": "Flexed-arm hang or dead hang",
+       "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 2,
+       "reps": "12/side",
+       "target": "Dead bug + bird dog 8/side",
+       "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Superman hold: 3 x 10 sec",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 3
+    }
+   ],
+   "deload": false,
+   "record": false,
+   "baseline": false
+  },
+  {
+   "week": 11,
+   "phase": "Challenge",
+   "sessions": [
+    {
+     "num": 31,
+     "day": "Mon",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 3,
+       "reps": "12-15",
+       "target": "Goblet squat: handle +2.5 lb ONLY if all EASY",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 3,
+       "reps": "12/leg",
+       "target": "Holding 2 empty handles ONLY if EASY",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 3,
+       "reps": "10/leg",
+       "target": "Single-leg bridge",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 3,
+       "reps": "12-15",
+       "target": "RDL: empty handles or broomstick",
+       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 2,
+       "reps": "12-15/leg",
+       "target": "Single-leg, hand on rack",
+       "cue": "Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank + side planks",
+       "sets": 3,
+       "reps": "30s + 15s/side",
+       "target": "Front, then each side",
+       "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Crab walk: 2 trips of 20 ft",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 1
+    },
+    {
+     "num": 32,
+     "day": "Wed",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 3,
+       "reps": "8-12",
+       "target": "Bench, or floor if bench 3x12 EASY",
+       "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 3,
+       "reps": "15/arm",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 3,
+       "reps": "15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 3,
+       "reps": "15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 3,
+       "reps": "12-15",
+       "target": "Same, or small jump if EASY",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Hang: flexed-arm or dead hang",
+       "sets": 3,
+       "reps": "5-10 sec",
+       "target": "Flexed-arm hang or dead hang",
+       "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 3,
+       "reps": "10/side",
+       "target": "Dead bug, 3-sec reach",
+       "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Dip-handle support hold: 3 x 5-10 sec (arms straight, shoulders down)",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 16
+     },
+     "note": null,
+     "dayIndex": 2
+    },
+    {
+     "num": 33,
+     "day": "Fri",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 3,
+       "reps": "12-15",
+       "target": "Goblet squat: handle +2.5 lb ONLY if all EASY",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 3,
+       "reps": "12/leg",
+       "target": "Holding 2 empty handles ONLY if EASY",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 3,
+       "reps": "10/leg",
+       "target": "Single-leg bridge",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 3,
+       "reps": "12-15",
+       "target": "RDL: empty handles or broomstick",
+       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Same, or +2.5 if EASY",
+       "cue": "Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 2,
+       "reps": "12-15/leg",
+       "target": "Single-leg, hand on rack",
+       "cue": "Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank + side planks",
+       "sets": 3,
+       "reps": "30s + 15s/side",
+       "target": "Front, then each side",
+       "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "FUN CHALLENGE: Animal-walk race vs. Dad (bear or crab): 20 ft",
+      "sets": 1,
+      "reps": "Do it / beat it",
+      "target": "Bodyweight",
+      "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 3
+    }
+   ],
+   "deload": false,
+   "record": false,
+   "baseline": false
+  },
+  {
+   "week": 12,
+   "phase": "Challenge - FUN REP-RECORD WEEK",
+   "sessions": [
+    {
+     "num": 34,
+     "day": "Mon",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 1,
+       "reps": "10",
+       "target": "Easy height (warm-up for test)",
+       "cue": "RECORD WEEK: light and fun. Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 1,
+       "reps": "12/arm",
+       "target": "Empty handle (easy)",
+       "cue": "RECORD WEEK: light and fun. One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Nothing loaded (easy)",
+       "cue": "RECORD WEEK: light and fun. Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Nothing loaded (easy)",
+       "cue": "RECORD WEEK: light and fun. Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Broomstick (easy)",
+       "cue": "RECORD WEEK: light and fun. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Dead hang - RECORD TEST (vs. week 1)",
+       "sets": 1,
+       "reps": "Longest good hang (sec)",
+       "target": "Dead hang, adult helps reach bar",
+       "cue": "TEST: Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 1,
+       "reps": "8/side",
+       "target": "Dead bug (easy)",
+       "cue": "RECORD WEEK: light and fun. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "RECORD: Max push-ups (vs. week 1)",
+      "sets": 1,
+      "reps": "Max GOOD-FORM reps",
+      "target": "SAME height as week 1 (bonus: try floor)",
+      "cue": "RECORD TEST. Same height as week 1 so you can compare. Stop the first time a rep isn't clean. Big sticker!",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 1
+    },
+    {
+     "num": 35,
+     "day": "Wed",
+     "type": "Lower",
+     "exercises": [
+      {
+       "name": "Squat",
+       "sets": 2,
+       "reps": "10",
+       "target": "Bodyweight squat (easy)",
+       "cue": "RECORD WEEK: light and fun. Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "guide": 2
+      },
+      {
+       "name": "Reverse lunge",
+       "sets": 1,
+       "reps": "8/leg",
+       "target": "Reverse lunge (easy)",
+       "cue": "RECORD WEEK: light and fun. Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the rack if wobbly.",
+       "guide": 3
+      },
+      {
+       "name": "Glute bridge",
+       "sets": 1,
+       "reps": "15",
+       "target": "Glute bridge (easy)",
+       "cue": "RECORD WEEK: light and fun. Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "guide": 4
+      },
+      {
+       "name": "Hip hinge / RDL (form practice)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Broomstick RDL (easy)",
+       "cue": "RECORD WEEK: light and fun. Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "guide": 5
+      },
+      {
+       "name": "Leg extension (bench attachment, light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Lightest setting",
+       "cue": "RECORD WEEK: light and fun. Slow: 2 sec up, squeeze, 3 sec down. No kicking. +2.5 lb only after all sets feel EASY with good form.",
+       "guide": 6
+      },
+      {
+       "name": "Calf raises",
+       "sets": 1,
+       "reps": "20",
+       "target": "On floor (easy)",
+       "cue": "RECORD WEEK: light and fun. Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "guide": 7
+      },
+      {
+       "name": "Plank - RECORD TEST (vs. week 1)",
+       "sets": 1,
+       "reps": "Longest GOOD-FORM hold (sec)",
+       "target": "Forearm plank, stop when hips sag",
+       "cue": "TEST: Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "guide": 8
+      }
+     ],
+     "challenge": {
+      "name": "RECORD: Squats in 60 sec (vs. week 1)",
+      "sets": 1,
+      "reps": "Good-form reps in 60 sec",
+      "target": "Bodyweight, SAME bench as week 1",
+      "cue": "RECORD TEST. Same bench as week 1. Only good reps count. Bodyweight only - no heavy maxes. Big sticker!",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 2
+    },
+    {
+     "num": 36,
+     "day": "Fri",
+     "type": "Upper",
+     "exercises": [
+      {
+       "name": "Push-ups (incline -> floor)",
+       "sets": 2,
+       "reps": "10",
+       "target": "Easy height - just for fun",
+       "cue": "RECORD WEEK: light and fun. Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
+       "guide": 9
+      },
+      {
+       "name": "One-arm row (dumbbell handle)",
+       "sets": 1,
+       "reps": "12/arm",
+       "target": "Empty handle (easy)",
+       "cue": "RECORD WEEK: light and fun. One hand and knee on the bench, flat back. Pull the handle to the hip, squeeze, lower slowly.",
+       "guide": 10
+      },
+      {
+       "name": "Lat pulldown (light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Nothing loaded (easy)",
+       "cue": "RECORD WEEK: light and fun. Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "guide": 11
+      },
+      {
+       "name": "Low cable row (light)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Nothing loaded (easy)",
+       "cue": "RECORD WEEK: light and fun. Sit tall, pull to belly, squeeze shoulder blades, 2 sec return.",
+       "guide": 12
+      },
+      {
+       "name": "Overhead press (form practice)",
+       "sets": 1,
+       "reps": "12",
+       "target": "Broomstick (easy)",
+       "cue": "RECORD WEEK: light and fun. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "guide": 13
+      },
+      {
+       "name": "Hang: flexed-arm or dead hang",
+       "sets": 1,
+       "reps": "10 sec",
+       "target": "Dead hang (easy)",
+       "cue": "RECORD WEEK: light and fun. Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "guide": 14
+      },
+      {
+       "name": "Dead bug (core)",
+       "sets": 1,
+       "reps": "8/side",
+       "target": "Dead bug (easy)",
+       "cue": "RECORD WEEK: light and fun. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "guide": 15
+      }
+     ],
+     "challenge": {
+      "name": "CELEBRATION: Connor picks his favorite challenge",
+      "sets": 1,
+      "reps": "Beat your best one",
+      "target": "Bodyweight",
+      "cue": "Pick any fun challenge from the 12 weeks and try to beat your best. Then fill in the record sheet and celebrate!",
+      "guide": 17
+     },
+     "note": null,
+     "dayIndex": 3
+    }
+   ],
+   "deload": false,
+   "record": true,
+   "baseline": false
+  }
+ ]
+}
