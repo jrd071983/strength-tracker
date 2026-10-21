@@ -46,6 +46,21 @@
     if (!st.length) return cd.map(function (e) { return e.reps + " · " + e.name.replace(/^(BASELINE TEST|RETEST): /, "test: "); }).join(", ");
     return st.length + " exercises" + (cd.length ? " + " + cd[0].reps + " cardio finisher" : "");
   }
+  // Visible target line, e.g. "Target: 15 lb × 10-12" + detail ("2 sets · handle + 5 lb plate each end") + 2.5 lb plate note.
+  function targetText(ex) {
+    if (ex.kind === "cardio") return "Target: " + ex.reps + " · " + ex.target;
+    var m = /^(\d+(?:\.\d+)?(?:-\d+(?:\.\d+)?)? lb\*?(?: (?:total|each(?: hand)?|bar))?\*?)/.exec(ex.target || "");
+    var reps = String(ex.reps).replace(/\s*sec\b/, " s");
+    return "Target: " + (m ? m[1] : ex.target) + " × " + reps;
+  }
+  function targetHtml(ex) {
+    var t = targetText(ex), detail = ex.kind === "cardio" ? "" : ex.sets + (ex.sets === 1 ? " set" : " sets");
+    var m = /^(\d+(?:\.\d+)?(?:-\d+(?:\.\d+)?)? lb\*?(?: (?:total|each(?: hand)?|bar))?\*?)\s*(.*)$/.exec(ex.target || "");
+    if (m && m[2]) detail += " · " + m[2].replace(/^\((.*)\)$/, "$1");
+    var h = "<div class='target' data-target>" + esc(t) + "</div>" + (detail ? "<div class='load'>" + esc(detail) + "</div>" : "");
+    if (/\*/.test(ex.target || "")) h += "<div class='starnote'>* needs 2.5 lb plates - without them, stay at the last weight and add 1-2 reps</div>";
+    return h;
+  }
   function isTime(reps) { return /sec/i.test(reps); }
   function header(title, sub, back) {
     return "<header class='top'><div class='wrap'><div class='row'>" + (back ? "<a class='iconbtn' href='" + back + "' aria-label='Back'>&#8249;</a>" : "") +
@@ -114,7 +129,7 @@
     s.exercises.forEach(function (ex, ei) {
       var e = (r.ex && r.ex[ei]) || {}, g = ex.guide != null ? P.guide[ex.guide] : null, cardio = ex.kind === "cardio";
       h += "<section class='card ex " + (e.done ? "isdone " : "") + (ex.test ? "test" : "") + "' id='ex" + ei + "'><div class='head'><span class='num'>" + (ei + 1) + "</span><div style='flex:1'><h3>" + esc(ex.name) + "</h3>" +
-        "<div class='target'>" + (cardio ? esc(ex.reps) : ex.sets + " &times; " + esc(ex.reps)) + "</div><div class='load'>" + esc(ex.target) + "</div></div></div>" +
+        targetHtml(ex) + "</div></div>" +
         "<details class='howto'><summary>How to / tips</summary><div class='body'>" + (g ? "<p style='margin-top:0'>" + esc(g.how) + "</p>" : "") + "<p class='muted' style='margin-bottom:0'>" + esc(ex.cue) + "</p></div></details>" +
         (cardio ? cardioBoxes(ei, ex, e) : strengthBoxes(ei, ex, e)) +
         "<input class='txt' data-f='note' data-e='" + ei + "' placeholder='Notes (how it felt, adjustments…)' value='" + esc(e.note || "") + "' style='margin-top:8px'>" +
@@ -314,6 +329,11 @@
   window.addEventListener("hashchange", render);
   try { localStorage.setItem("kidStrength:lastKid", PID); } catch (e) {}
   render();
-  if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !window.SINGLE_FILE) navigator.serviceWorker.register("../sw.js", { scope: "../" }).catch(function () {});
+  if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !window.SINGLE_FILE) {
+    // Pick up new versions promptly: check for an updated service worker on every load, and reload once when a new one takes over.
+    var hadController = !!navigator.serviceWorker.controller, reloaded = false;
+    navigator.serviceWorker.addEventListener("controllerchange", function () { if (hadController && !reloaded) { reloaded = true; location.reload(); } });
+    navigator.serviceWorker.register("../sw.js", { scope: "../" }).then(function (reg) { try { reg.update(); } catch (e) {} }).catch(function () {});
+  }
   window.__tracker = { weekParts: weekParts, mailto: mailto, state: function () { return S; } };
 })();

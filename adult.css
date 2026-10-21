@@ -44,8 +44,9 @@ header.top .sub{opacity:.9;font-size:14px;margin-top:4px}
 .ex.test{border-left:4px solid var(--hard)}
 .ex .head{display:flex;gap:10px;align-items:flex-start}
 .ex .head .num{flex:none;width:30px;height:30px;border-radius:8px;background:var(--soft);color:var(--ink);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:15px}
-.ex .target{font-weight:700;font-size:16px;margin-top:2px}
-.ex .load{font-size:14px;color:#24506b}
+.ex .target{font-weight:700;font-size:17px;margin-top:4px;color:var(--ink);background:#eef4f7;border-radius:8px;padding:4px 8px;display:inline-block}
+.ex .load{font-size:14px;color:var(--muted);margin-top:3px}
+.ex .starnote{font-size:13px;color:#7a4515;margin-top:3px}
 .howto{margin-top:8px}
 .howto summary{list-style:none;font-weight:600;font-size:15px;padding:9px 12px;background:var(--soft);border-radius:10px;display:flex;align-items:center}
 .howto summary::-webkit-details-marker{display:none}
