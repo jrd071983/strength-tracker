@@ -131,20 +131,24 @@
      "text": "Each exercise has a rep target (e.g., 3 x 10-12). Keep the same weight until ALL sets feel EASY at the top of the range with good form, then add a small amount (2.5-5 lb) next time. If a set is HARD or form slips, stay at that weight (or go lighter)."
     },
     {
-     "label": "Load shorthand",
-     "text": "H = one EMPTY plate-loading dumbbell handle. WEIGH ONE before week 1 (bathroom scale): ______ lb (often 3-6 lb). 'H+10' = handle with a 5 lb plate on each end. 'H+15*' = add a 2.5 lb plate on each end. '2 handles, each H+10' = one in each hand."
+     "label": "Starting weights",
+     "text": "All weights are ESTIMATES for week 1, aimed at RPE 6-7. Dumbbell handle assumed to weigh about 5 lb - WEIGH ONE before week 1: ______ lb; if it's different, adjust the handle numbers by the difference. 15 lb = handle + 5 lb plate each end; 25 lb = the 25 lb dumbbell (or handle + 10 each end). Cable weights = plates loaded on the machine."
+    },
+    {
+     "label": "Week 1 rule",
+     "text": "If you get 15+ reps EASILY, go up one step on the next set or session. If you can't do 10 reps with good form, go down one step. Write down what you actually used - that becomes your real starting weight."
     },
     {
      "label": "Small jumps need 2.5s",
-     "text": "Targets marked * need the 2.5 lb plates (recommended purchase). Without them, stay at the previous weight and add 1-2 reps per set instead - the 5 lb plates make 10 lb jumps on a handle, which is too big a step."
+     "text": "Targets marked * need the 2.5 lb plates (recommended purchase), e.g. 20 lb = handle + 5 + 2.5 each end. Without them, stay at the previous weight and add 1-2 reps per set instead - the 5 lb plates make 10 lb jumps on a handle, which is too big a step. Overhead press: +2.5 lb per hand needs 1.25 lb plates; with 2.5s the step is 5 to 10 lb per hand."
     },
     {
-     "label": "Machines",
-     "text": "Lat pulldown and low cable row: the empty carriage has its own resistance. In week 1, start with nothing loaded and add 5 lb at a time until 12 reps feel about 6-7/10 - write that weight down; it's your start weight."
+     "label": "Cable machines",
+     "text": "Lat pulldown and low cable row start at 10 lb loaded (expected range 10-20), one-arm cable row at 5 lb (5-10), Pallof press at 5 lb. The empty carriage has some resistance of its own. Add 5 lb (or 2.5 lb) when all sets are EASY."
     },
     {
      "label": "Bodyweight moves",
-     "text": "Incline push-ups get harder by lowering the bar one hole at a time (when all sets reach 12 EASY reps). Planks and dead bugs progress with time/reps; split squats move from bodyweight to two handles."
+     "text": "Incline push-ups start with the rack bar at about waist/hip height and get harder by lowering the bar one hole when 3 x 12 feels EASY. Planks (start ~20-30 sec) and dead bugs progress with time/reps; split squats are bodyweight in weeks 1-2, then 5 lb handles in each hand."
     },
     {
      "label": "Cardio",
@@ -210,11 +214,11 @@
     },
     {
      "label": "Plate-loaded lat pulldown & low cable row",
-     "text": "Lat pulldown, low cable row, one-arm row and the Pallof press (side-on to the low-row cable). Start with nothing loaded and write the carriage weight: ___ lb."
+     "text": "Lat pulldown, low cable row, one-arm row and the Pallof press (side-on to the low-row cable). Start: pulldown and row 10 lb, one-arm row 5 lb, Pallof 5 lb (plates loaded on the machine)."
     },
     {
      "label": "Landmine",
-     "text": "Landmine press with the 45 lb Olympic bar (you only lift part of the bar's weight). Start with both hands; one arm from week 5."
+     "text": "Landmine press with the empty 45 lb Olympic bar (you only lift part of the bar's weight). Two hands in weeks 1-4; one arm from week 5."
     },
     {
      "label": "Flat bench + leg extension attachment",
@@ -222,7 +226,7 @@
     },
     {
      "label": "35 lb bar",
-     "text": "Romanian deadlift from week 5 and hip thrust (padded with a towel) from week 9."
+     "text": "Romanian deadlift from week 5; hip thrust (padded with a towel) from week 5, once 3 x 15 with the 25 lb dumbbell feels EASY."
     },
     {
      "label": "45 lb Olympic bar",
@@ -234,15 +238,15 @@
     },
     {
      "label": "Plate-loading dumbbell handles",
-     "text": "Weigh one empty handle: ______ lb. Used for goblet squats, RDLs (weeks 1-4), split squats and overhead press."
+     "text": "Assumed about 5 lb each - weigh one: ______ lb (adjust the numbers if different). Goblet squat 15 lb (5 lb plate each end), RDL 2 x 15 lb (weeks 1-4), split squat and overhead press with empty handles (5 lb each)."
     },
     {
      "label": "Plates on hand",
-     "text": "2 x 45 lb, 4 x 10 lb, 4 x 5 lb. That allows H+10 (5s), H+20 (10s), H+30 (10s + 5s) and 2 handles at H+10 each. Smaller steps need 2.5 lb plates."
+     "text": "2 x 45 lb, 4 x 10 lb, 4 x 5 lb. On a 5 lb handle that makes 15 lb (5s), 25 lb (10s) or 35 lb (10s + 5s), and two 15 lb handles for RDLs. Smaller steps (10, 20, 30 lb) need 2.5 lb plates."
     },
     {
      "label": "Fixed dumbbells 25s and 45s",
-     "text": "25 lb: goblet squat (weeks 10-12) and hip thrust (weeks 5-7). 45 lb: optional hip thrust in week 11 only if EASY."
+     "text": "25 lb: hip thrust and glute bridge from week 1, goblet squat from week 7. 45 lb: not needed (optional hip thrust later)."
     },
     {
      "label": "Indoor bike + treadmill",
@@ -286,22 +290,22 @@
   {
    "name": "Goblet squat",
    "day": "A + C",
-   "how": "Hold one dumbbell handle vertically against the chest with both hands. Feet about shoulder width, toes slightly out. Sit down between the heels as deep as you comfortably can with the chest up and heels down (touch the bench first if helpful), then stand tall. Day C version: pause 2 sec at the bottom."
+   "how": "Hold one dumbbell handle vertically against the chest with both hands. Feet about shoulder width, toes slightly out. Sit down between the heels as deep as you comfortably can with the chest up and heels down (touch the bench first if helpful), then stand tall. Day C version: pause 2 sec at the bottom. Start: 15 lb (handle + 5 lb plate each end)."
   },
   {
    "name": "Incline push-up (bar in rack)",
    "day": "Strength A",
-   "how": "Set the bar on the J-hooks or safeties at hip height (pins locked). Hands a bit wider than shoulders, walk the feet back until the body is a straight line. Lower the chest to the bar, push away. Lower the bar one hole when 12 reps feel EASY on all sets. Higher bar = easier."
+   "how": "Set the bar on the J-hooks or safeties at hip height (pins locked). Hands a bit wider than shoulders, walk the feet back until the body is a straight line. Lower the chest to the bar, push away. Lower the bar one hole when 12 reps feel EASY on all sets. Higher bar = easier. Start with the bar at about waist/hip height."
   },
   {
    "name": "Lat pulldown",
    "day": "Strength A",
-   "how": "Grip a little wider than shoulders, thighs under the pad if there is one. Sit tall, pull the bar to the upper chest by driving the elbows down and back, without leaning way back or yanking. Let it rise slowly."
+   "how": "Grip a little wider than shoulders, thighs under the pad if there is one. Sit tall, pull the bar to the upper chest by driving the elbows down and back, without leaning way back or yanking. Let it rise slowly. Start: 10 lb loaded."
   },
   {
    "name": "Glute bridge",
    "day": "Strength A",
-   "how": "Lie on your back, knees bent, feet flat and hip-width. Ribs down, push through the heels and squeeze the glutes until knees, hips and shoulders line up; pause and lower. Single-leg: one foot lifted, same thing."
+   "how": "Lie on your back, knees bent, feet flat and hip-width. Ribs down, push through the heels and squeeze the glutes until knees, hips and shoulders line up; pause and lower. Start with the 25 lb dumbbell across the hips. Single-leg (weeks 9-11): one foot lifted, bodyweight."
   },
   {
    "name": "Dead bug",
@@ -311,47 +315,47 @@
   {
    "name": "Romanian deadlift (RDL)",
    "day": "Strength B",
-   "how": "Start STANDING with the weight (bar from the rack hooks at mid-thigh, or a handle in each hand). Soft knees, push the hips back, let the weight slide down the thighs to just below the knees with a flat back and neck in line, then stand by squeezing the glutes. Feel it in the hamstrings, not the low back."
+   "how": "Start STANDING with the weight (bar from the rack hooks at mid-thigh, or a handle in each hand). Soft knees, push the hips back, let the weight slide down the thighs to just below the knees with a flat back and neck in line, then stand by squeezing the glutes. Feel it in the hamstrings, not the low back. Start: 2 handles at 15 lb each (30 lb total)."
   },
   {
    "name": "Low cable row",
    "day": "Strength B",
-   "how": "Sit tall with a slight knee bend, chest up. Pull the handle to the belly while squeezing the shoulder blades together, then let the arms straighten slowly without rounding forward."
+   "how": "Sit tall with a slight knee bend, chest up. Pull the handle to the belly while squeezing the shoulder blades together, then let the arms straighten slowly without rounding forward. Start: 10 lb loaded."
   },
   {
    "name": "Dumbbell overhead press (seated)",
    "day": "Strength B",
-   "how": "Sit tall on the bench, feet flat, ribs down. Handles at shoulder height, palms facing forward or in. Press straight up until the arms are by the ears, lower slowly. No arching the low back."
+   "how": "Sit tall on the bench, feet flat, ribs down. Handles at shoulder height, palms facing forward or in. Press straight up until the arms are by the ears, lower slowly. No arching the low back. Start: empty handles (~5 lb each); +2.5 lb when EASY."
   },
   {
    "name": "Split squat",
    "day": "Strength B",
-   "how": "Long stance, feet hip-width apart (like train tracks, not a tightrope). Lower the back knee gently toward the floor, front knee over the middle of the foot, torso tall, push through the front heel to rise. Hold the rack for balance. Do all reps, then switch legs."
+   "how": "Long stance, feet hip-width apart (like train tracks, not a tightrope). Lower the back knee gently toward the floor, front knee over the middle of the foot, torso tall, push through the front heel to rise. Hold the rack for balance. Do all reps, then switch legs. Bodyweight in weeks 1-2, then 5 lb handles in each hand."
   },
   {
    "name": "Pallof press (low row cable)",
    "day": "Strength B",
-   "how": "Kneel tall or stand side-on to the low-row cable with the handle at the middle of the chest. Brace and press the handle straight out, hold 2 sec without letting the cable twist you, bring it back. All reps one side, then turn around. Substitute: side plank on the knees, 2 x 15-20 sec/side."
+   "how": "Kneel tall or stand side-on to the low-row cable with the handle at the middle of the chest. Brace and press the handle straight out, hold 2 sec without letting the cable twist you, bring it back. All reps one side, then turn around. Substitute: side plank on the knees, 2 x 15-20 sec/side. Start: 5 lb on the cable."
   },
   {
    "name": "Hip thrust (shoulders on bench)",
    "day": "Strength C",
-   "how": "Sit on the floor with the upper back against the long side of the bench, knees bent, feet flat. Weight (dumbbell or padded bar) across the hip crease. Chin tucked, drive through the heels to lift the hips until level with knees and shoulders, squeeze 1 sec, lower under control."
+   "how": "Sit on the floor with the upper back against the long side of the bench, knees bent, feet flat. Weight (dumbbell or padded bar) across the hip crease. Chin tucked, drive through the heels to lift the hips until level with knees and shoulders, squeeze 1 sec, lower under control. Start: 25 lb dumbbell; 35 lb padded bar once 3 x 15 feels EASY."
   },
   {
    "name": "Landmine press",
    "day": "Strength C",
-   "how": "45 lb bar in the landmine. Hold the bar end at the chest (both hands to start; later one hand, half-kneeling or standing). Press up and forward until the arm is straight, lower slowly. Ribs down, glutes tight, no leaning back."
+   "how": "45 lb bar in the landmine. Hold the bar end at the chest (both hands to start; later one hand, half-kneeling or standing). Press up and forward until the arm is straight, lower slowly. Ribs down, glutes tight, no leaning back. Start: empty bar, two hands."
   },
   {
    "name": "One-arm low cable row",
    "day": "Strength C",
-   "how": "Single handle on the low-row cable. Seated or half-kneeling, pull to the hip, squeeze the shoulder blade back, slow return. All reps, then switch arms."
+   "how": "Single handle on the low-row cable. Seated or half-kneeling, pull to the hip, squeeze the shoulder blade back, slow return. All reps, then switch arms. Start: 5 lb."
   },
   {
    "name": "Plank",
    "day": "Strength C",
-   "how": "Forearms on the floor under the shoulders, body straight from head to heels, glutes and belly tight, keep breathing. Knees down to make it easier. End the set when the hips sag or the low back arches."
+   "how": "Forearms on the floor under the shoulders, body straight from head to heels, glutes and belly tight, keep breathing. Knees down to make it easier. End the set when the hips sag or the low back arches. Start: about 20-30 sec."
   },
   {
    "name": "Zone 2 cardio (bike or treadmill walk)",
@@ -393,19 +397,20 @@
        "name": "Goblet squat",
        "sets": 2,
        "reps": "10-12",
-       "target": "H (empty handle)",
-       "cue": "BASELINE: learn the move, find comfortable weights. Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
+       "target": "15 lb (handle + 5 lb plate each end)",
+       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Incline push-up (bar in rack)",
        "sets": 1,
        "reps": "8-10",
-       "target": "Bar in rack at hip height - write hole #",
-       "cue": "Bar set in the rack at hip height, safeties set. Body in one straight line, lower chest to the bar, push away. Higher bar = easier.",
+       "target": "Rack bar at waist/hip height - write hole #",
+       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Bar set in the rack at waist/hip height, safeties set. Body in one straight line, lower chest to the bar, push away. Higher bar = easier.",
        "guide": 3,
        "kind": "strength",
        "load": "hole",
@@ -426,23 +431,25 @@
        "name": "Lat pulldown",
        "sets": 2,
        "reps": "10-12",
-       "target": "Find start (empty, add 5s) - write lb",
-       "cue": "BASELINE: learn the move, find comfortable weights. Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "target": "10 lb on the machine (range 10-20)",
+       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "Bodyweight",
+       "target": "25 lb dumbbell across hips",
        "cue": "Lie on your back, knees bent, feet flat. Ribs down, push through the heels, squeeze the glutes until knees-hips-shoulders line up, lower slowly.",
        "guide": 5,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Dead bug (core)",
@@ -497,34 +504,37 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 2,
        "reps": "10-12",
-       "target": "2 empty handles (1 per hand)",
-       "cue": "BASELINE: learn the move, find comfortable weights. Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "target": "30 lb total (2 handles, 15 lb each)",
+       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 30
       },
       {
        "name": "Low cable row",
        "sets": 2,
        "reps": "10-12",
-       "target": "Find start (empty, add 5s) - write lb",
-       "cue": "BASELINE: learn the move, find comfortable weights. Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "target": "10 lb on the machine (range 10-20)",
+       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Dumbbell overhead press (seated)",
        "sets": 2,
        "reps": "10-12",
-       "target": "2 empty handles",
-       "cue": "BASELINE: learn the move, find comfortable weights. Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
+       "target": "5 lb each (empty handles)",
+       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Split squat",
@@ -541,12 +551,13 @@
        "name": "Pallof press (low row cable)",
        "sets": 2,
        "reps": "8/side",
-       "target": "Tall-kneeling, nothing loaded",
+       "target": "5 lb on the cable, tall-kneeling",
        "cue": "Stand or kneel side-on to the low-row cable, handle at the chest. Press straight out, hold 2 sec without letting the cable twist you, bring back. Do all reps, then face the other way. If the cable can't be pulled sideways safely, do a side plank on the knees instead.",
        "guide": 11,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Cardio finisher: easy bike or incline walk",
@@ -571,30 +582,32 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 2,
        "reps": "12",
-       "target": "Bodyweight",
-       "cue": "BASELINE: learn the move, find comfortable weights. Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
+       "target": "25 lb dumbbell across hips",
+       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "Bodyweight, sit to the bench",
+       "target": "15 lb (handle + 5 lb plate each end)",
        "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Landmine press",
        "sets": 2,
        "reps": "10-12",
-       "target": "Bar only, both hands, standing",
-       "cue": "BASELINE: learn the move, find comfortable weights. 45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
+       "target": "Empty 45 lb bar, both hands, standing",
+       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. 45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
        "guide": 13,
        "kind": "strength",
        "load": "lb",
@@ -604,18 +617,19 @@
        "name": "One-arm low cable row",
        "sets": 2,
        "reps": "10/arm",
-       "target": "Same weight as Strength B row (or lighter)",
+       "target": "5 lb on the cable (range 5-10)",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
        "guide": 14,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "BASELINE TEST: Plank - longest good-form hold",
        "sets": 1,
        "reps": "Max good-form sec",
-       "target": "Forearm plank (knees down is OK - note it)",
+       "target": "Forearm plank (~20-30 sec expected; knees down OK - note it)",
        "cue": "Forearms down, body straight, glutes and belly tight, keep breathing. Stop when hips sag or the low back arches. Write seconds. Compared in week 12.",
        "guide": 15,
        "kind": "strength",
@@ -654,12 +668,13 @@
        "name": "Goblet squat",
        "sets": 3,
        "reps": "12",
-       "target": "H+10",
+       "target": "15 lb",
        "cue": "Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Incline push-up (bar in rack)",
@@ -676,23 +691,25 @@
        "name": "Lat pulldown",
        "sets": 3,
        "reps": "12",
-       "target": "Week-1 weight",
+       "target": "10 lb (15 if week 1 was EASY)",
        "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "Bodyweight",
+       "target": "25 lb dumbbell across hips",
        "cue": "Lie on your back, knees bent, feet flat. Ribs down, push through the heels, squeeze the glutes until knees-hips-shoulders line up, lower slowly.",
        "guide": 5,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Dead bug (core)",
@@ -747,34 +764,37 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 3,
        "reps": "12",
-       "target": "2 handles, each H+10",
+       "target": "30 lb (15 lb each hand)",
        "cue": "Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 30
       },
       {
        "name": "Low cable row",
        "sets": 3,
        "reps": "12",
-       "target": "Week-1 weight",
+       "target": "10 lb (15 if week 1 was EASY)",
        "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Dumbbell overhead press (seated)",
        "sets": 3,
        "reps": "10-12",
-       "target": "2 empty handles",
+       "target": "5 lb each (empty handles)",
        "cue": "Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Split squat",
@@ -791,12 +811,13 @@
        "name": "Pallof press (low row cable)",
        "sets": 2,
        "reps": "8/side",
-       "target": "Tall-kneeling, nothing loaded",
+       "target": "5 lb on the cable, tall-kneeling",
        "cue": "Stand or kneel side-on to the low-row cable, handle at the chest. Press straight out, hold 2 sec without letting the cable twist you, bring back. Do all reps, then face the other way. If the cable can't be pulled sideways safely, do a side plank on the knees instead.",
        "guide": 11,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Cardio finisher: easy bike or incline walk",
@@ -821,29 +842,31 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 3,
        "reps": "15",
-       "target": "Bodyweight",
+       "target": "25 lb dumbbell",
        "cue": "Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "H (empty handle)",
+       "target": "15 lb",
        "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Landmine press",
        "sets": 3,
        "reps": "10-12",
-       "target": "Bar only, both hands, standing",
+       "target": "Empty 45 lb bar, both hands, standing",
        "cue": "45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
        "guide": 13,
        "kind": "strength",
@@ -854,12 +877,13 @@
        "name": "One-arm low cable row",
        "sets": 2,
        "reps": "10/arm",
-       "target": "Same as B",
+       "target": "5 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
        "guide": 14,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Plank (core)",
@@ -904,18 +928,19 @@
        "name": "Goblet squat",
        "sets": 3,
        "reps": "12",
-       "target": "H+10",
+       "target": "15 lb (20 lb* if EASY)",
        "cue": "Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Incline push-up (bar in rack)",
        "sets": 3,
        "reps": "8-12",
-       "target": "Same height",
+       "target": "Same height (1 hole lower if 3x12 EASY)",
        "cue": "Straight body, chest to the bar, elbows about 45 degrees from the body. When all sets reach 12 EASY reps, lower the bar one hole next week.",
        "guide": 3,
        "kind": "strength",
@@ -926,23 +951,25 @@
        "name": "Lat pulldown",
        "sets": 3,
        "reps": "12",
-       "target": "Week-1 wt (+5 if EASY)",
+       "target": "15 lb",
        "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "Bodyweight",
+       "target": "25 lb dumbbell across hips",
        "cue": "Lie on your back, knees bent, feet flat. Ribs down, push through the heels, squeeze the glutes until knees-hips-shoulders line up, lower slowly.",
        "guide": 5,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Dead bug (core)",
@@ -997,56 +1024,61 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 3,
        "reps": "12",
-       "target": "2 handles, each H+10",
+       "target": "30 lb (15 lb each hand)",
        "cue": "Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 30
       },
       {
        "name": "Low cable row",
        "sets": 3,
        "reps": "12",
-       "target": "Week-1 wt (+5 if EASY)",
+       "target": "15 lb",
        "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Dumbbell overhead press (seated)",
        "sets": 3,
        "reps": "10-12",
-       "target": "2 empty handles",
+       "target": "5 lb each (empty handles)",
        "cue": "Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Split squat",
        "sets": 2,
        "reps": "10/leg",
-       "target": "Bodyweight",
+       "target": "5 lb each hand (empty handles)",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Pallof press (low row cable)",
        "sets": 2,
        "reps": "8/side",
-       "target": "Tall-kneeling, nothing loaded",
+       "target": "5 lb on the cable, tall-kneeling",
        "cue": "Stand or kneel side-on to the low-row cable, handle at the chest. Press straight out, hold 2 sec without letting the cable twist you, bring back. Do all reps, then face the other way. If the cable can't be pulled sideways safely, do a side plank on the knees instead.",
        "guide": 11,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Cardio finisher: easy bike or incline walk",
@@ -1071,29 +1103,31 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 3,
        "reps": "15",
-       "target": "Bodyweight",
+       "target": "25 lb dumbbell",
        "cue": "Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "H (empty handle)",
+       "target": "15 lb",
        "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Landmine press",
        "sets": 3,
        "reps": "10-12",
-       "target": "Bar only, both hands, standing",
+       "target": "Empty 45 lb bar, both hands, standing",
        "cue": "45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
        "guide": 13,
        "kind": "strength",
@@ -1104,12 +1138,13 @@
        "name": "One-arm low cable row",
        "sets": 2,
        "reps": "10/arm",
-       "target": "Same as B",
+       "target": "5-10 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
        "guide": 14,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Plank (core)",
@@ -1154,12 +1189,13 @@
        "name": "Goblet squat",
        "sets": 2,
        "reps": "12",
-       "target": "H+10",
+       "target": "15 lb (easy)",
        "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Incline push-up (bar in rack)",
@@ -1176,23 +1212,25 @@
        "name": "Lat pulldown",
        "sets": 2,
        "reps": "12",
-       "target": "Week-1 weight (easy)",
+       "target": "10 lb (easy)",
        "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "Bodyweight",
+       "target": "25 lb dumbbell across hips",
        "cue": "Lie on your back, knees bent, feet flat. Ribs down, push through the heels, squeeze the glutes until knees-hips-shoulders line up, lower slowly.",
        "guide": 5,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Dead bug (core)",
@@ -1247,40 +1285,43 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 2,
        "reps": "12",
-       "target": "2 handles, each H+10",
+       "target": "30 lb (15 each, easy)",
        "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 30
       },
       {
        "name": "Low cable row",
        "sets": 2,
        "reps": "12",
-       "target": "Week-1 weight (easy)",
+       "target": "10 lb (easy)",
        "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Dumbbell overhead press (seated)",
        "sets": 2,
        "reps": "10-12",
-       "target": "2 empty handles",
+       "target": "5 lb each (empty handles)",
        "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Split squat",
        "sets": 2,
        "reps": "8/leg",
-       "target": "Bodyweight",
+       "target": "Bodyweight (easy)",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
@@ -1291,12 +1332,13 @@
        "name": "Pallof press (low row cable)",
        "sets": 2,
        "reps": "8/side",
-       "target": "Tall-kneeling, nothing loaded",
+       "target": "5 lb on the cable, tall-kneeling",
        "cue": "Stand or kneel side-on to the low-row cable, handle at the chest. Press straight out, hold 2 sec without letting the cable twist you, bring back. Do all reps, then face the other way. If the cable can't be pulled sideways safely, do a side plank on the knees instead.",
        "guide": 11,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Cardio finisher: easy bike or incline walk",
@@ -1321,29 +1363,31 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 2,
        "reps": "12",
-       "target": "Bodyweight",
+       "target": "25 lb dumbbell (easy)",
        "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "H (empty handle)",
+       "target": "15 lb (easy)",
        "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Landmine press",
        "sets": 2,
        "reps": "10-12",
-       "target": "Bar only, both hands, standing",
+       "target": "Empty 45 lb bar, both hands, standing",
        "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. 45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
        "guide": 13,
        "kind": "strength",
@@ -1354,12 +1398,13 @@
        "name": "One-arm low cable row",
        "sets": 2,
        "reps": "10/arm",
-       "target": "Light",
+       "target": "5 lb (easy)",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
        "guide": 14,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Plank (core)",
@@ -1404,18 +1449,19 @@
        "name": "Goblet squat",
        "sets": 3,
        "reps": "10-12",
-       "target": "H+15*",
+       "target": "20 lb* (handle + 5 + 2.5 each end)",
        "cue": "Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 20
       },
       {
        "name": "Incline push-up (bar in rack)",
        "sets": 3,
        "reps": "8-12",
-       "target": "1 hole lower if week 3 felt EASY",
+       "target": "1 hole lower if 3x12 was EASY",
        "cue": "Straight body, chest to the bar, elbows about 45 degrees from the body. When all sets reach 12 EASY reps, lower the bar one hole next week.",
        "guide": 3,
        "kind": "strength",
@@ -1426,23 +1472,25 @@
        "name": "Lat pulldown",
        "sets": 3,
        "reps": "10-12",
-       "target": "Week-3 wt +5 if EASY",
+       "target": "15 lb",
        "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "12",
-       "target": "Bodyweight, 3-sec squeeze at top",
+       "target": "25 lb dumbbell, 3-sec squeeze at top",
        "cue": "Lie on your back, knees bent, feet flat. Ribs down, push through the heels, squeeze the glutes until knees-hips-shoulders line up, lower slowly.",
        "guide": 5,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Dead bug (core)",
@@ -1502,51 +1550,56 @@
        "guide": 7,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 35
       },
       {
        "name": "Low cable row",
        "sets": 3,
        "reps": "10-12",
-       "target": "Week-3 wt +5 if EASY",
+       "target": "15 lb",
        "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Dumbbell overhead press (seated)",
        "sets": 3,
        "reps": "10-12",
-       "target": "2 handles, each H+5* (or empty x 15)",
+       "target": "7.5-10 lb each* (or 5 lb x 15)",
        "cue": "Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 7.5
       },
       {
        "name": "Split squat",
        "sets": 2,
        "reps": "10/leg",
-       "target": "2 empty handles",
+       "target": "5 lb each hand",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Pallof press (low row cable)",
        "sets": 2,
        "reps": "10/side",
-       "target": "Standing, nothing loaded (+5 lb if EASY)",
+       "target": "5 lb, standing (10 lb if EASY)",
        "cue": "Stand or kneel side-on to the low-row cable, handle at the chest. Press straight out, hold 2 sec without letting the cable twist you, bring back. Do all reps, then face the other way. If the cable can't be pulled sideways safely, do a side plank on the knees instead.",
        "guide": 11,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Cardio finisher: easy bike or incline walk",
@@ -1571,29 +1624,31 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 3,
        "reps": "12",
-       "target": "25 lb dumbbell on hips",
+       "target": "35 lb bar, padded (once 3x15 at 25 was EASY)",
        "cue": "Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 35
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "H+10",
+       "target": "20 lb* (or 15 lb)",
        "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 20
       },
       {
        "name": "Landmine press",
        "sets": 3,
        "reps": "8-10/arm",
-       "target": "Bar only, one arm, half-kneeling",
+       "target": "Empty bar, one arm, half-kneeling",
        "cue": "45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
        "guide": 13,
        "kind": "strength",
@@ -1604,12 +1659,13 @@
        "name": "One-arm low cable row",
        "sets": 2,
        "reps": "10/arm",
-       "target": "Same as B",
+       "target": "10 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
        "guide": 14,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Plank (core)",
@@ -1654,12 +1710,13 @@
        "name": "Goblet squat",
        "sets": 3,
        "reps": "10-12",
-       "target": "H+15*",
+       "target": "20 lb*",
        "cue": "Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 20
       },
       {
        "name": "Incline push-up (bar in rack)",
@@ -1676,23 +1733,25 @@
        "name": "Lat pulldown",
        "sets": 3,
        "reps": "10-12",
-       "target": "Same (+5 if EASY)",
+       "target": "20 lb",
        "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 20
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "12",
-       "target": "Bodyweight, 3-sec squeeze at top",
+       "target": "25 lb dumbbell, 3-sec squeeze at top",
        "cue": "Lie on your back, knees bent, feet flat. Ribs down, push through the heels, squeeze the glutes until knees-hips-shoulders line up, lower slowly.",
        "guide": 5,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Dead bug (core)",
@@ -1752,51 +1811,56 @@
        "guide": 7,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 35
       },
       {
        "name": "Low cable row",
        "sets": 3,
        "reps": "10-12",
-       "target": "Same (+5 if EASY)",
+       "target": "20 lb",
        "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 20
       },
       {
        "name": "Dumbbell overhead press (seated)",
        "sets": 3,
        "reps": "10-12",
-       "target": "2 handles, each H+5* (or empty x 15)",
+       "target": "7.5-10 lb each* (or 5 lb x 15)",
        "cue": "Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 7.5
       },
       {
        "name": "Split squat",
        "sets": 2,
-       "reps": "10/leg",
-       "target": "2 empty handles",
+       "reps": "12/leg",
+       "target": "5 lb each hand",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Pallof press (low row cable)",
        "sets": 2,
        "reps": "10/side",
-       "target": "Standing, nothing loaded (+5 lb if EASY)",
+       "target": "5 lb, standing (10 lb if EASY)",
        "cue": "Stand or kneel side-on to the low-row cable, handle at the chest. Press straight out, hold 2 sec without letting the cable twist you, bring back. Do all reps, then face the other way. If the cable can't be pulled sideways safely, do a side plank on the knees instead.",
        "guide": 11,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Cardio finisher: easy bike or incline walk",
@@ -1821,29 +1885,31 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 3,
        "reps": "12",
-       "target": "25 lb dumbbell on hips",
+       "target": "35 lb bar (padded)",
        "cue": "Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 35
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "H+10",
+       "target": "20 lb*",
        "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 20
       },
       {
        "name": "Landmine press",
        "sets": 3,
        "reps": "8-10/arm",
-       "target": "Bar only, one arm, half-kneeling",
+       "target": "Empty bar, one arm, half-kneeling",
        "cue": "45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
        "guide": 13,
        "kind": "strength",
@@ -1854,12 +1920,13 @@
        "name": "One-arm low cable row",
        "sets": 2,
        "reps": "10/arm",
-       "target": "Same as B",
+       "target": "10 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
        "guide": 14,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Plank (core)",
@@ -1904,18 +1971,19 @@
        "name": "Goblet squat",
        "sets": 3,
        "reps": "10-12",
-       "target": "H+20",
+       "target": "25 lb (25 lb dumbbell)",
        "cue": "Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Incline push-up (bar in rack)",
        "sets": 3,
        "reps": "8-12",
-       "target": "1 more hole lower if EASY",
+       "target": "1 more hole lower if 3x12 EASY",
        "cue": "Straight body, chest to the bar, elbows about 45 degrees from the body. When all sets reach 12 EASY reps, lower the bar one hole next week.",
        "guide": 3,
        "kind": "strength",
@@ -1926,23 +1994,25 @@
        "name": "Lat pulldown",
        "sets": 3,
        "reps": "10-12",
-       "target": "+5 if EASY",
+       "target": "20 lb",
        "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 20
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "12",
-       "target": "Bodyweight, 3-sec squeeze at top",
+       "target": "25 lb dumbbell, 3-sec squeeze at top",
        "cue": "Lie on your back, knees bent, feet flat. Ribs down, push through the heels, squeeze the glutes until knees-hips-shoulders line up, lower slowly.",
        "guide": 5,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Dead bug (core)",
@@ -2002,51 +2072,56 @@
        "guide": 7,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 35
       },
       {
        "name": "Low cable row",
        "sets": 3,
        "reps": "10-12",
-       "target": "+5 if EASY",
+       "target": "20 lb",
        "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 20
       },
       {
        "name": "Dumbbell overhead press (seated)",
        "sets": 3,
        "reps": "10-12",
-       "target": "2 handles, each H+5* (or empty x 15)",
+       "target": "7.5-10 lb each* (or 5 lb x 15)",
        "cue": "Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 7.5
       },
       {
        "name": "Split squat",
        "sets": 2,
-       "reps": "12/leg",
-       "target": "2 empty handles",
+       "reps": "10/leg",
+       "target": "10 lb each* (or 5 lb x 12)",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Pallof press (low row cable)",
        "sets": 2,
        "reps": "10/side",
-       "target": "Standing, nothing loaded (+5 lb if EASY)",
+       "target": "5 lb, standing (10 lb if EASY)",
        "cue": "Stand or kneel side-on to the low-row cable, handle at the chest. Press straight out, hold 2 sec without letting the cable twist you, bring back. Do all reps, then face the other way. If the cable can't be pulled sideways safely, do a side plank on the knees instead.",
        "guide": 11,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Cardio finisher: easy bike or incline walk",
@@ -2071,29 +2146,31 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 3,
        "reps": "12-15",
-       "target": "25 lb dumbbell on hips",
+       "target": "35 lb bar (padded)",
        "cue": "Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 35
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "H+10",
+       "target": "20 lb*",
        "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 20
       },
       {
        "name": "Landmine press",
        "sets": 3,
        "reps": "8-10/arm",
-       "target": "Bar only, one arm, half-kneeling",
+       "target": "Empty bar, one arm, half-kneeling",
        "cue": "45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
        "guide": 13,
        "kind": "strength",
@@ -2104,12 +2181,13 @@
        "name": "One-arm low cable row",
        "sets": 2,
        "reps": "10/arm",
-       "target": "Same as B",
+       "target": "10 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
        "guide": 14,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Plank (core)",
@@ -2154,12 +2232,13 @@
        "name": "Goblet squat",
        "sets": 2,
        "reps": "10-12",
-       "target": "H+15*",
+       "target": "20 lb* (or 15 lb)",
        "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 20
       },
       {
        "name": "Incline push-up (bar in rack)",
@@ -2176,23 +2255,25 @@
        "name": "Lat pulldown",
        "sets": 2,
        "reps": "10-12",
-       "target": "Week-5 weight (easy)",
+       "target": "15 lb (easy)",
        "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "12",
-       "target": "Bodyweight",
+       "target": "25 lb dumbbell",
        "cue": "Lie on your back, knees bent, feet flat. Ribs down, push through the heels, squeeze the glutes until knees-hips-shoulders line up, lower slowly.",
        "guide": 5,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Dead bug (core)",
@@ -2247,56 +2328,61 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 2,
        "reps": "10-12",
-       "target": "2 handles, each H+10",
+       "target": "30 lb (15 each, easy)",
        "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 30
       },
       {
        "name": "Low cable row",
        "sets": 2,
        "reps": "10-12",
-       "target": "Week-5 weight (easy)",
+       "target": "15 lb (easy)",
        "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Dumbbell overhead press (seated)",
        "sets": 2,
        "reps": "10-12",
-       "target": "2 empty handles",
+       "target": "5 lb each (easy)",
        "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Split squat",
        "sets": 2,
        "reps": "10/leg",
-       "target": "Bodyweight",
+       "target": "5 lb each hand",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Pallof press (low row cable)",
        "sets": 2,
        "reps": "8/side",
-       "target": "Tall-kneeling, nothing loaded",
+       "target": "5 lb, tall-kneeling",
        "cue": "Stand or kneel side-on to the low-row cable, handle at the chest. Press straight out, hold 2 sec without letting the cable twist you, bring back. Do all reps, then face the other way. If the cable can't be pulled sideways safely, do a side plank on the knees instead.",
        "guide": 11,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Cardio finisher: easy bike or incline walk",
@@ -2321,29 +2407,31 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 2,
        "reps": "15",
-       "target": "Bodyweight",
+       "target": "25 lb dumbbell (easy)",
        "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "H (empty handle)",
+       "target": "15 lb (easy)",
        "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Landmine press",
        "sets": 2,
        "reps": "10",
-       "target": "Bar only, both hands",
+       "target": "Empty bar, both hands (easy)",
        "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. 45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
        "guide": 13,
        "kind": "strength",
@@ -2354,12 +2442,13 @@
        "name": "One-arm low cable row",
        "sets": 2,
        "reps": "10/arm",
-       "target": "Light",
+       "target": "5 lb (easy)",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
        "guide": 14,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Plank (core)",
@@ -2404,18 +2493,19 @@
        "name": "Goblet squat",
        "sets": 3,
        "reps": "8-10",
-       "target": "H+20",
+       "target": "25 lb",
        "cue": "Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Incline push-up (bar in rack)",
        "sets": 3,
        "reps": "8-12",
-       "target": "1 more hole lower if EASY",
+       "target": "1 more hole lower if 3x12 EASY",
        "cue": "Straight body, chest to the bar, elbows about 45 degrees from the body. When all sets reach 12 EASY reps, lower the bar one hole next week.",
        "guide": 3,
        "kind": "strength",
@@ -2426,18 +2516,19 @@
        "name": "Lat pulldown",
        "sets": 3,
        "reps": "8-10",
-       "target": "Week-7 weight",
+       "target": "20 lb",
        "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 20
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "8-10/leg",
-       "target": "Single-leg bridge (other foot up)",
+       "target": "Single-leg bridge, bodyweight",
        "cue": "Lie on your back, knees bent, feet flat. Ribs down, push through the heels, squeeze the glutes until knees-hips-shoulders line up, lower slowly.",
        "guide": 5,
        "kind": "strength",
@@ -2497,56 +2588,61 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 3,
        "reps": "8-10",
-       "target": "35 lb bar",
+       "target": "40 lb* (35 bar + 2.5/side)",
        "cue": "Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 40
       },
       {
        "name": "Low cable row",
        "sets": 3,
        "reps": "8-10",
-       "target": "Week-7 weight",
+       "target": "20 lb",
        "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 20
       },
       {
        "name": "Dumbbell overhead press (seated)",
        "sets": 3,
        "reps": "8-10",
-       "target": "2 handles, each H+5*",
+       "target": "10 lb each* (handle + 2.5 each end)",
        "cue": "Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Split squat",
        "sets": 2,
-       "reps": "12/leg",
-       "target": "2 empty handles",
+       "reps": "10/leg",
+       "target": "10 lb each* (handle + 2.5 each end)",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Pallof press (low row cable)",
        "sets": 2,
        "reps": "12/side",
-       "target": "Standing, +5 lb if EASY",
+       "target": "10 lb, standing",
        "cue": "Stand or kneel side-on to the low-row cable, handle at the chest. Press straight out, hold 2 sec without letting the cable twist you, bring back. Do all reps, then face the other way. If the cable can't be pulled sideways safely, do a side plank on the knees instead.",
        "guide": 11,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Cardio finisher: easy bike or incline walk",
@@ -2571,29 +2667,31 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 3,
        "reps": "10-12",
-       "target": "35 lb bar (padded)",
+       "target": "45 lb (35 bar + 5/side)",
        "cue": "Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 45
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "H+15*",
+       "target": "25 lb",
        "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Landmine press",
        "sets": 3,
        "reps": "10/arm",
-       "target": "Bar only, one arm, standing",
+       "target": "Empty bar, one arm, standing",
        "cue": "45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
        "guide": 13,
        "kind": "strength",
@@ -2604,12 +2702,13 @@
        "name": "One-arm low cable row",
        "sets": 2,
        "reps": "10/arm",
-       "target": "Same as B",
+       "target": "10-15 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
        "guide": 14,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Plank (core)",
@@ -2654,12 +2753,13 @@
        "name": "Goblet squat",
        "sets": 3,
        "reps": "8-10",
-       "target": "25 lb dumbbell",
+       "target": "25 lb",
        "cue": "Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Incline push-up (bar in rack)",
@@ -2676,18 +2776,19 @@
        "name": "Lat pulldown",
        "sets": 3,
        "reps": "8-10",
-       "target": "+5 if EASY",
+       "target": "25 lb if EASY",
        "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "8-10/leg",
-       "target": "Single-leg bridge (other foot up)",
+       "target": "Single-leg bridge, bodyweight",
        "cue": "Lie on your back, knees bent, feet flat. Ribs down, push through the heels, squeeze the glutes until knees-hips-shoulders line up, lower slowly.",
        "guide": 5,
        "kind": "strength",
@@ -2747,56 +2848,61 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 3,
        "reps": "8-10",
-       "target": "45 lb (35 bar + 5 lb/side) if EASY",
+       "target": "45 lb (35 bar + 5/side) if EASY",
        "cue": "Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 45
       },
       {
        "name": "Low cable row",
        "sets": 3,
        "reps": "8-10",
-       "target": "+5 if EASY",
+       "target": "25 lb if EASY",
        "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Dumbbell overhead press (seated)",
        "sets": 3,
        "reps": "8-10",
-       "target": "2 handles, each H+5*",
+       "target": "10 lb each* (handle + 2.5 each end)",
        "cue": "Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Split squat",
        "sets": 2,
        "reps": "8/leg",
-       "target": "2 handles, each H+10",
+       "target": "15 lb each (handle + 5 each end)",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Pallof press (low row cable)",
        "sets": 2,
        "reps": "12/side",
-       "target": "Standing, +5 lb if EASY",
+       "target": "10 lb, standing",
        "cue": "Stand or kneel side-on to the low-row cable, handle at the chest. Press straight out, hold 2 sec without letting the cable twist you, bring back. Do all reps, then face the other way. If the cable can't be pulled sideways safely, do a side plank on the knees instead.",
        "guide": 11,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Cardio finisher: easy bike or incline walk",
@@ -2821,29 +2927,31 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 3,
        "reps": "10-12",
-       "target": "35 lb bar (padded)",
+       "target": "45 lb",
        "cue": "Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 45
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "H+15*",
+       "target": "25 lb",
        "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Landmine press",
        "sets": 3,
        "reps": "10/arm",
-       "target": "Bar only, one arm, standing",
+       "target": "Empty bar, one arm, standing",
        "cue": "45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
        "guide": 13,
        "kind": "strength",
@@ -2854,12 +2962,13 @@
        "name": "One-arm low cable row",
        "sets": 2,
        "reps": "10/arm",
-       "target": "Same as B",
+       "target": "15 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
        "guide": 14,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Plank (core)",
@@ -2904,18 +3013,19 @@
        "name": "Goblet squat",
        "sets": 3,
        "reps": "8-10",
-       "target": "25 lb dumbbell",
+       "target": "30 lb* (handle + 10 + 2.5 each end) or 25 lb",
        "cue": "Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 30
       },
       {
        "name": "Incline push-up (bar in rack)",
        "sets": 3,
        "reps": "8-12",
-       "target": "Same (or lower if EASY)",
+       "target": "Same (or lower if 3x12 EASY)",
        "cue": "Straight body, chest to the bar, elbows about 45 degrees from the body. When all sets reach 12 EASY reps, lower the bar one hole next week.",
        "guide": 3,
        "kind": "strength",
@@ -2926,18 +3036,19 @@
        "name": "Lat pulldown",
        "sets": 3,
        "reps": "8-10",
-       "target": "+5 if EASY",
+       "target": "25 lb",
        "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "8-10/leg",
-       "target": "Single-leg bridge (other foot up)",
+       "target": "Single-leg bridge, bodyweight",
        "cue": "Lie on your back, knees bent, feet flat. Ribs down, push through the heels, squeeze the glutes until knees-hips-shoulders line up, lower slowly.",
        "guide": 5,
        "kind": "strength",
@@ -2997,56 +3108,61 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 3,
        "reps": "8-10",
-       "target": "45 lb if EASY (else 35)",
+       "target": "45 lb if EASY (else 40*)",
        "cue": "Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 45
       },
       {
        "name": "Low cable row",
        "sets": 3,
        "reps": "8-10",
-       "target": "+5 if EASY",
+       "target": "25 lb",
        "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Dumbbell overhead press (seated)",
        "sets": 3,
        "reps": "8-10",
-       "target": "2 handles, each H+5*",
+       "target": "10 lb each* (handle + 2.5 each end)",
        "cue": "Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Split squat",
        "sets": 2,
        "reps": "8-10/leg",
-       "target": "2 handles, each H+10",
+       "target": "15 lb each",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Pallof press (low row cable)",
        "sets": 2,
        "reps": "12/side",
-       "target": "Standing, +5 lb if EASY",
+       "target": "10 lb, standing",
        "cue": "Stand or kneel side-on to the low-row cable, handle at the chest. Press straight out, hold 2 sec without letting the cable twist you, bring back. Do all reps, then face the other way. If the cable can't be pulled sideways safely, do a side plank on the knees instead.",
        "guide": 11,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "Cardio finisher: easy bike or incline walk",
@@ -3071,29 +3187,31 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 3,
        "reps": "10-12",
-       "target": "35 lb bar or 45 lb dumbbell",
+       "target": "45 lb (55 lb with 10s if EASY)",
        "cue": "Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 45
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "H+15*",
+       "target": "25 lb",
        "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Landmine press",
        "sets": 3,
        "reps": "10/arm",
-       "target": "Bar only, one arm, standing",
+       "target": "Empty bar, one arm, standing",
        "cue": "45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
        "guide": 13,
        "kind": "strength",
@@ -3104,12 +3222,13 @@
        "name": "One-arm low cable row",
        "sets": 2,
        "reps": "10/arm",
-       "target": "Same as B",
+       "target": "15 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
        "guide": 14,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 15
       },
       {
        "name": "Plank (core)",
@@ -3154,12 +3273,13 @@
        "name": "Goblet squat",
        "sets": 2,
        "reps": "8-10",
-       "target": "25 lb dumbbell",
+       "target": "25 lb",
        "cue": "RETEST WEEK: light sets, then the retest. Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Incline push-up (bar in rack)",
@@ -3187,23 +3307,25 @@
        "name": "Lat pulldown",
        "sets": 2,
        "reps": "8-10",
-       "target": "Week-11 weight",
+       "target": "20 lb",
        "cue": "RETEST WEEK: light sets, then the retest. Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 20
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "Bodyweight",
+       "target": "25 lb dumbbell",
        "cue": "Lie on your back, knees bent, feet flat. Ribs down, push through the heels, squeeze the glutes until knees-hips-shoulders line up, lower slowly.",
        "guide": 5,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 25
       },
       {
        "name": "Dead bug (core)",
@@ -3263,51 +3385,56 @@
        "guide": 7,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 35
       },
       {
        "name": "Low cable row",
        "sets": 2,
        "reps": "8-10",
-       "target": "Week-11 weight",
+       "target": "20 lb",
        "cue": "RETEST WEEK: light sets, then the retest. Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 20
       },
       {
        "name": "Dumbbell overhead press (seated)",
        "sets": 2,
        "reps": "8-10",
-       "target": "2 empty handles",
+       "target": "5-7.5 lb each",
        "cue": "RETEST WEEK: light sets, then the retest. Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Split squat",
        "sets": 2,
        "reps": "10/leg",
-       "target": "Bodyweight",
+       "target": "5 lb each hand",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Pallof press (low row cable)",
        "sets": 2,
        "reps": "10/side",
-       "target": "Standing, nothing loaded",
+       "target": "5 lb, standing",
        "cue": "Stand or kneel side-on to the low-row cable, handle at the chest. Press straight out, hold 2 sec without letting the cable twist you, bring back. Do all reps, then face the other way. If the cable can't be pulled sideways safely, do a side plank on the knees instead.",
        "guide": 11,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 5
       },
       {
        "name": "Cardio finisher: easy bike or incline walk",
@@ -3337,24 +3464,26 @@
        "guide": 12,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 35
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "H+10",
+       "target": "20 lb* (or 15 lb)",
        "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 20
       },
       {
        "name": "Landmine press",
        "sets": 2,
        "reps": "8/arm",
-       "target": "Bar only, one arm",
+       "target": "Empty bar, one arm",
        "cue": "RETEST WEEK: light sets, then the retest. 45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
        "guide": 13,
        "kind": "strength",
@@ -3365,12 +3494,13 @@
        "name": "One-arm low cable row",
        "sets": 2,
        "reps": "10/arm",
-       "target": "Light",
+       "target": "10 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
        "guide": 14,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "RETEST: Plank - longest good-form hold",

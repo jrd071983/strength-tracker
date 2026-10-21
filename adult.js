@@ -91,7 +91,7 @@
     for (var i = 0; i < ex.sets; i++) {
       var rp = "<input data-f='r' data-e='" + ei + "' data-i='" + i + "' inputmode='numeric' autocomplete='off' placeholder='" + unit + "' value='" + esc(reps[i] || "") + "' aria-label='Set " + (i + 1) + " " + unit + "'>";
       if (ex.load === "none") { h += "<div class='set one'><label>SET " + (i + 1) + "</label>" + rp + "</div>"; continue; }
-      var wt = "<input data-f='w' data-e='" + ei + "' data-i='" + i + "' inputmode='decimal' autocomplete='off' placeholder='" + ll + "' value='" + esc(wts[i] || "") + "' aria-label='Set " + (i + 1) + " " + (ex.load === "hole" ? "bar hole number" : "weight in pounds") + "'>";
+      var wt = "<input data-f='w' data-e='" + ei + "' data-i='" + i + "' inputmode='decimal' autocomplete='off' placeholder='" + (ex.weight != null ? ex.weight : ll) + "' value='" + esc(wts[i] || "") + "' aria-label='Set " + (i + 1) + " " + (ex.load === "hole" ? "bar hole number" : "weight in pounds") + "'>";
       h += "<div class='set'><label>SET " + (i + 1) + "</label>" + wt + rp + "</div>";
     }
     return h + "</div>";
