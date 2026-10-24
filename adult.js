@@ -46,7 +46,7 @@
     if (!st.length) return cd.map(function (e) { return e.reps + " · " + e.name.replace(/^(BASELINE TEST|RETEST): /, "test: "); }).join(", ");
     return st.length + " exercises" + (cd.length ? " + " + cd[0].reps + " cardio finisher" : "");
   }
-  // Visible target line, e.g. "Target: 15 lb × 10-12" + detail ("2 sets · handle + 5 lb plate each end") + 2.5 lb plate note.
+  // Visible target line, e.g. "Target: 15 lb × 10-12" + detail ("2 sets · Bowflex, one dumbbell") + optional * note.
   function targetText(ex) {
     if (ex.kind === "cardio") return "Target: " + ex.reps + " · " + ex.target;
     var m = /^(\d+(?:\.\d+)?(?:-\d+(?:\.\d+)?)? lb\*?(?: (?:total|each(?: hand)?|bar))?\*?)/.exec(ex.target || "");
@@ -58,7 +58,7 @@
     var m = /^(\d+(?:\.\d+)?(?:-\d+(?:\.\d+)?)? lb\*?(?: (?:total|each(?: hand)?|bar))?\*?)\s*(.*)$/.exec(ex.target || "");
     if (m && m[2]) detail += " · " + m[2].replace(/^\((.*)\)$/, "$1");
     var h = "<div class='target' data-target>" + esc(t) + "</div>" + (detail ? "<div class='load'>" + esc(detail) + "</div>" : "");
-    if (/\*/.test(ex.target || "")) h += "<div class='starnote'>* needs 2.5 lb plates - without them, stay at the last weight and add 1-2 reps</div>";
+    if (/\*/.test(ex.target || "")) h += "<div class='starnote'>* if that step is too much, stay at the last weight and add 1-2 reps</div>";
     return h;
   }
   function isTime(reps) { return /sec/i.test(reps); }

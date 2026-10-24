@@ -8,7 +8,7 @@
  "targetHeader": "Target load / settings - suggested, adjust",
  "warmup": [
   {
-   "label": "1. Get warm (3 min)",
+   "label": "1. Get warm (2-3 min)",
    "text": "Easy bike or treadmill walk, gradually picking up the pace."
   },
   {
@@ -16,8 +16,12 @@
    "text": "10 cat-cows, 10 bodyweight squats to the bench, 10 hip hinges (hands on hips, push hips back), 10 arm circles each way, 10 glute bridges."
   },
   {
-   "label": "3. Ramp-up set (1 min)",
-   "text": "Before the first exercise: 1 light set of 6-8 reps (empty handle or no weight) focusing on form."
+   "label": "3. TRX rows (1 min, optional)",
+   "text": "8-10 easy TRX rows with the body fairly upright (walk the feet forward to make it harder). Warms up the upper back."
+  },
+  {
+   "label": "4. Ramp-up set (1 min)",
+   "text": "Before the first exercise: 1 light set of 6-8 reps (lightest Bowflex setting or no weight) focusing on form."
   }
  ],
  "cooldown": [
@@ -73,7 +77,7 @@
     },
     {
      "label": "Strength C (Day 4)",
-     "text": "Hip thrust | Goblet squat with 2-sec pause | Landmine press | One-arm low cable row | Plank | 10-15 min easy cardio finisher."
+     "text": "Hip thrust | Goblet squat with 2-sec pause | Landmine press (interim: one-arm Bowflex press until the Olympic bar arrives) | One-arm low cable row | Plank | 10-15 min easy cardio finisher."
     },
     {
      "label": "Session length (35-45 min)",
@@ -85,7 +89,7 @@
    "title": "WARM-UP & COOL-DOWN",
    "items": [
     {
-     "label": "1. Get warm (3 min)",
+     "label": "1. Get warm (2-3 min)",
      "text": "Easy bike or treadmill walk, gradually picking up the pace."
     },
     {
@@ -93,8 +97,12 @@
      "text": "10 cat-cows, 10 bodyweight squats to the bench, 10 hip hinges (hands on hips, push hips back), 10 arm circles each way, 10 glute bridges."
     },
     {
-     "label": "3. Ramp-up set (1 min)",
-     "text": "Before the first exercise: 1 light set of 6-8 reps (empty handle or no weight) focusing on form."
+     "label": "3. TRX rows (1 min, optional)",
+     "text": "8-10 easy TRX rows with the body fairly upright (walk the feet forward to make it harder). Warms up the upper back."
+    },
+    {
+     "label": "4. Ramp-up set (1 min)",
+     "text": "Before the first exercise: 1 light set of 6-8 reps (lightest Bowflex setting or no weight) focusing on form."
     },
     {
      "label": "Cool-down (3-5 min)",
@@ -128,27 +136,27 @@
    "items": [
     {
      "label": "How it works",
-     "text": "Each exercise has a rep target (e.g., 3 x 10-12). Keep the same weight until ALL sets feel EASY at the top of the range with good form, then add a small amount (2.5-5 lb) next time. If a set is HARD or form slips, stay at that weight (or go lighter)."
+     "text": "Each exercise has a rep target (e.g., 3 x 10-12). Keep the same weight until ALL sets feel EASY at the top of the range with good form, then add one small step next time (2.5 lb on the Bowflex, 5 lb on the cable machine). If a set is HARD or form slips, stay at that weight (or go lighter)."
     },
     {
      "label": "Starting weights",
-     "text": "All weights are ESTIMATES for week 1, aimed at RPE 6-7. Dumbbell handle assumed to weigh about 5 lb - WEIGH ONE before week 1: ______ lb; if it's different, adjust the handle numbers by the difference. 15 lb = handle + 5 lb plate each end; 25 lb = the 25 lb dumbbell (or handle + 10 each end). Cable weights = plates loaded on the machine."
+     "text": "All weights are ESTIMATES for week 1, aimed at RPE 6-7. Dumbbell work uses the Bowflex SelectTech 52 (5-52.5 lb per hand, 2.5 lb steps): goblet squat 15 lb, RDL 15 lb each hand, overhead press 5 lb each hand, split squat bodyweight then 5-10 lb each hand. Hip thrust and glute bridge start with the 25 lb dumbbell. Cable weights = plates loaded on the machine."
     },
     {
      "label": "Week 1 rule",
      "text": "If you get 15+ reps EASILY, go up one step on the next set or session. If you can't do 10 reps with good form, go down one step. Write down what you actually used - that becomes your real starting weight."
     },
     {
-     "label": "Small jumps need 2.5s",
-     "text": "Targets marked * need the 2.5 lb plates (recommended purchase), e.g. 20 lb = handle + 5 + 2.5 each end. Without them, stay at the previous weight and add 1-2 reps per set instead - the 5 lb plates make 10 lb jumps on a handle, which is too big a step. Overhead press: +2.5 lb per hand needs 1.25 lb plates; with 2.5s the step is 5 to 10 lb per hand."
+     "label": "Weight steps",
+     "text": "Bowflex: 2.5 lb steps per dumbbell, so no extra small plates are needed. Cable machine: plates come in 5/10/25/45 lb, so cable steps are 5 lb. Hip thrust moves 25 lb dumbbell -> 30 lb bar (padded) -> Bowflex 35-40 lb -> 45 lb dumbbell."
     },
     {
      "label": "Cable machines",
-     "text": "Lat pulldown and low cable row start at 10 lb loaded (expected range 10-20), one-arm cable row at 5 lb (5-10), Pallof press at 5 lb. The empty carriage has some resistance of its own. Add 5 lb (or 2.5 lb) when all sets are EASY."
+     "text": "Lat pulldown and low cable row start at 10 lb loaded (expected range 10-20), one-arm cable row at 5 lb (5-10), Pallof press at 5 lb. The empty carriage has some resistance of its own. Plates are 5/10/25/45 lb, so add 5 lb when all sets are EASY."
     },
     {
      "label": "Bodyweight moves",
-     "text": "Incline push-ups start with the rack bar at about waist/hip height and get harder by lowering the bar one hole when 3 x 12 feels EASY. Planks (start ~20-30 sec) and dead bugs progress with time/reps; split squats are bodyweight in weeks 1-2, then 5 lb handles in each hand."
+     "text": "Incline push-ups start with the rack bar at about waist/hip height and get harder by lowering the bar one hole when 3 x 12 feels EASY. Planks (start ~20-30 sec) and dead bugs progress with time/reps; split squats are bodyweight in weeks 1-2 (hold the TRX handles or the rack for balance), then 5-10 lb Bowflex in each hand."
     },
     {
      "label": "Cardio",
@@ -193,7 +201,11 @@
     },
     {
      "label": "Rack safeties set",
-     "text": "Keep the power rack safeties set (pins locked) for incline push-ups and whenever the bar is in the rack. Take the RDL bar from the rack hooks, not the floor."
+     "text": "Keep the power rack safeties set (pins locked) for incline push-ups and whenever a bar is in the rack."
+    },
+    {
+     "label": "Bowflex dials",
+     "text": "Only turn the dials with the dumbbell sitting fully in its tray, and set BOTH ends to the same number before lifting it straight up. Put it all the way back in the tray before changing the weight. Never drop it."
     },
     {
      "label": "Recovery",
@@ -206,55 +218,51 @@
    ]
   },
   {
-   "title": "EQUIPMENT NOTES",
+   "title": "EQUIPMENT NOTES (updated Oct 23, 2026)",
    "items": [
     {
-     "label": "Mikolo F4 power rack + safeties",
-     "text": "Incline push-up station: bar on the J-hooks/safeties at hip height to start, lowered one hole at a time. Hold the upright for balance on split squats. Safeties always set."
+     "label": "Bowflex SelectTech 52",
+     "text": "Adjustable dumbbells, 5-52.5 lb per hand in 2.5 lb steps. Used for goblet squats, RDLs, split squats, the overhead press, the interim one-arm press and hip thrusts in weeks 9-10. Turn the dials only with the dumbbell in its tray, and set both ends to the same number."
     },
     {
-     "label": "Plate-loaded lat pulldown & low cable row",
-     "text": "Lat pulldown, low cable row, one-arm row and the Pallof press (side-on to the low-row cable). Start: pulldown and row 10 lb, one-arm row 5 lb, Pallof 5 lb (plates loaded on the machine)."
+     "label": "Fixed dumbbells 25 and 45 lb",
+     "text": "25 lb: hip thrust and glute bridge from week 1. 45 lb: hip thrust in week 11 (padded)."
     },
     {
-     "label": "Landmine",
-     "text": "Landmine press with the empty 45 lb Olympic bar (you only lift part of the bar's weight). Two hands in weeks 1-4; one arm from week 5."
+     "label": "2-inch plate-loaded handles (9 lb each)",
+     "text": "Not needed in this plan - the Bowflex covers all dumbbell work. Backup only: 9 lb handle + plates."
     },
     {
-     "label": "Flat bench + leg extension attachment",
-     "text": "Bench = hip thrust support, seated overhead press, squat depth target. Leg extension is not in the plan (optional later)."
+     "label": "Olympic plates",
+     "text": "2 x 45, 2 x 25, 8 x 10, 4 x 5 lb. Used on the lat pulldown / low row (5 lb steps). No 2.5 lb plates are needed - the Bowflex handles the small steps."
     },
     {
-     "label": "35 lb bar",
-     "text": "Romanian deadlift from week 5; hip thrust (padded with a towel) from week 5, once 3 x 15 with the 25 lb dumbbell feels EASY."
+     "label": "CAP Boss Olympic bar (on order)",
+     "text": "For the landmine press once it arrives. Until then, do the interim half-kneeling one-arm Bowflex press."
     },
     {
-     "label": "45 lb Olympic bar",
-     "text": "Landmine only."
+     "label": "Old 30 lb bar",
+     "text": "Hip thrust (padded with a towel or pad, no plates) from week 5. Only use it in the landmine if its sleeve is 2-inch and fits the landmine - not known yet, so check first."
     },
     {
-     "label": "EZ curl bar, pull-up bar, dip handles",
-     "text": "Not used in this plan (optional extras later: EZ-bar curls, dead hangs)."
+     "label": "15 lb EZ curl bar",
+     "text": "Not used in this plan (optional curls later)."
     },
     {
-     "label": "Plate-loading dumbbell handles",
-     "text": "Assumed about 5 lb each - weigh one: ______ lb (adjust the numbers if different). Goblet squat 15 lb (5 lb plate each end), RDL 2 x 15 lb (weeks 1-4), split squat and overhead press with empty handles (5 lb each)."
+     "label": "Mikolo F4 power rack",
+     "text": "Safeties set for incline push-ups (bar on the J-hooks at waist/hip height). Lat pulldown / low row: pulldown, rows and the Pallof press. Landmine: once the Olympic bar arrives. Dip handles: not used."
     },
     {
-     "label": "Plates on hand",
-     "text": "2 x 45 lb, 4 x 10 lb, 4 x 5 lb. On a 5 lb handle that makes 15 lb (5s), 25 lb (10s) or 35 lb (10s + 5s), and two 15 lb handles for RDLs. Smaller steps (10, 20, 30 lb) need 2.5 lb plates."
+     "label": "TRX straps",
+     "text": "Warm-up rows, an alternative to the low cable row, and balance support for squats and split squats in the early weeks. Anchor them securely and check the straps before each use."
     },
     {
-     "label": "Fixed dumbbells 25s and 45s",
-     "text": "25 lb: hip thrust and glute bridge from week 1, goblet squat from week 7. 45 lb: not needed (optional hip thrust later)."
+     "label": "Flat bench",
+     "text": "Hip thrust support, seated overhead press, squat depth target."
     },
     {
      "label": "Indoor bike + treadmill",
      "text": "Cardio day and the 10-15 min finisher after strength days. Note the machine, speed/incline or resistance each time so progress is comparable."
-    },
-    {
-     "label": "No TRX",
-     "text": "Not needed; the cable stations and rack cover pulling and the Pallof press."
     }
    ]
   },
@@ -262,16 +270,8 @@
    "title": "SUGGESTED PURCHASES",
    "items": [
     {
-     "label": "Pair of 2.5 lb plates (2 pairs ideal)",
-     "text": "Recommended. Allows +5 lb steps on a handle (2.5 each end) and on the bar, and +2.5 lb on the cable stations. Very low cost; makes the * targets possible."
-    },
-    {
      "label": "Hip thrust pad or folded towel",
-     "text": "For comfort when the 35 lb bar sits on the hips (weeks 9-12)."
-    },
-    {
-     "label": "Nice to have: 1.25 lb plates",
-     "text": "Even smaller steps for the overhead press."
+     "text": "For comfort when the 30 lb bar, Bowflex or 45 lb dumbbell sits on the hips (weeks 5-12). Nothing else is needed."
     }
    ]
   }
@@ -290,7 +290,7 @@
   {
    "name": "Goblet squat",
    "day": "A + C",
-   "how": "Hold one dumbbell handle vertically against the chest with both hands. Feet about shoulder width, toes slightly out. Sit down between the heels as deep as you comfortably can with the chest up and heels down (touch the bench first if helpful), then stand tall. Day C version: pause 2 sec at the bottom. Start: 15 lb (handle + 5 lb plate each end)."
+   "how": "Hold one Bowflex dumbbell vertically by one end against the chest with both hands. Feet about shoulder width, toes slightly out. Sit down between the heels as deep as you comfortably can with the chest up and heels down (touch the bench first if helpful; hold the TRX handles for balance in the first weeks if needed), then stand tall. Day C version: pause 2 sec at the bottom. Start: 15 lb."
   },
   {
    "name": "Incline push-up (bar in rack)",
@@ -315,7 +315,7 @@
   {
    "name": "Romanian deadlift (RDL)",
    "day": "Strength B",
-   "how": "Start STANDING with the weight (bar from the rack hooks at mid-thigh, or a handle in each hand). Soft knees, push the hips back, let the weight slide down the thighs to just below the knees with a flat back and neck in line, then stand by squeezing the glutes. Feel it in the hamstrings, not the low back. Start: 2 handles at 15 lb each (30 lb total)."
+   "how": "Stand tall with a Bowflex dumbbell in each hand at the thighs. Soft knees, push the hips back, let the dumbbells slide down the thighs to just below the knees with a flat back and neck in line, then stand by squeezing the glutes. Feel it in the hamstrings, not the low back. Start: 15 lb in each hand."
   },
   {
    "name": "Low cable row",
@@ -325,12 +325,12 @@
   {
    "name": "Dumbbell overhead press (seated)",
    "day": "Strength B",
-   "how": "Sit tall on the bench, feet flat, ribs down. Handles at shoulder height, palms facing forward or in. Press straight up until the arms are by the ears, lower slowly. No arching the low back. Start: empty handles (~5 lb each); +2.5 lb when EASY."
+   "how": "Sit tall on the bench, feet flat, ribs down. Bowflex dumbbells at shoulder height, palms facing forward or in. Press straight up until the arms are by the ears, lower slowly. No arching the low back. Start: 5 lb in each hand; +2.5 lb when EASY."
   },
   {
    "name": "Split squat",
    "day": "Strength B",
-   "how": "Long stance, feet hip-width apart (like train tracks, not a tightrope). Lower the back knee gently toward the floor, front knee over the middle of the foot, torso tall, push through the front heel to rise. Hold the rack for balance. Do all reps, then switch legs. Bodyweight in weeks 1-2, then 5 lb handles in each hand."
+   "how": "Long stance, feet hip-width apart (like train tracks, not a tightrope). Lower the back knee gently toward the floor, front knee over the middle of the foot, torso tall, push through the front heel to rise. Weeks 1-2: bodyweight, holding the TRX handles (or the rack) for balance. Then 5-10 lb Bowflex in each hand. Do all reps, then switch legs."
   },
   {
    "name": "Pallof press (low row cable)",
@@ -340,12 +340,22 @@
   {
    "name": "Hip thrust (shoulders on bench)",
    "day": "Strength C",
-   "how": "Sit on the floor with the upper back against the long side of the bench, knees bent, feet flat. Weight (dumbbell or padded bar) across the hip crease. Chin tucked, drive through the heels to lift the hips until level with knees and shoulders, squeeze 1 sec, lower under control. Start: 25 lb dumbbell; 35 lb padded bar once 3 x 15 feels EASY."
+   "how": "Sit on the floor with the upper back against the long side of the bench, knees bent, feet flat. Weight across the hip crease on a pad or folded towel. Chin tucked, drive through the heels to lift the hips until level with knees and shoulders, squeeze 1 sec, lower under control. Start: 25 lb dumbbell; 30 lb bar once 3 x 15 feels EASY; then Bowflex 35-40 lb and the 45 lb dumbbell."
   },
   {
-   "name": "Landmine press",
+   "name": "Landmine press (interim: one-arm DB press)",
    "day": "Strength C",
-   "how": "45 lb bar in the landmine. Hold the bar end at the chest (both hands to start; later one hand, half-kneeling or standing). Press up and forward until the arm is straight, lower slowly. Ribs down, glutes tight, no leaning back. Start: empty bar, two hands."
+   "how": "INTERIM until the CAP Olympic bar arrives: half-kneeling one-arm Bowflex press - kneel on the same-side knee as the working arm, dumbbell at the shoulder, press up and slightly forward, ribs down, glutes tight. Start: 7.5 lb. Once the Olympic bar is here: landmine press with the empty bar, both hands for 4 weeks, then one arm. Only use the old 30 lb bar in the landmine if its 2-inch sleeve fits (unknown - check first)."
+  },
+  {
+   "name": "TRX row",
+   "day": "Warm-up",
+   "how": "Hold the TRX handles, arms straight, body in a straight line and leaning back. Pull the chest up to the hands, squeeze the shoulder blades, lower slowly. More upright = easier; walk the feet forward to make it harder. Warm-up or an alternative to the low cable row."
+  },
+  {
+   "name": "Bowflex SelectTech 52 - setting the weight",
+   "day": "Equipment",
+   "how": "With the dumbbell sitting fully in its tray, turn BOTH end dials to the same number, then lift it straight up. Return it fully to the tray before changing the weight. Never drop it or turn the dials while it is out of the tray."
   },
   {
    "name": "One-arm low cable row",
@@ -397,8 +407,8 @@
        "name": "Goblet squat",
        "sets": 2,
        "reps": "10-12",
-       "target": "15 lb (handle + 5 lb plate each end)",
-       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
+       "target": "15 lb (Bowflex, one dumbbell)",
+       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Hold one Bowflex dumbbell vertically by one end at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter. Depth tricky? Hold the TRX handles lightly for balance.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
@@ -432,7 +442,7 @@
        "sets": 2,
        "reps": "10-12",
        "target": "10 lb on the machine (range 10-20)",
-       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
@@ -468,7 +478,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -487,7 +497,7 @@
        "reps": "20 min",
        "target": "Bike OR treadmill walk - note machine, setting, distance",
        "cue": "Pick ONE machine for your test. Easy steady pace you could hold a conversation at. Write machine, speed/incline or resistance, DISTANCE and effort (1-10). Repeated exactly in week 12.",
-       "guide": 16,
+       "guide": 18,
        "kind": "cardio",
        "load": "none",
        "test": true
@@ -504,20 +514,20 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 2,
        "reps": "10-12",
-       "target": "30 lb total (2 handles, 15 lb each)",
-       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "target": "15 lb each hand (Bowflex)",
+       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Stand tall with a Bowflex dumbbell in each hand at the thighs. Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 30
+       "weight": 15
       },
       {
        "name": "Low cable row",
        "sets": 2,
        "reps": "10-12",
        "target": "10 lb on the machine (range 10-20)",
-       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. Alternative: TRX row. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
@@ -528,8 +538,8 @@
        "name": "Dumbbell overhead press (seated)",
        "sets": 2,
        "reps": "10-12",
-       "target": "5 lb each (empty handles)",
-       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
+       "target": "5 lb each hand (Bowflex)",
+       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Sit tall on the bench, ribs down, glutes squeezed. Dumbbells at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back.",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
@@ -540,7 +550,7 @@
        "name": "Split squat",
        "sets": 2,
        "reps": "8/leg",
-       "target": "Bodyweight, hold the rack",
+       "target": "Bodyweight, TRX-assisted (or hold the rack)",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
@@ -565,7 +575,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -594,8 +604,8 @@
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "15 lb (handle + 5 lb plate each end)",
-       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
+       "target": "15 lb (Bowflex, one dumbbell)",
+       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
@@ -603,15 +613,16 @@
        "weight": 15
       },
       {
-       "name": "Landmine press",
+       "name": "Landmine press (interim: one-arm DB press)",
        "sets": 2,
-       "reps": "10-12",
-       "target": "Empty 45 lb bar, both hands, standing",
-       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. 45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
+       "reps": "10-12/arm",
+       "target": "7.5 lb Bowflex, one arm, half-kneeling",
+       "cue": "BASELINE: starting weights are estimates - if 15+ reps are EASY go up one step next set/session; if you can't do 10 with good form, go down one step. Interim until the CAP Olympic bar arrives: half-kneeling one-arm Bowflex press - dumbbell at the shoulder, press up and slightly forward, ribs down, no leaning. Once the Olympic bar is here, switch to the landmine press (empty bar: both hands weeks 1-4, then one arm). Only use the old 30 lb bar in the landmine if its sleeve is 2-inch and fits - not known yet, so check first.",
        "guide": 13,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 7.5
       },
       {
        "name": "One-arm low cable row",
@@ -619,7 +630,7 @@
        "reps": "10/arm",
        "target": "5 lb on the cable (range 5-10)",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
-       "guide": 14,
+       "guide": 16,
        "kind": "strength",
        "load": "lb",
        "test": false,
@@ -631,7 +642,7 @@
        "reps": "Max good-form sec",
        "target": "Forearm plank (~20-30 sec expected; knees down OK - note it)",
        "cue": "Forearms down, body straight, glutes and belly tight, keep breathing. Stop when hips sag or the low back arches. Write seconds. Compared in week 12.",
-       "guide": 15,
+       "guide": 17,
        "kind": "strength",
        "load": "none",
        "test": true
@@ -642,7 +653,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -669,7 +680,7 @@
        "sets": 3,
        "reps": "12",
        "target": "15 lb",
-       "cue": "Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
+       "cue": "Hold one Bowflex dumbbell vertically by one end at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter. Depth tricky? Hold the TRX handles lightly for balance.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
@@ -692,7 +703,7 @@
        "sets": 3,
        "reps": "12",
        "target": "10 lb (15 if week 1 was EASY)",
-       "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
@@ -728,7 +739,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -747,7 +758,7 @@
        "reps": "22 min",
        "target": "Bike or treadmill walk, easy pace",
        "cue": "Talk test: you can speak in full sentences. Effort about 4/10. Same pace or a touch faster than week 1.",
-       "guide": 16,
+       "guide": 18,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -764,20 +775,20 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 3,
        "reps": "12",
-       "target": "30 lb (15 lb each hand)",
-       "cue": "Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "target": "15 lb each hand",
+       "cue": "Stand tall with a Bowflex dumbbell in each hand at the thighs. Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 30
+       "weight": 15
       },
       {
        "name": "Low cable row",
        "sets": 3,
        "reps": "12",
        "target": "10 lb (15 if week 1 was EASY)",
-       "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. Alternative: TRX row. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
@@ -788,8 +799,8 @@
        "name": "Dumbbell overhead press (seated)",
        "sets": 3,
        "reps": "10-12",
-       "target": "5 lb each (empty handles)",
-       "cue": "Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
+       "target": "5 lb each hand",
+       "cue": "Sit tall on the bench, ribs down, glutes squeezed. Dumbbells at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back.",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
@@ -800,7 +811,7 @@
        "name": "Split squat",
        "sets": 2,
        "reps": "10/leg",
-       "target": "Bodyweight",
+       "target": "Bodyweight (TRX-assisted if needed)",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
@@ -825,7 +836,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -855,7 +866,7 @@
        "sets": 2,
        "reps": "10",
        "target": "15 lb",
-       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
+       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
@@ -863,15 +874,16 @@
        "weight": 15
       },
       {
-       "name": "Landmine press",
+       "name": "Landmine press (interim: one-arm DB press)",
        "sets": 3,
-       "reps": "10-12",
-       "target": "Empty 45 lb bar, both hands, standing",
-       "cue": "45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
+       "reps": "10-12/arm",
+       "target": "7.5 lb Bowflex, one arm, half-kneeling",
+       "cue": "Interim until the CAP Olympic bar arrives: half-kneeling one-arm Bowflex press - dumbbell at the shoulder, press up and slightly forward, ribs down, no leaning. Once the Olympic bar is here, switch to the landmine press (empty bar: both hands weeks 1-4, then one arm). Only use the old 30 lb bar in the landmine if its sleeve is 2-inch and fits - not known yet, so check first.",
        "guide": 13,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 7.5
       },
       {
        "name": "One-arm low cable row",
@@ -879,7 +891,7 @@
        "reps": "10/arm",
        "target": "5 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
-       "guide": 14,
+       "guide": 16,
        "kind": "strength",
        "load": "lb",
        "test": false,
@@ -891,7 +903,7 @@
        "reps": "20-30 sec",
        "target": "Forearm plank",
        "cue": "Body straight head to heels, glutes and belly tight, breathe. Stop the set when hips sag. Too hard: knees down.",
-       "guide": 15,
+       "guide": 17,
        "kind": "strength",
        "load": "none",
        "test": false
@@ -902,7 +914,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -928,13 +940,13 @@
        "name": "Goblet squat",
        "sets": 3,
        "reps": "12",
-       "target": "15 lb (20 lb* if EASY)",
-       "cue": "Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
+       "target": "17.5 lb (15 if week 2 felt HARD)",
+       "cue": "Hold one Bowflex dumbbell vertically by one end at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 15
+       "weight": 17.5
       },
       {
        "name": "Incline push-up (bar in rack)",
@@ -952,7 +964,7 @@
        "sets": 3,
        "reps": "12",
        "target": "15 lb",
-       "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
@@ -988,7 +1000,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -1007,7 +1019,7 @@
        "reps": "25 min",
        "target": "Bike or treadmill walk, easy pace",
        "cue": "Talk test. If it was EASY last week, add a little speed or 1-2% incline - but stay conversational.",
-       "guide": 16,
+       "guide": 18,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -1024,20 +1036,20 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 3,
        "reps": "12",
-       "target": "30 lb (15 lb each hand)",
-       "cue": "Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "target": "17.5 lb each hand",
+       "cue": "Stand tall with a Bowflex dumbbell in each hand at the thighs. Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 30
+       "weight": 17.5
       },
       {
        "name": "Low cable row",
        "sets": 3,
        "reps": "12",
        "target": "15 lb",
-       "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. Alternative: TRX row. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
@@ -1048,19 +1060,19 @@
        "name": "Dumbbell overhead press (seated)",
        "sets": 3,
        "reps": "10-12",
-       "target": "5 lb each (empty handles)",
-       "cue": "Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
+       "target": "7.5 lb each hand",
+       "cue": "Sit tall on the bench, ribs down, glutes squeezed. Dumbbells at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back.",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 5
+       "weight": 7.5
       },
       {
        "name": "Split squat",
        "sets": 2,
        "reps": "10/leg",
-       "target": "5 lb each hand (empty handles)",
+       "target": "5 lb each hand (Bowflex)",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
@@ -1086,7 +1098,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -1116,7 +1128,7 @@
        "sets": 2,
        "reps": "10",
        "target": "15 lb",
-       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
+       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
@@ -1124,15 +1136,16 @@
        "weight": 15
       },
       {
-       "name": "Landmine press",
+       "name": "Landmine press (interim: one-arm DB press)",
        "sets": 3,
-       "reps": "10-12",
-       "target": "Empty 45 lb bar, both hands, standing",
-       "cue": "45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
+       "reps": "10-12/arm",
+       "target": "7.5 lb Bowflex, one arm, half-kneeling",
+       "cue": "Interim until the CAP Olympic bar arrives: half-kneeling one-arm Bowflex press - dumbbell at the shoulder, press up and slightly forward, ribs down, no leaning. Once the Olympic bar is here, switch to the landmine press (empty bar: both hands weeks 1-4, then one arm). Only use the old 30 lb bar in the landmine if its sleeve is 2-inch and fits - not known yet, so check first.",
        "guide": 13,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 7.5
       },
       {
        "name": "One-arm low cable row",
@@ -1140,7 +1153,7 @@
        "reps": "10/arm",
        "target": "5-10 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
-       "guide": 14,
+       "guide": 16,
        "kind": "strength",
        "load": "lb",
        "test": false,
@@ -1152,7 +1165,7 @@
        "reps": "30 sec",
        "target": "Forearm plank",
        "cue": "Body straight head to heels, glutes and belly tight, breathe. Stop the set when hips sag. Too hard: knees down.",
-       "guide": 15,
+       "guide": 17,
        "kind": "strength",
        "load": "none",
        "test": false
@@ -1163,7 +1176,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -1190,7 +1203,7 @@
        "sets": 2,
        "reps": "12",
        "target": "15 lb (easy)",
-       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
+       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Hold one Bowflex dumbbell vertically by one end at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
@@ -1213,7 +1226,7 @@
        "sets": 2,
        "reps": "12",
        "target": "10 lb (easy)",
-       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
@@ -1249,7 +1262,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -1268,7 +1281,7 @@
        "reps": "20 min",
        "target": "Bike or treadmill walk, relaxed",
        "cue": "Deload: shorter and relaxed. Effort 3-4/10.",
-       "guide": 16,
+       "guide": 18,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -1285,20 +1298,20 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 2,
        "reps": "12",
-       "target": "30 lb (15 each, easy)",
-       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "target": "15 lb each hand (easy)",
+       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Stand tall with a Bowflex dumbbell in each hand at the thighs. Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 30
+       "weight": 15
       },
       {
        "name": "Low cable row",
        "sets": 2,
        "reps": "12",
        "target": "10 lb (easy)",
-       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. Alternative: TRX row. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
@@ -1309,8 +1322,8 @@
        "name": "Dumbbell overhead press (seated)",
        "sets": 2,
        "reps": "10-12",
-       "target": "5 lb each (empty handles)",
-       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
+       "target": "5 lb each hand (easy)",
+       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Sit tall on the bench, ribs down, glutes squeezed. Dumbbells at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back.",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
@@ -1346,7 +1359,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -1376,7 +1389,7 @@
        "sets": 2,
        "reps": "10",
        "target": "15 lb (easy)",
-       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
+       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
@@ -1384,15 +1397,16 @@
        "weight": 15
       },
       {
-       "name": "Landmine press",
+       "name": "Landmine press (interim: one-arm DB press)",
        "sets": 2,
-       "reps": "10-12",
-       "target": "Empty 45 lb bar, both hands, standing",
-       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. 45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
+       "reps": "10-12/arm",
+       "target": "7.5 lb Bowflex, one arm, half-kneeling",
+       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Interim until the CAP Olympic bar arrives: half-kneeling one-arm Bowflex press - dumbbell at the shoulder, press up and slightly forward, ribs down, no leaning. Once the Olympic bar is here, switch to the landmine press (empty bar: both hands weeks 1-4, then one arm). Only use the old 30 lb bar in the landmine if its sleeve is 2-inch and fits - not known yet, so check first.",
        "guide": 13,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 7.5
       },
       {
        "name": "One-arm low cable row",
@@ -1400,7 +1414,7 @@
        "reps": "10/arm",
        "target": "5 lb (easy)",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
-       "guide": 14,
+       "guide": 16,
        "kind": "strength",
        "load": "lb",
        "test": false,
@@ -1412,7 +1426,7 @@
        "reps": "20 sec",
        "target": "Forearm plank",
        "cue": "Body straight head to heels, glutes and belly tight, breathe. Stop the set when hips sag. Too hard: knees down.",
-       "guide": 15,
+       "guide": 17,
        "kind": "strength",
        "load": "none",
        "test": false
@@ -1423,7 +1437,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -1449,8 +1463,8 @@
        "name": "Goblet squat",
        "sets": 3,
        "reps": "10-12",
-       "target": "20 lb* (handle + 5 + 2.5 each end)",
-       "cue": "Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
+       "target": "20 lb",
+       "cue": "Hold one Bowflex dumbbell vertically by one end at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
@@ -1473,7 +1487,7 @@
        "sets": 3,
        "reps": "10-12",
        "target": "15 lb",
-       "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
@@ -1509,7 +1523,7 @@
        "reps": "12 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -1528,7 +1542,7 @@
        "reps": "28 min",
        "target": "Treadmill walk at 2-4% incline (or bike)",
        "cue": "Add a little incline but keep the talk test. Hold the rails only for balance, not support.",
-       "guide": 16,
+       "guide": 18,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -1545,20 +1559,20 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 3,
        "reps": "10-12",
-       "target": "35 lb bar",
-       "cue": "Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "target": "20 lb each hand",
+       "cue": "Stand tall with a Bowflex dumbbell in each hand at the thighs. Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 35
+       "weight": 20
       },
       {
        "name": "Low cable row",
        "sets": 3,
        "reps": "10-12",
        "target": "15 lb",
-       "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. Alternative: TRX row. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
@@ -1569,8 +1583,8 @@
        "name": "Dumbbell overhead press (seated)",
        "sets": 3,
        "reps": "10-12",
-       "target": "7.5-10 lb each* (or 5 lb x 15)",
-       "cue": "Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
+       "target": "7.5 lb each hand",
+       "cue": "Sit tall on the bench, ribs down, glutes squeezed. Dumbbells at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back.",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
@@ -1581,13 +1595,13 @@
        "name": "Split squat",
        "sets": 2,
        "reps": "10/leg",
-       "target": "5 lb each hand",
+       "target": "7.5 lb each hand",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 5
+       "weight": 7.5
       },
       {
        "name": "Pallof press (low row cable)",
@@ -1607,7 +1621,7 @@
        "reps": "12 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -1624,36 +1638,37 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 3,
        "reps": "12",
-       "target": "35 lb bar, padded (once 3x15 at 25 was EASY)",
+       "target": "30 lb bar, padded (once 3x15 at 25 was EASY)",
        "cue": "Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 35
+       "weight": 30
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "20 lb* (or 15 lb)",
-       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
+       "target": "17.5 lb",
+       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 20
+       "weight": 17.5
       },
       {
-       "name": "Landmine press",
+       "name": "Landmine press (interim: one-arm DB press)",
        "sets": 3,
        "reps": "8-10/arm",
-       "target": "Empty bar, one arm, half-kneeling",
-       "cue": "45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
+       "target": "10 lb Bowflex, one arm, half-kneeling",
+       "cue": "Interim until the CAP Olympic bar arrives: half-kneeling one-arm Bowflex press - dumbbell at the shoulder, press up and slightly forward, ribs down, no leaning. Once the Olympic bar is here, switch to the landmine press (empty bar: both hands weeks 1-4, then one arm). Only use the old 30 lb bar in the landmine if its sleeve is 2-inch and fits - not known yet, so check first.",
        "guide": 13,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "One-arm low cable row",
@@ -1661,7 +1676,7 @@
        "reps": "10/arm",
        "target": "10 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
-       "guide": 14,
+       "guide": 16,
        "kind": "strength",
        "load": "lb",
        "test": false,
@@ -1673,7 +1688,7 @@
        "reps": "30 sec",
        "target": "Forearm plank",
        "cue": "Body straight head to heels, glutes and belly tight, breathe. Stop the set when hips sag. Too hard: knees down.",
-       "guide": 15,
+       "guide": 17,
        "kind": "strength",
        "load": "none",
        "test": false
@@ -1684,7 +1699,7 @@
        "reps": "12 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -1710,8 +1725,8 @@
        "name": "Goblet squat",
        "sets": 3,
        "reps": "10-12",
-       "target": "20 lb*",
-       "cue": "Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
+       "target": "20 lb",
+       "cue": "Hold one Bowflex dumbbell vertically by one end at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
@@ -1734,7 +1749,7 @@
        "sets": 3,
        "reps": "10-12",
        "target": "20 lb",
-       "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
@@ -1770,7 +1785,7 @@
        "reps": "12 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -1789,7 +1804,7 @@
        "reps": "30 min",
        "target": "Treadmill 3-6% incline, easy pace",
        "cue": "Comfortable pace, upright posture. Breathing deeper but still talking in sentences.",
-       "guide": 17,
+       "guide": 19,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -1806,20 +1821,20 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 3,
        "reps": "10-12",
-       "target": "35 lb bar",
-       "cue": "Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "target": "20 lb each hand",
+       "cue": "Stand tall with a Bowflex dumbbell in each hand at the thighs. Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 35
+       "weight": 20
       },
       {
        "name": "Low cable row",
        "sets": 3,
        "reps": "10-12",
        "target": "20 lb",
-       "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. Alternative: TRX row. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
@@ -1830,25 +1845,25 @@
        "name": "Dumbbell overhead press (seated)",
        "sets": 3,
        "reps": "10-12",
-       "target": "7.5-10 lb each* (or 5 lb x 15)",
-       "cue": "Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
+       "target": "10 lb each hand",
+       "cue": "Sit tall on the bench, ribs down, glutes squeezed. Dumbbells at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back.",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 7.5
+       "weight": 10
       },
       {
        "name": "Split squat",
        "sets": 2,
-       "reps": "12/leg",
-       "target": "5 lb each hand",
+       "reps": "10/leg",
+       "target": "10 lb each hand",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 5
+       "weight": 10
       },
       {
        "name": "Pallof press (low row cable)",
@@ -1868,7 +1883,7 @@
        "reps": "12 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -1885,36 +1900,37 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 3,
        "reps": "12",
-       "target": "35 lb bar (padded)",
+       "target": "30 lb bar (padded)",
        "cue": "Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 35
+       "weight": 30
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "20 lb*",
-       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
+       "target": "17.5 lb",
+       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 20
+       "weight": 17.5
       },
       {
-       "name": "Landmine press",
+       "name": "Landmine press (interim: one-arm DB press)",
        "sets": 3,
        "reps": "8-10/arm",
-       "target": "Empty bar, one arm, half-kneeling",
-       "cue": "45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
+       "target": "10 lb Bowflex, one arm, half-kneeling",
+       "cue": "Interim until the CAP Olympic bar arrives: half-kneeling one-arm Bowflex press - dumbbell at the shoulder, press up and slightly forward, ribs down, no leaning. Once the Olympic bar is here, switch to the landmine press (empty bar: both hands weeks 1-4, then one arm). Only use the old 30 lb bar in the landmine if its sleeve is 2-inch and fits - not known yet, so check first.",
        "guide": 13,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "One-arm low cable row",
@@ -1922,7 +1938,7 @@
        "reps": "10/arm",
        "target": "10 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
-       "guide": 14,
+       "guide": 16,
        "kind": "strength",
        "load": "lb",
        "test": false,
@@ -1934,7 +1950,7 @@
        "reps": "30-40 sec",
        "target": "Forearm plank",
        "cue": "Body straight head to heels, glutes and belly tight, breathe. Stop the set when hips sag. Too hard: knees down.",
-       "guide": 15,
+       "guide": 17,
        "kind": "strength",
        "load": "none",
        "test": false
@@ -1945,7 +1961,7 @@
        "reps": "12 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -1971,13 +1987,13 @@
        "name": "Goblet squat",
        "sets": 3,
        "reps": "10-12",
-       "target": "25 lb (25 lb dumbbell)",
-       "cue": "Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
+       "target": "22.5 lb",
+       "cue": "Hold one Bowflex dumbbell vertically by one end at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 25
+       "weight": 22.5
       },
       {
        "name": "Incline push-up (bar in rack)",
@@ -1995,7 +2011,7 @@
        "sets": 3,
        "reps": "10-12",
        "target": "20 lb",
-       "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
@@ -2031,7 +2047,7 @@
        "reps": "12 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -2050,7 +2066,7 @@
        "reps": "30 min",
        "target": "5 easy + 5 x (1 min moderate / 2 min easy) + 10 easy",
        "cue": "Moderate = you can still speak a few words (6/10), never all-out. Easy = recover fully. Log resistance used.",
-       "guide": 18,
+       "guide": 20,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -2067,20 +2083,20 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 3,
        "reps": "10-12",
-       "target": "35 lb bar",
-       "cue": "Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "target": "22.5 lb each hand",
+       "cue": "Stand tall with a Bowflex dumbbell in each hand at the thighs. Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 35
+       "weight": 22.5
       },
       {
        "name": "Low cable row",
        "sets": 3,
        "reps": "10-12",
        "target": "20 lb",
-       "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. Alternative: TRX row. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
@@ -2091,19 +2107,19 @@
        "name": "Dumbbell overhead press (seated)",
        "sets": 3,
        "reps": "10-12",
-       "target": "7.5-10 lb each* (or 5 lb x 15)",
-       "cue": "Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
+       "target": "10 lb each hand",
+       "cue": "Sit tall on the bench, ribs down, glutes squeezed. Dumbbells at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back.",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 7.5
+       "weight": 10
       },
       {
        "name": "Split squat",
        "sets": 2,
-       "reps": "10/leg",
-       "target": "10 lb each* (or 5 lb x 12)",
+       "reps": "12/leg",
+       "target": "10 lb each hand",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
@@ -2129,7 +2145,7 @@
        "reps": "12 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -2146,20 +2162,20 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 3,
        "reps": "12-15",
-       "target": "35 lb bar (padded)",
+       "target": "30 lb bar (padded)",
        "cue": "Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 35
+       "weight": 30
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "20 lb*",
-       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
+       "target": "20 lb",
+       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
@@ -2167,15 +2183,16 @@
        "weight": 20
       },
       {
-       "name": "Landmine press",
+       "name": "Landmine press (interim: one-arm DB press)",
        "sets": 3,
        "reps": "8-10/arm",
-       "target": "Empty bar, one arm, half-kneeling",
-       "cue": "45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
+       "target": "10 lb Bowflex, one arm, half-kneeling",
+       "cue": "Interim until the CAP Olympic bar arrives: half-kneeling one-arm Bowflex press - dumbbell at the shoulder, press up and slightly forward, ribs down, no leaning. Once the Olympic bar is here, switch to the landmine press (empty bar: both hands weeks 1-4, then one arm). Only use the old 30 lb bar in the landmine if its sleeve is 2-inch and fits - not known yet, so check first.",
        "guide": 13,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "One-arm low cable row",
@@ -2183,7 +2200,7 @@
        "reps": "10/arm",
        "target": "10 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
-       "guide": 14,
+       "guide": 16,
        "kind": "strength",
        "load": "lb",
        "test": false,
@@ -2195,7 +2212,7 @@
        "reps": "40 sec",
        "target": "Forearm plank",
        "cue": "Body straight head to heels, glutes and belly tight, breathe. Stop the set when hips sag. Too hard: knees down.",
-       "guide": 15,
+       "guide": 17,
        "kind": "strength",
        "load": "none",
        "test": false
@@ -2206,7 +2223,7 @@
        "reps": "12 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -2232,13 +2249,13 @@
        "name": "Goblet squat",
        "sets": 2,
        "reps": "10-12",
-       "target": "20 lb* (or 15 lb)",
-       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
+       "target": "17.5 lb (easy)",
+       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Hold one Bowflex dumbbell vertically by one end at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 20
+       "weight": 17.5
       },
       {
        "name": "Incline push-up (bar in rack)",
@@ -2256,7 +2273,7 @@
        "sets": 2,
        "reps": "10-12",
        "target": "15 lb (easy)",
-       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
@@ -2292,7 +2309,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -2311,7 +2328,7 @@
        "reps": "25 min",
        "target": "Bike or treadmill walk, relaxed",
        "cue": "Deload: relaxed, conversational. Effort 3-4/10.",
-       "guide": 16,
+       "guide": 18,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -2328,20 +2345,20 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 2,
        "reps": "10-12",
-       "target": "30 lb (15 each, easy)",
-       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "target": "17.5 lb each hand (easy)",
+       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Stand tall with a Bowflex dumbbell in each hand at the thighs. Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 30
+       "weight": 17.5
       },
       {
        "name": "Low cable row",
        "sets": 2,
        "reps": "10-12",
        "target": "15 lb (easy)",
-       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. Alternative: TRX row. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
@@ -2352,25 +2369,25 @@
        "name": "Dumbbell overhead press (seated)",
        "sets": 2,
        "reps": "10-12",
-       "target": "5 lb each (easy)",
-       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
+       "target": "7.5 lb each hand (easy)",
+       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Sit tall on the bench, ribs down, glutes squeezed. Dumbbells at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back.",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 5
+       "weight": 7.5
       },
       {
        "name": "Split squat",
        "sets": 2,
        "reps": "10/leg",
-       "target": "5 lb each hand",
+       "target": "7.5 lb each hand (easy)",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 5
+       "weight": 7.5
       },
       {
        "name": "Pallof press (low row cable)",
@@ -2390,7 +2407,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -2420,7 +2437,7 @@
        "sets": 2,
        "reps": "10",
        "target": "15 lb (easy)",
-       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
+       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
@@ -2428,15 +2445,16 @@
        "weight": 15
       },
       {
-       "name": "Landmine press",
+       "name": "Landmine press (interim: one-arm DB press)",
        "sets": 2,
-       "reps": "10",
-       "target": "Empty bar, both hands (easy)",
-       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. 45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
+       "reps": "10/arm",
+       "target": "7.5 lb Bowflex (easy)",
+       "cue": "DELOAD: lighter + fewer sets, leave 3-4 reps in the tank. Interim until the CAP Olympic bar arrives: half-kneeling one-arm Bowflex press - dumbbell at the shoulder, press up and slightly forward, ribs down, no leaning. Once the Olympic bar is here, switch to the landmine press (empty bar: both hands weeks 1-4, then one arm). Only use the old 30 lb bar in the landmine if its sleeve is 2-inch and fits - not known yet, so check first.",
        "guide": 13,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 7.5
       },
       {
        "name": "One-arm low cable row",
@@ -2444,7 +2462,7 @@
        "reps": "10/arm",
        "target": "5 lb (easy)",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
-       "guide": 14,
+       "guide": 16,
        "kind": "strength",
        "load": "lb",
        "test": false,
@@ -2456,7 +2474,7 @@
        "reps": "30 sec",
        "target": "Forearm plank",
        "cue": "Body straight head to heels, glutes and belly tight, breathe. Stop the set when hips sag. Too hard: knees down.",
-       "guide": 15,
+       "guide": 17,
        "kind": "strength",
        "load": "none",
        "test": false
@@ -2467,7 +2485,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -2493,13 +2511,13 @@
        "name": "Goblet squat",
        "sets": 3,
        "reps": "8-10",
-       "target": "25 lb",
-       "cue": "Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
+       "target": "22.5 lb",
+       "cue": "Hold one Bowflex dumbbell vertically by one end at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 25
+       "weight": 22.5
       },
       {
        "name": "Incline push-up (bar in rack)",
@@ -2517,7 +2535,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "20 lb",
-       "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
@@ -2552,7 +2570,7 @@
        "reps": "12-15 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -2571,7 +2589,7 @@
        "reps": "32 min",
        "target": "Treadmill 4-8% incline, easy pace",
        "cue": "Talk test still applies. Lower the incline if calves or shins complain.",
-       "guide": 17,
+       "guide": 19,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -2588,20 +2606,20 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 3,
        "reps": "8-10",
-       "target": "40 lb* (35 bar + 2.5/side)",
-       "cue": "Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "target": "25 lb each hand",
+       "cue": "Stand tall with a Bowflex dumbbell in each hand at the thighs. Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 40
+       "weight": 25
       },
       {
        "name": "Low cable row",
        "sets": 3,
        "reps": "8-10",
        "target": "20 lb",
-       "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. Alternative: TRX row. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
@@ -2612,8 +2630,8 @@
        "name": "Dumbbell overhead press (seated)",
        "sets": 3,
        "reps": "8-10",
-       "target": "10 lb each* (handle + 2.5 each end)",
-       "cue": "Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
+       "target": "10 lb each hand",
+       "cue": "Sit tall on the bench, ribs down, glutes squeezed. Dumbbells at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back.",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
@@ -2624,13 +2642,13 @@
        "name": "Split squat",
        "sets": 2,
        "reps": "10/leg",
-       "target": "10 lb each* (handle + 2.5 each end)",
+       "target": "12.5 lb each hand",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 10
+       "weight": 12.5
       },
       {
        "name": "Pallof press (low row cable)",
@@ -2650,7 +2668,7 @@
        "reps": "12-15 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -2667,36 +2685,37 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 3,
        "reps": "10-12",
-       "target": "45 lb (35 bar + 5/side)",
+       "target": "35 lb (Bowflex across hips, padded)",
        "cue": "Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 45
+       "weight": 35
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "25 lb",
-       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
+       "target": "20 lb",
+       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 25
+       "weight": 20
       },
       {
-       "name": "Landmine press",
+       "name": "Landmine press (interim: one-arm DB press)",
        "sets": 3,
        "reps": "10/arm",
-       "target": "Empty bar, one arm, standing",
-       "cue": "45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
+       "target": "12.5 lb Bowflex, one arm",
+       "cue": "Interim until the CAP Olympic bar arrives: half-kneeling one-arm Bowflex press - dumbbell at the shoulder, press up and slightly forward, ribs down, no leaning. Once the Olympic bar is here, switch to the landmine press (empty bar: both hands weeks 1-4, then one arm). Only use the old 30 lb bar in the landmine if its sleeve is 2-inch and fits - not known yet, so check first.",
        "guide": 13,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 12.5
       },
       {
        "name": "One-arm low cable row",
@@ -2704,7 +2723,7 @@
        "reps": "10/arm",
        "target": "10-15 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
-       "guide": 14,
+       "guide": 16,
        "kind": "strength",
        "load": "lb",
        "test": false,
@@ -2716,7 +2735,7 @@
        "reps": "40 sec",
        "target": "Forearm plank",
        "cue": "Body straight head to heels, glutes and belly tight, breathe. Stop the set when hips sag. Too hard: knees down.",
-       "guide": 15,
+       "guide": 17,
        "kind": "strength",
        "load": "none",
        "test": false
@@ -2727,7 +2746,7 @@
        "reps": "12-15 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -2754,7 +2773,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "25 lb",
-       "cue": "Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
+       "cue": "Hold one Bowflex dumbbell vertically by one end at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
@@ -2777,7 +2796,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "25 lb if EASY",
-       "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
@@ -2812,7 +2831,7 @@
        "reps": "12-15 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -2831,7 +2850,7 @@
        "reps": "35 min",
        "target": "5 easy + 6 x (1 min moderate / 2 min easy) + 12 easy",
        "cue": "Moderate = 6/10, short phrases only. Never all-out.",
-       "guide": 18,
+       "guide": 20,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -2848,20 +2867,20 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 3,
        "reps": "8-10",
-       "target": "45 lb (35 bar + 5/side) if EASY",
-       "cue": "Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "target": "25 lb each hand",
+       "cue": "Stand tall with a Bowflex dumbbell in each hand at the thighs. Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 45
+       "weight": 25
       },
       {
        "name": "Low cable row",
        "sets": 3,
        "reps": "8-10",
        "target": "25 lb if EASY",
-       "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. Alternative: TRX row. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
@@ -2872,19 +2891,19 @@
        "name": "Dumbbell overhead press (seated)",
        "sets": 3,
        "reps": "8-10",
-       "target": "10 lb each* (handle + 2.5 each end)",
-       "cue": "Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
+       "target": "12.5 lb each hand",
+       "cue": "Sit tall on the bench, ribs down, glutes squeezed. Dumbbells at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back.",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 10
+       "weight": 12.5
       },
       {
        "name": "Split squat",
        "sets": 2,
        "reps": "8/leg",
-       "target": "15 lb each (handle + 5 each end)",
+       "target": "15 lb each hand",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
@@ -2910,7 +2929,7 @@
        "reps": "12-15 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -2927,36 +2946,37 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 3,
        "reps": "10-12",
-       "target": "45 lb",
+       "target": "40 lb (Bowflex across hips, padded)",
        "cue": "Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 45
+       "weight": 40
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "25 lb",
-       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
+       "target": "22.5 lb",
+       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 25
+       "weight": 22.5
       },
       {
-       "name": "Landmine press",
+       "name": "Landmine press (interim: one-arm DB press)",
        "sets": 3,
        "reps": "10/arm",
-       "target": "Empty bar, one arm, standing",
-       "cue": "45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
+       "target": "12.5 lb Bowflex, one arm",
+       "cue": "Interim until the CAP Olympic bar arrives: half-kneeling one-arm Bowflex press - dumbbell at the shoulder, press up and slightly forward, ribs down, no leaning. Once the Olympic bar is here, switch to the landmine press (empty bar: both hands weeks 1-4, then one arm). Only use the old 30 lb bar in the landmine if its sleeve is 2-inch and fits - not known yet, so check first.",
        "guide": 13,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 12.5
       },
       {
        "name": "One-arm low cable row",
@@ -2964,7 +2984,7 @@
        "reps": "10/arm",
        "target": "15 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
-       "guide": 14,
+       "guide": 16,
        "kind": "strength",
        "load": "lb",
        "test": false,
@@ -2976,7 +2996,7 @@
        "reps": "40-45 sec",
        "target": "Forearm plank",
        "cue": "Body straight head to heels, glutes and belly tight, breathe. Stop the set when hips sag. Too hard: knees down.",
-       "guide": 15,
+       "guide": 17,
        "kind": "strength",
        "load": "none",
        "test": false
@@ -2987,7 +3007,7 @@
        "reps": "12-15 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -3013,13 +3033,13 @@
        "name": "Goblet squat",
        "sets": 3,
        "reps": "8-10",
-       "target": "30 lb* (handle + 10 + 2.5 each end) or 25 lb",
-       "cue": "Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
+       "target": "25 lb (27.5 if EASY)",
+       "cue": "Hold one Bowflex dumbbell vertically by one end at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 30
+       "weight": 25
       },
       {
        "name": "Incline push-up (bar in rack)",
@@ -3037,7 +3057,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "25 lb",
-       "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
@@ -3072,7 +3092,7 @@
        "reps": "12-15 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -3091,7 +3111,7 @@
        "reps": "35-40 min",
        "target": "Bike, walk or incline walk",
        "cue": "Longest session of the plan. Steady and conversational the whole time.",
-       "guide": 16,
+       "guide": 18,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -3108,20 +3128,20 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 3,
        "reps": "8-10",
-       "target": "45 lb if EASY (else 40*)",
-       "cue": "Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "target": "27.5 lb each hand",
+       "cue": "Stand tall with a Bowflex dumbbell in each hand at the thighs. Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 45
+       "weight": 27.5
       },
       {
        "name": "Low cable row",
        "sets": 3,
        "reps": "8-10",
        "target": "25 lb",
-       "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. Alternative: TRX row. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
@@ -3132,19 +3152,19 @@
        "name": "Dumbbell overhead press (seated)",
        "sets": 3,
        "reps": "8-10",
-       "target": "10 lb each* (handle + 2.5 each end)",
-       "cue": "Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
+       "target": "12.5 lb each hand",
+       "cue": "Sit tall on the bench, ribs down, glutes squeezed. Dumbbells at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back.",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 10
+       "weight": 12.5
       },
       {
        "name": "Split squat",
        "sets": 2,
        "reps": "8-10/leg",
-       "target": "15 lb each",
+       "target": "15 lb each hand",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
@@ -3170,7 +3190,7 @@
        "reps": "12-15 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -3187,7 +3207,7 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 3,
        "reps": "10-12",
-       "target": "45 lb (55 lb with 10s if EASY)",
+       "target": "45 lb (fixed 45 lb dumbbell, padded)",
        "cue": "Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
@@ -3199,24 +3219,25 @@
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "25 lb",
-       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
+       "target": "22.5 lb",
+       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 25
+       "weight": 22.5
       },
       {
-       "name": "Landmine press",
+       "name": "Landmine press (interim: one-arm DB press)",
        "sets": 3,
        "reps": "10/arm",
-       "target": "Empty bar, one arm, standing",
-       "cue": "45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
+       "target": "12.5 lb Bowflex, one arm",
+       "cue": "Interim until the CAP Olympic bar arrives: half-kneeling one-arm Bowflex press - dumbbell at the shoulder, press up and slightly forward, ribs down, no leaning. Once the Olympic bar is here, switch to the landmine press (empty bar: both hands weeks 1-4, then one arm). Only use the old 30 lb bar in the landmine if its sleeve is 2-inch and fits - not known yet, so check first.",
        "guide": 13,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 12.5
       },
       {
        "name": "One-arm low cable row",
@@ -3224,7 +3245,7 @@
        "reps": "10/arm",
        "target": "15 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
-       "guide": 14,
+       "guide": 16,
        "kind": "strength",
        "load": "lb",
        "test": false,
@@ -3236,7 +3257,7 @@
        "reps": "45 sec",
        "target": "Forearm plank",
        "cue": "Body straight head to heels, glutes and belly tight, breathe. Stop the set when hips sag. Too hard: knees down.",
-       "guide": 15,
+       "guide": 17,
        "kind": "strength",
        "load": "none",
        "test": false
@@ -3247,7 +3268,7 @@
        "reps": "12-15 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -3273,13 +3294,13 @@
        "name": "Goblet squat",
        "sets": 2,
        "reps": "8-10",
-       "target": "25 lb",
-       "cue": "RETEST WEEK: light sets, then the retest. Hold one handle vertically at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter. (* = needs 2.5 lb plates; otherwise stay at the last weight and add 1-2 reps.)",
+       "target": "22.5 lb",
+       "cue": "RETEST WEEK: light sets, then the retest. Hold one Bowflex dumbbell vertically by one end at the chest. Feet shoulder width, sit down between the heels to a comfortable depth (touch the bench at first if needed), chest up, stand tall. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 25
+       "weight": 22.5
       },
       {
        "name": "Incline push-up (bar in rack)",
@@ -3308,7 +3329,7 @@
        "sets": 2,
        "reps": "8-10",
        "target": "20 lb",
-       "cue": "RETEST WEEK: light sets, then the retest. Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "RETEST WEEK: light sets, then the retest. Grip a little wider than shoulders, sit tall, pull the bar to the upper chest by driving elbows down, no leaning back or yanking, 2-sec return. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 4,
        "kind": "strength",
        "load": "lb",
@@ -3344,7 +3365,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -3363,7 +3384,7 @@
        "reps": "20 min",
        "target": "SAME machine + settings as week 1",
        "cue": "Same machine, same setting, same 20 minutes. Compare distance and effort with week 1 - it should feel easier or go further!",
-       "guide": 16,
+       "guide": 18,
        "kind": "cardio",
        "load": "none",
        "test": true
@@ -3380,20 +3401,20 @@
        "name": "Romanian deadlift (RDL)",
        "sets": 2,
        "reps": "8-10",
-       "target": "35 lb bar",
-       "cue": "RETEST WEEK: light sets, then the retest. Start standing (take the bar from the rack hooks at mid-thigh, never from the floor). Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "target": "22.5 lb each hand",
+       "cue": "RETEST WEEK: light sets, then the retest. Stand tall with a Bowflex dumbbell in each hand at the thighs. Soft knees, push hips BACK, weight slides down the thighs to just below the knees with a flat back, stand by squeezing glutes. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 7,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 35
+       "weight": 22.5
       },
       {
        "name": "Low cable row",
        "sets": 2,
        "reps": "8-10",
        "target": "20 lb",
-       "cue": "RETEST WEEK: light sets, then the retest. Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. All sets EASY at the top of the range -> add 2.5-5 lb next time. HARD or form slips -> stay or go lighter.",
+       "cue": "RETEST WEEK: light sets, then the retest. Sit tall, slight knee bend. Pull the handle to the belly, squeeze shoulder blades together, 2-sec return without rounding forward. Alternative: TRX row. All sets EASY at the top of the range -> add one step next time (2.5 lb on the Bowflex, 5 lb on the cable). HARD or form slips -> stay or go lighter.",
        "guide": 8,
        "kind": "strength",
        "load": "lb",
@@ -3404,25 +3425,25 @@
        "name": "Dumbbell overhead press (seated)",
        "sets": 2,
        "reps": "8-10",
-       "target": "5-7.5 lb each",
-       "cue": "RETEST WEEK: light sets, then the retest. Sit tall on the bench, ribs down, glutes squeezed. Handles at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back. (* = needs 2.5 lb plates.)",
+       "target": "10 lb each hand",
+       "cue": "RETEST WEEK: light sets, then the retest. Sit tall on the bench, ribs down, glutes squeezed. Dumbbells at the shoulders, press up until arms are by the ears, lower slowly. No arching the low back.",
        "guide": 9,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 5
+       "weight": 10
       },
       {
        "name": "Split squat",
        "sets": 2,
        "reps": "10/leg",
-       "target": "5 lb each hand",
+       "target": "7.5 lb each hand",
        "cue": "Long stance, feet hip width (like train tracks). Lower the back knee gently toward the floor, front knee over the middle of the foot, push through the front heel. Hold the rack for balance as needed.",
        "guide": 10,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 5
+       "weight": 7.5
       },
       {
        "name": "Pallof press (low row cable)",
@@ -3442,7 +3463,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
@@ -3459,20 +3480,20 @@
        "name": "Hip thrust (shoulders on bench)",
        "sets": 2,
        "reps": "10",
-       "target": "35 lb bar (padded)",
+       "target": "30 lb bar (padded)",
        "cue": "RETEST WEEK: light sets, then the retest. Upper back on the long side of the bench, feet flat, chin tucked. Drive through the heels until hips are level with knees and shoulders, squeeze 1 sec, lower. Pad the bar with a folded towel.",
        "guide": 12,
        "kind": "strength",
        "load": "lb",
        "test": false,
-       "weight": 35
+       "weight": 30
       },
       {
        "name": "Goblet squat - 2-sec pause",
        "sets": 2,
        "reps": "10",
-       "target": "20 lb* (or 15 lb)",
-       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand. (* = needs 2.5 lb plates.)",
+       "target": "20 lb",
+       "cue": "Lighter second squat day: same goblet squat, pause 2 seconds at the bottom staying tight, then stand.",
        "guide": 2,
        "kind": "strength",
        "load": "lb",
@@ -3480,15 +3501,16 @@
        "weight": 20
       },
       {
-       "name": "Landmine press",
+       "name": "Landmine press (interim: one-arm DB press)",
        "sets": 2,
        "reps": "8/arm",
-       "target": "Empty bar, one arm",
-       "cue": "RETEST WEEK: light sets, then the retest. 45 lb bar in the landmine (you only lift part of it). Hold the end at the chest, press up and forward until the arm is long, lower slowly. Ribs down, no leaning back.",
+       "target": "10 lb Bowflex, one arm",
+       "cue": "RETEST WEEK: light sets, then the retest. Interim until the CAP Olympic bar arrives: half-kneeling one-arm Bowflex press - dumbbell at the shoulder, press up and slightly forward, ribs down, no leaning. Once the Olympic bar is here, switch to the landmine press (empty bar: both hands weeks 1-4, then one arm). Only use the old 30 lb bar in the landmine if its sleeve is 2-inch and fits - not known yet, so check first.",
        "guide": 13,
        "kind": "strength",
        "load": "lb",
-       "test": false
+       "test": false,
+       "weight": 10
       },
       {
        "name": "One-arm low cable row",
@@ -3496,7 +3518,7 @@
        "reps": "10/arm",
        "target": "10 lb",
        "cue": "Seated or half-kneeling at the low-row station with a single handle. Pull to the hip, squeeze the shoulder blade back, slow return. Do all reps, then switch arms.",
-       "guide": 14,
+       "guide": 16,
        "kind": "strength",
        "load": "lb",
        "test": false,
@@ -3508,7 +3530,7 @@
        "reps": "Max good-form sec",
        "target": "Same version as week 1",
        "cue": "Same rules as week 1. Compare with your week-1 time!",
-       "guide": 15,
+       "guide": 17,
        "kind": "strength",
        "load": "none",
        "test": true
@@ -3519,7 +3541,7 @@
        "reps": "10 min",
        "target": "Zone 2 - easy, can talk in full sentences",
        "cue": "Bike (light resistance) or treadmill walk at 2-6% incline. Log minutes, machine, setting and effort (1-10). Should feel easy - about 3-4/10.",
-       "guide": 19,
+       "guide": 21,
        "kind": "cardio",
        "load": "none",
        "test": false
