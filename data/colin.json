@@ -109,7 +109,7 @@
     },
     {
      "label": "Barbell increments",
-     "text": "Add 5 lb total (2.5 lb per side) - needs 2.5 lb plates. With only 5 lb plates the smallest jump is 10 lb, too big for most steps; until 2.5s are bought, stay at a weight longer and add reps."
+     "text": "Add 5 lb total (a 2.5 lb plate per side). If a jump feels too big, stay at the weight longer and add reps."
     },
     {
      "label": "Dumbbell increments",
@@ -117,7 +117,7 @@
     },
     {
      "label": "Machine increments",
-     "text": "Add the smallest plate available on the pulldown/row/leg extension (2.5 lb once bought; until then 5 lb, and expect to sit at each weight longer)."
+     "text": "Add the smallest plate (2.5 lb) on the pulldown/row/leg extension."
     },
     {
      "label": "Bench press start",
@@ -137,11 +137,11 @@
     },
     {
      "label": "Bar loading - squat",
-     "text": "Squats use the 45 lb Olympic bar (45 = empty). 50 = +2.5/side | 55 = +5 | 60 = +5+2.5 | 65 = +10 | 70 = +10+2.5. No 2.5s yet? Load 50/60/70 on the 30 lb bar: +10/side, +10+5, +10+10."
+     "text": "Squats use the 45 lb Olympic bar (45 = empty). 50 = +2.5/side | 55 = +5 | 60 = +5+2.5 | 65 = +10 | 70 = +10+2.5."
     },
     {
      "label": "Bar loading - RDL",
-     "text": "RDL uses the 30 lb bar. 35 = +2.5/side | 40 = +5 | 45 = +5+2.5 | 50 = +10 | 55 = +10+2.5. No 2.5s yet? Build 30 to 3x10, then use 40; for 45/55 stay at 40/50 and add reps."
+     "text": "RDL uses the 30 lb bar. 35 = +2.5/side | 40 = +5 | 45 = +5+2.5 | 50 = +10 | 55 = +10+2.5."
     }
    ]
   },
@@ -187,7 +187,7 @@
    "items": [
     {
      "label": "30 lb barbell",
-     "text": "Bench press and Romanian deadlift (plus squats at 50/60/70 lb until 2.5 lb plates arrive - see Bar loading)."
+     "text": "Bench press and Romanian deadlift (see Bar loading)."
     },
     {
      "label": "45 lb Olympic bar",
@@ -203,7 +203,7 @@
     },
     {
      "label": "Plates on hand",
-     "text": "2 x 45 lb, 2 x 25 lb, 8 x 10 lb, 4 x 5 lb (240 lb total). No 2.5 lb plates yet. A 45 lb plate laid flat can serve as the step for calf raises."
+     "text": "2 x 45 lb, 2 x 25 lb, 8 x 10 lb, 4 x 5 lb, plus 2.5 lb plates for 5 lb barbell jumps. A 45 lb plate laid flat can serve as the step for calf raises."
     },
     {
      "label": "Other dumbbells",
@@ -239,8 +239,8 @@
    "title": "SUGGESTED PURCHASES",
    "items": [
     {
-     "label": "Pair of 2.5 lb plates (or 2 pairs)",
-     "text": "Most important buy (2 pairs ideal): needed for squat 50/60/70 on the Olympic bar, RDL 35/45/55 and 2.5 lb machine jumps. Optional later: 1.25 lb plates for 2.5 lb bench jumps."
+     "label": "Optional: 1.25 lb fractional plates",
+     "text": "Allows 2.5 lb total jumps for the bench press later on."
     }
    ]
   }
@@ -475,7 +475,7 @@
        "sets": 3,
        "reps": "8",
        "target": "35 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 2.5/side (no 2.5s: stay at 30 to 3x10, then 40).",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 2.5/side.",
        "guide": 3,
        "weight": 35
       },
@@ -613,7 +613,7 @@
        "sets": 3,
        "reps": "8",
        "target": "35 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 2.5/side (no 2.5s: stay at 30 to 3x10, then 40).",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 2.5/side.",
        "guide": 3,
        "weight": 35
       },
@@ -751,7 +751,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "35 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 2.5/side (no 2.5s: stay at 30 to 3x10, then 40).",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 2.5/side.",
        "guide": 3,
        "weight": 35
       },
@@ -880,7 +880,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "35 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 2.5/side (no 2.5s: stay at 30 to 3x10, then 40).",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 2.5/side.",
        "guide": 3,
        "weight": 35
       },
@@ -1018,7 +1018,7 @@
        "sets": 2,
        "reps": "8",
        "target": "35 lb",
-       "cue": "DELOAD: 2 sets, easy. Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 2.5/side (no 2.5s: stay at 30 to 3x10, then 40).",
+       "cue": "DELOAD: 2 sets, easy. Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 2.5/side.",
        "guide": 3,
        "weight": 35
       },
@@ -1147,7 +1147,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "50 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 2.5/side (no 2.5s: 30 lb bar + 10/side).",
+       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 2.5/side.",
        "guide": 2,
        "weight": 50
       },
@@ -1156,7 +1156,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "35 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 2.5/side (no 2.5s: stay at 30 to 3x10, then 40).",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 2.5/side.",
        "guide": 3,
        "weight": 35
       },
@@ -1276,7 +1276,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "50 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 2.5/side (no 2.5s: 30 lb bar + 10/side).",
+       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 2.5/side.",
        "guide": 2,
        "weight": 50
       },
@@ -1285,7 +1285,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "35 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 2.5/side (no 2.5s: stay at 30 to 3x10, then 40).",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 2.5/side.",
        "guide": 3,
        "weight": 35
       },
@@ -1552,7 +1552,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "60 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 5 + 2.5/side (no 2.5s: 30 lb bar + 10 + 5/side).",
+       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 5 + 2.5/side.",
        "guide": 2,
        "weight": 60
       },
@@ -1561,7 +1561,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "45 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 5 + 2.5/side (no 2.5s: 40, more reps).",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 5 + 2.5/side.",
        "guide": 3,
        "weight": 45
       },
@@ -1681,7 +1681,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "60 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 5 + 2.5/side (no 2.5s: 30 lb bar + 10 + 5/side).",
+       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 5 + 2.5/side.",
        "guide": 2,
        "weight": 60
       },
@@ -1690,7 +1690,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "45 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 5 + 2.5/side (no 2.5s: 40, more reps).",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 5 + 2.5/side.",
        "guide": 3,
        "weight": 45
       },
@@ -1819,7 +1819,7 @@
        "sets": 2,
        "reps": "8",
        "target": "50 lb",
-       "cue": "DELOAD: 2 sets only, easy and crisp. Load: Olympic bar + 2.5/side (no 2.5s: 30 lb bar + 10/side).",
+       "cue": "DELOAD: 2 sets only, easy and crisp. Load: Olympic bar + 2.5/side.",
        "guide": 2,
        "weight": 50
       },
@@ -1957,7 +1957,7 @@
        "sets": 3,
        "reps": "6-8",
        "target": "60 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 5 + 2.5/side (no 2.5s: 30 lb bar + 10 + 5/side).",
+       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 5 + 2.5/side.",
        "guide": 2,
        "weight": 60
       },
@@ -1966,7 +1966,7 @@
        "sets": 3,
        "reps": "8",
        "target": "45 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 5 + 2.5/side (no 2.5s: 40, more reps).",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 5 + 2.5/side.",
        "guide": 3,
        "weight": 45
       },
@@ -2086,7 +2086,7 @@
        "sets": 3,
        "reps": "6-8",
        "target": "60 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 5 + 2.5/side (no 2.5s: 30 lb bar + 10 + 5/side).",
+       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 5 + 2.5/side.",
        "guide": 2,
        "weight": 60
       },
@@ -2095,7 +2095,7 @@
        "sets": 3,
        "reps": "8",
        "target": "45 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 5 + 2.5/side (no 2.5s: 40, more reps).",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 5 + 2.5/side.",
        "guide": 3,
        "weight": 45
       },
@@ -2362,7 +2362,7 @@
        "sets": 3,
        "reps": "6-8",
        "target": "70 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 10 + 2.5/side (no 2.5s: 30 lb bar + 10 + 10/side).",
+       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 10 + 2.5/side.",
        "guide": 2,
        "weight": 70
       },
@@ -2371,7 +2371,7 @@
        "sets": 3,
        "reps": "8",
        "target": "55 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 10 + 2.5/side (no 2.5s: 50, more reps).",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 10 + 2.5/side.",
        "guide": 3,
        "weight": 55
       },
@@ -2491,7 +2491,7 @@
        "sets": 3,
        "reps": "6-8",
        "target": "70 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 10 + 2.5/side (no 2.5s: 30 lb bar + 10 + 10/side).",
+       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 10 + 2.5/side.",
        "guide": 2,
        "weight": 70
       },
@@ -2500,7 +2500,7 @@
        "sets": 3,
        "reps": "8",
        "target": "55 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 10 + 2.5/side (no 2.5s: 50, more reps).",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. 3x10 clean with a flat back -> +5 lb. Load: 30 lb bar + 10 + 2.5/side.",
        "guide": 3,
        "weight": 55
       },
@@ -2629,7 +2629,7 @@
        "sets": 3,
        "reps": "5, 5, rep-PR",
        "target": "50 lb",
-       "cue": "REP-RECORD TEST (light): 2 easy sets of 5, then 1 set of max CLEAN reps. Stop when form slows. No 1RM. Load: Olympic bar + 2.5/side (no 2.5s: 30 lb bar + 10/side).",
+       "cue": "REP-RECORD TEST (light): 2 easy sets of 5, then 1 set of max CLEAN reps. Stop when form slows. No 1RM. Load: Olympic bar + 2.5/side.",
        "guide": 2,
        "weight": 50
       },
