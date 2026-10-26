@@ -14,6 +14,7 @@
   function save(quiet) {
     S.updatedAt = new Date().toISOString();
     try { localStorage.setItem(KEY, JSON.stringify(S)); localStorage.setItem("kidStrength:lastKid", PID); } catch (e) { toast("Could not save - storage full?"); }
+    if (window.STSync) STSync.touch();
     if (!quiet) { var el = document.getElementById("saved"); if (el) { el.textContent = "Saved"; clearTimeout(saveTimer); saveTimer = setTimeout(function () { el.textContent = ""; }, 1200); } }
   }
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
@@ -235,7 +236,7 @@
   function backup() {
     var h = header("Backup", "Save or move your log", "#/week/" + (viewWeek || currentWeek()));
     h += "<main class='wrap'><div class='card'><h2>Save a backup</h2><p class='muted small'>Everything saves on this phone automatically. Download a backup now and then (and before switching phones).</p>" +
-      "<button class='btn' data-act='export'>Download backup file</button><button class='btn ghost' data-act='copybackup'>Copy backup as text</button></div>" +
+      "<button class='btn' data-act='export'>Download backup file</button><button class='btn ghost' data-act='copybackup'>Copy backup as text</button>" + (window.STSync && STSync.status() ? "<p class='muted small'>" + esc(STSync.status()) + "</p>" : "") + "</div>" +
       "<div class='card'><h2>Restore</h2><p class='muted small'>Pick a backup file, or paste backup text.</p><input type='file' id='importFile' accept='application/json,.json,text/plain'>" +
       "<textarea id='importText' placeholder='…or paste backup text here' style='margin-top:10px'></textarea><button class='btn ghost' data-act='importtext'>Restore from text</button></div>" +
       "<div class='card'><button class='btn ghost' data-act='reset' style='color:var(--hard)'>Erase " + esc(P.name) + "'s log on this phone</button></div></main>";
@@ -247,7 +248,7 @@
     var d = o && o.people && o.people[PID] ? o.people[PID] : (o && o.sessions ? o : null);
     if (!d || typeof d !== "object" || !d.sessions) { toast("No " + P.name + " data in that backup"); return; }
     if (!confirm("Restore this backup?\nIt replaces the current log on this phone.")) return;
-    localStorage.setItem(KEY, JSON.stringify(d)); S = load(); toast("Backup restored"); location.hash = "#/home"; render();
+    localStorage.setItem(KEY, JSON.stringify(d)); if (window.STSync) STSync.touch(); S = load(); toast("Backup restored"); location.hash = "#/home"; render();
   }
 
   /* ---------------- helpers ---------------- */

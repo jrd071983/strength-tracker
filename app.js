@@ -1,4 +1,4 @@
-/* Kid Strength Tracker - vanilla JS, no network, data saved in localStorage per kid. */
+/* Kid Strength Tracker - vanilla JS, data saved in localStorage per kid (sync.js sends an encrypted copy to Coach). */
 (function () {
   "use strict";
   var KID = window.KID || "connor";
@@ -17,6 +17,7 @@
   function save(quiet) {
     S.updatedAt = new Date().toISOString();
     try { localStorage.setItem(KEY, JSON.stringify(S)); localStorage.setItem("kidStrength:lastKid", KID); } catch (e) { toast("Could not save! Storage full?"); }
+    if (window.STSync) STSync.touch();
     if (!quiet) { var el = document.getElementById("saved"); if (el) { el.textContent = "✓ Saved"; clearTimeout(saveTimer); saveTimer = setTimeout(function () { el.textContent = ""; }, 1200); } }
   }
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
@@ -233,7 +234,7 @@
   function backup() {
     var h = header("💾 Backup", "Save or move your workout log", "#/week/" + (viewWeek || currentWeek()));
     h += "<main class='wrap'><div class='card'><h2>Save a backup</h2><p class='muted small'>Everything is saved on this phone automatically. Download a backup file now and then (or before switching phones).</p>" +
-      "<button class='btn' data-act='export'>⬇️ Download backup file</button><button class='btn ghost' data-act='copybackup'>📋 Copy backup text</button></div>" +
+      "<button class='btn' data-act='export'>⬇️ Download backup file</button><button class='btn ghost' data-act='copybackup'>📋 Copy backup text</button>" + (window.STSync && STSync.status() ? "<p class='muted small'>☁️ " + esc(STSync.status()) + "</p>" : "") + "</div>" +
       "<div class='card'><h2>Restore a backup</h2><p class='muted small'>Pick a backup file (or paste backup text). This replaces the log on this phone.</p>" +
       "<input type='file' id='importFile' accept='application/json,.json,text/plain' class='txt'>" +
       "<textarea id='importText' placeholder='…or paste backup text here' style='margin-top:10px'></textarea><button class='btn alt' data-act='importtext'>⬆️ Restore pasted text</button></div>" +
@@ -254,6 +255,7 @@
     if (!names.length) { toast("No workout data found"); return; }
     if (!confirm("Restore backup for: " + names.join(", ") + "?\nThis replaces the current log on this phone.")) return;
     names.forEach(function (k) { localStorage.setItem("kidStrength:v1:" + k, JSON.stringify(kids[k])); });
+    if (window.STSync) STSync.touch();
     S = load(); toast("Backup restored ✓"); location.hash = "#/home"; render();
   }
 
