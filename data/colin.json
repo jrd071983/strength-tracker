@@ -57,6 +57,10 @@
      "text": "After Week 1 Day 3 Lower (Oct 31): RDL 40 lb from Week 2 (30 lb bar + 5/side), calf raises 32.5 lb, leg extensions 15 lb (build to 2x15), plank 25 sec. Squat stays at 45 lb (empty Olympic bar) until all 3 sets hit 10."
     },
     {
+     "label": "TARGETS (Nov 4, Upper)",
+     "text": "After Week 2 Day 1 Upper (Nov 4): row 17.5 lb and pulldown 22.5 lb (one 2.5 lb step each) for Week 2 Day 3 and Week 3. Bench stays 35 (30 lb bar + 2.5/side) - the log said 38, which can't be built, so confirm what was on the bar. Landmine stays bar only (try one arm), curls 10, pushdowns 7.5, dead bug 2x8/side slower, floor push-ups goal 2x20. Set every weight BEFORE the session - same weight for all sets."
+    },
+    {
      "label": "Phases",
      "text": "Weeks 1-4: TECHNIQUE (learn the movements; deload in week 4)\nWeeks 5-8: BUILD (small weight increases; deload in week 8)\nWeeks 9-12: STRENGTH (slightly lower reps, slightly heavier; week 12 is a light 'show what you've learned' week with rep-PR tests - NO one-rep max tests)."
     }
@@ -533,7 +537,7 @@
        "sets": 3,
        "reps": "6-8",
        "target": "35 lb",
-       "cue": "Spotter + safeties. Hit top reps on all 3 sets -> +5 lb (2.5 per side) and drop back to 6-8. Load: 30 lb bar + 2.5/side.",
+       "cue": "DONE Nov 4: logged 38x7, 38x8, 38x8 - felt OK. 38 can't be built on the 30 lb bar with our plates (35 = +2.5/side, 40 = +5/side) - confirm what was on the bar. Set 1 was one short of 8, so KEEP: 35 lb (30 lb bar + 2.5/side) 3x6-8.",
        "guide": 7,
        "weight": 35
       },
@@ -542,7 +546,7 @@
        "sets": 3,
        "reps": "10",
        "target": "15 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5-5 lb.",
+       "cue": "DONE Nov 4: 15x10, 15x10, 20x10 - all 3 sets hit 10 (3rd set raised mid-workout). RAISE: 17.5 lb (15 + one 2.5 plate) 3x10. Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
        "guide": 8,
        "weight": 15
       },
@@ -551,7 +555,7 @@
        "sets": 3,
        "reps": "10",
        "target": "20 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5-5 lb. 25 lb was too heavy on Oct 28 (only 6 reps) - stay at 20 until 3x10 is easy.",
+       "cue": "DONE Nov 4: 20x10, 20x10, 25x10 - all 3 sets hit 10 (3rd set raised mid-workout). RAISE: 22.5 lb (20 + one 2.5 plate) 3x10. Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
        "guide": 9,
        "weight": 20
       },
@@ -559,8 +563,8 @@
        "name": "Landmine press (45 lb Olympic bar in landmine)",
        "sets": 2,
        "reps": "8/arm",
-       "target": "Bar only",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy. Pressed it with two hands on Oct 28 (8 and 10 reps) - try one arm now (bar only, 2x8/arm); go back to two hands if one arm is wobbly.",
+       "target": "Bar only (try one arm)",
+       "cue": "DONE Nov 4: 45x8, then 50x8 (2.5 lb added mid-workout), both hands. KEEP: bar only, try one arm, 2x8/arm. Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
        "guide": 10
       },
       {
@@ -568,7 +572,7 @@
        "sets": 2,
        "reps": "AMRAP clean",
        "target": "Floor (16 & 12 on floor Oct 28)",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x20 clean.",
+       "cue": "DONE Nov 4: 18 and 15 (up from 16 and 12). KEEP: floor, 2 x max clean reps, goal 2x20.",
        "guide": 11
       },
       {
@@ -576,15 +580,15 @@
        "sets": 2,
        "reps": "10-12",
        "target": "10 each, build to 12",
-       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready.",
+       "cue": "DONE Nov 4: 10x10, 10x12 - first set short of 12. KEEP: 10 lb each, 2x10-12 (both sets to 12 -> 12.5).",
        "guide": 12
       },
       {
        "name": "Triceps pushdowns (lat pulldown cable, light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "Start at 7.5 lb (5 & 7.5 x12 on Oct 28)",
-       "cue": "Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy.",
+       "target": "7.5 lb",
+       "cue": "DONE Nov 4: 7.5x12, 7.5x10 - 2nd set below 12. KEEP: 7.5 lb (5 + 2.5 plate), 2x12-15.",
        "guide": 9
       },
       {
@@ -592,7 +596,7 @@
        "sets": 2,
        "reps": "8/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach.",
+       "cue": "DONE Nov 4: 8, 10 per side - felt easy. KEEP: 2x8/side, slower (3-sec reach, 1-sec pause).",
        "guide": 14
       }
      ],
@@ -662,7 +666,7 @@
        "sets": 3,
        "reps": "6-8",
        "target": "35 lb",
-       "cue": "Spotter + safeties. Hit top reps on all 3 sets -> +5 lb (2.5 per side) and drop back to 6-8. Load: 30 lb bar + 2.5/side.",
+       "cue": "Spotter + safeties. Hit top reps on all 3 sets -> +5 lb (2.5 per side) and drop back to 6-8. Nov 4 log said 38 lb (not buildable) with 7, 8, 8 - stay at 35 and aim for 8, 8, 8. Load: 30 lb bar + 2.5/side.",
        "guide": 7,
        "weight": 35
       },
@@ -670,34 +674,34 @@
        "name": "Low cable row (light)",
        "sets": 3,
        "reps": "10",
-       "target": "15 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5-5 lb.",
+       "target": "17.5 lb",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb. Nov 4: 15x10, 15x10, 20x10 -> raised to 17.5 (one 2.5 lb step). Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
        "guide": 8,
-       "weight": 15
+       "weight": 17.5
       },
       {
        "name": "Lat pulldown (light)",
        "sets": 3,
        "reps": "10",
-       "target": "20 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5-5 lb. 25 lb was too heavy on Oct 28 (only 6 reps) - stay at 20 until 3x10 is easy.",
+       "target": "22.5 lb",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb. Nov 4: 20x10, 20x10, 25x10 -> raised to 22.5 (one 2.5 lb step). Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
        "guide": 9,
-       "weight": 20
+       "weight": 22.5
       },
       {
        "name": "Landmine press (45 lb Olympic bar in landmine)",
        "sets": 2,
        "reps": "8/arm",
-       "target": "Bar only",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy. Pressed it with two hands on Oct 28 (8 and 10 reps) - try one arm now (bar only, 2x8/arm); go back to two hands if one arm is wobbly.",
+       "target": "Bar only, one arm (two hands if wobbly)",
+       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy. Nov 4: two hands, 45x8 then 50x8 - stay bar only and try one arm (2x8/arm); go back to two hands if one arm is wobbly.",
        "guide": 10
       },
       {
        "name": "Push-ups (floor)",
        "sets": 2,
        "reps": "AMRAP clean",
-       "target": "Floor (16 & 12 on floor Oct 28)",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x20 clean.",
+       "target": "Floor (18 & 15 on Nov 4)",
+       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x20 clean. Nov 4: 18, 15 - beat it.",
        "guide": 11
       },
       {
@@ -705,15 +709,15 @@
        "sets": 2,
        "reps": "10-12",
        "target": "10 each, build to 12",
-       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready.",
+       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready. Nov 4: 10x10, 10x12 - stay at 10 until both sets hit 12.",
        "guide": 12
       },
       {
        "name": "Triceps pushdowns (lat pulldown cable, light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "Start at 7.5 lb (5 & 7.5 x12 on Oct 28)",
-       "cue": "Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy.",
+       "target": "7.5 lb, build to 2x12-15",
+       "cue": "Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy. Nov 4: 7.5x12, 7.5x10 - stay at 7.5 and get both sets to 12+.",
        "guide": 9
       },
       {
@@ -721,7 +725,7 @@
        "sets": 2,
        "reps": "8/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach.",
+       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach. Nov 4 felt easy - make it harder by going slower (3-sec reach, 1-sec pause), not by adding reps.",
        "guide": 14
       }
      ],
@@ -808,34 +812,34 @@
        "name": "Low cable row (light)",
        "sets": 3,
        "reps": "10",
-       "target": "15 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5-5 lb.",
+       "target": "17.5 lb",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb. Nov 4: 15x10, 15x10, 20x10 -> raised to 17.5 (one 2.5 lb step). Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
        "guide": 8,
-       "weight": 15
+       "weight": 17.5
       },
       {
        "name": "Lat pulldown (light)",
        "sets": 3,
        "reps": "10",
-       "target": "20 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5-5 lb. 25 lb was too heavy on Oct 28 (only 6 reps) - stay at 20 until 3x10 is easy.",
+       "target": "22.5 lb",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb. Nov 4: 20x10, 20x10, 25x10 -> raised to 22.5 (one 2.5 lb step). Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
        "guide": 9,
-       "weight": 20
+       "weight": 22.5
       },
       {
        "name": "Landmine press (45 lb Olympic bar in landmine)",
        "sets": 2,
        "reps": "8/arm",
-       "target": "Bar only",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy. Pressed it with two hands on Oct 28 (8 and 10 reps) - try one arm now (bar only, 2x8/arm); go back to two hands if one arm is wobbly.",
+       "target": "Bar only, one arm (two hands if wobbly)",
+       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy. Nov 4: two hands, 45x8 then 50x8 - stay bar only and try one arm (2x8/arm); go back to two hands if one arm is wobbly.",
        "guide": 10
       },
       {
        "name": "Push-ups (floor)",
        "sets": 2,
        "reps": "AMRAP clean",
-       "target": "Floor (16 & 12 on floor Oct 28)",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x20 clean.",
+       "target": "Floor (18 & 15 on Nov 4)",
+       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x20 clean. Nov 4: 18, 15 - beat it.",
        "guide": 11
       },
       {
@@ -843,15 +847,15 @@
        "sets": 2,
        "reps": "10-12",
        "target": "10 each, build to 12",
-       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready.",
+       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready. Nov 4: 10x10, 10x12 - stay at 10 until both sets hit 12.",
        "guide": 12
       },
       {
        "name": "Triceps pushdowns (lat pulldown cable, light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "Start at 7.5 lb (5 & 7.5 x12 on Oct 28)",
-       "cue": "Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy.",
+       "target": "7.5 lb, build to 2x12-15",
+       "cue": "Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy. Nov 4: 7.5x12, 7.5x10 - stay at 7.5 and get both sets to 12+.",
        "guide": 9
       },
       {
@@ -859,7 +863,7 @@
        "sets": 2,
        "reps": "8/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach.",
+       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach. Nov 4 felt easy - make it harder by going slower (3-sec reach, 1-sec pause), not by adding reps.",
        "guide": 14
       }
      ],
@@ -947,7 +951,7 @@
        "sets": 2,
        "reps": "10",
        "target": "10 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
        "guide": 8,
        "weight": 10
       },
@@ -956,7 +960,7 @@
        "sets": 2,
        "reps": "10",
        "target": "15 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
        "guide": 9,
        "weight": 15
       },
@@ -1076,7 +1080,7 @@
        "sets": 2,
        "reps": "10",
        "target": "10 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
        "guide": 8,
        "weight": 10
       },
@@ -1085,7 +1089,7 @@
        "sets": 2,
        "reps": "10",
        "target": "15 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
        "guide": 9,
        "weight": 15
       },
@@ -1214,7 +1218,7 @@
        "sets": 3,
        "reps": "10",
        "target": "20 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
        "guide": 8,
        "weight": 20
       },
@@ -1223,7 +1227,7 @@
        "sets": 3,
        "reps": "10",
        "target": "22.5 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
        "guide": 9,
        "weight": 22.5
       },
@@ -1352,7 +1356,7 @@
        "sets": 3,
        "reps": "10",
        "target": "20 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
        "guide": 8,
        "weight": 20
       },
@@ -1361,7 +1365,7 @@
        "sets": 3,
        "reps": "10",
        "target": "25 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
        "guide": 9,
        "weight": 25
       },
@@ -1481,7 +1485,7 @@
        "sets": 3,
        "reps": "10",
        "target": "20 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
        "guide": 8,
        "weight": 20
       },
@@ -1490,7 +1494,7 @@
        "sets": 3,
        "reps": "10",
        "target": "25 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
        "guide": 9,
        "weight": 25
       },
@@ -1619,7 +1623,7 @@
        "sets": 3,
        "reps": "10",
        "target": "25 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
        "guide": 8,
        "weight": 25
       },
@@ -1628,7 +1632,7 @@
        "sets": 3,
        "reps": "10",
        "target": "25 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
        "guide": 9,
        "weight": 25
       },
@@ -1757,7 +1761,7 @@
        "sets": 2,
        "reps": "10",
        "target": "15 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
        "guide": 8,
        "weight": 15
       },
@@ -1766,7 +1770,7 @@
        "sets": 2,
        "reps": "10",
        "target": "20 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
        "guide": 9,
        "weight": 20
       },
@@ -1886,7 +1890,7 @@
        "sets": 2,
        "reps": "10",
        "target": "15 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
        "guide": 8,
        "weight": 15
       },
@@ -1895,7 +1899,7 @@
        "sets": 2,
        "reps": "10",
        "target": "20 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
        "guide": 9,
        "weight": 20
       },
@@ -2024,7 +2028,7 @@
        "sets": 3,
        "reps": "10",
        "target": "25 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
        "guide": 8,
        "weight": 25
       },
@@ -2033,7 +2037,7 @@
        "sets": 3,
        "reps": "10",
        "target": "27.5 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
        "guide": 9,
        "weight": 27.5
       },
@@ -2162,7 +2166,7 @@
        "sets": 3,
        "reps": "10",
        "target": "30 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
        "guide": 8,
        "weight": 30
       },
@@ -2171,7 +2175,7 @@
        "sets": 3,
        "reps": "10",
        "target": "30 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
        "guide": 9,
        "weight": 30
       },
@@ -2291,7 +2295,7 @@
        "sets": 3,
        "reps": "10",
        "target": "30 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
        "guide": 8,
        "weight": 30
       },
@@ -2300,7 +2304,7 @@
        "sets": 3,
        "reps": "10",
        "target": "30 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
        "guide": 9,
        "weight": 30
       },
@@ -2429,7 +2433,7 @@
        "sets": 3,
        "reps": "10",
        "target": "30 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
        "guide": 8,
        "weight": 30
       },
@@ -2438,7 +2442,7 @@
        "sets": 3,
        "reps": "10",
        "target": "30 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
        "guide": 9,
        "weight": 30
       },
@@ -2567,7 +2571,7 @@
        "sets": 2,
        "reps": "10",
        "target": "20 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
        "guide": 8,
        "weight": 20
       },
@@ -2576,7 +2580,7 @@
        "sets": 2,
        "reps": "10",
        "target": "20 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
        "guide": 9,
        "weight": 20
       },
@@ -2696,7 +2700,7 @@
        "sets": 2,
        "reps": "10",
        "target": "20 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
        "guide": 8,
        "weight": 20
       },
@@ -2705,7 +2709,7 @@
        "sets": 2,
        "reps": "10",
        "target": "20 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5-5 lb.",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
        "guide": 9,
        "weight": 20
       },
