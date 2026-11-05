@@ -72,7 +72,7 @@
     },
     {
      "label": "UPPER day",
-     "text": "Push-ups (incline on rack bar -> bench -> floor, plus 3 slow floor push-ups at the end) | One-arm row (Bowflex 7.5 lb) | Lat pulldown (10 lb) | TRX row (body angle sets the difficulty) | Overhead press (Bowflex 7.5 lb) | Dead hang (flexed-arm hang option from week 9) | Dead bug | Biceps curl (Bowflex 5 lb, from week 2) | Fun challenge."
+     "text": "Push-ups (incline on rack bar -> bench -> floor, plus 3 slow floor push-ups at the end) | One-arm row (Bowflex 15 lb from week 2 Fri; 10 lb in easy weeks) | Lat pulldown (10 lb) | TRX row (body angle sets the difficulty) | Overhead press (15 lb EZ curl bar from week 2 Fri; two Bowflex 7.5 lb in easy weeks) | Dead hang (flexed-arm hang option from week 9) | Dead bug | Biceps curl (Bowflex 10 lb from week 2 Fri; 7.5 lb in easy weeks) | Fun challenge."
     },
     {
      "label": "Session length (~30 min)",
@@ -127,7 +127,7 @@
     },
     {
      "label": "Weight increases",
-     "text": "Only on the Bowflex dumbbell exercises, and only after all sets feel EASY with good form: one 2.5 lb step at a time (rows and overhead press are 7.5 lb after week 1; 10 lb only in weeks 9-11; biceps curls start at 5 lb in week 2 and go to 7.5 lb once both sets feel EASY, 7.5 lb in weeks 9-11). Lat pulldown: 10 lb after week 1; the smallest plate is 5 lb, so progress with reps and slow returns first; +5 lb (to 15 lb) only late in the plan if 3 x 15 is EASY. TRX rows get harder by moving the feet one small step closer to the anchor, not by adding weight. Never add weight and reps at the same time. If form slips, go back to the last version."
+     "text": "Only on the Bowflex dumbbell exercises, and only after all sets feel EASY with good form: one 2.5 lb step at a time (from week 2 Fri, after an EASY Nov 4 session: one-arm rows HOLD at 15 lb through week 11 with no automatic increases (10 lb in easy weeks); overhead press uses the 15 lb EZ curl bar (two Bowflex 7.5 lb in easy weeks); biceps curls are 10 lb and go to 12.5 lb only once both sets feel EASY, 10-12.5 lb in weeks 9-11, 7.5 lb in easy weeks). Lat pulldown: 10 lb after week 1; the smallest plate is 5 lb, so progress with reps and slow returns first; +5 lb (to 15 lb) only late in the plan if 3 x 15 is EASY. TRX rows get harder by moving the feet one small step closer to the anchor, not by adding weight. Never add weight and reps at the same time. If form slips, go back to the last version."
     },
     {
      "label": "Sets",
@@ -197,7 +197,7 @@
    "items": [
     {
      "label": "Bowflex SelectTech 52 dumbbells",
-     "text": "Adjustable 5-52.5 lb per hand in 2.5 lb steps - this is Connor's main 'weight' now. Rows and overhead press are 7.5 lb after week 1 (5 lb was EASY); goblet squats, RDLs and biceps curls (Upper days from week 2) start at 5 lb; 10 lb only in weeks 9-11 and only after ALL sets feel EASY. Each end has its own dial: with the dumbbell sitting in its tray, turn BOTH dials to the same number. An adult sets them (or teaches Connor to and checks every time)."
+     "text": "Adjustable 5-52.5 lb per hand in 2.5 lb steps - this is Connor's main 'weight' now. From week 2 Fri: one-arm rows 15 lb (10 lb in easy weeks), biceps curls 10 lb (12.5 lb only once both sets feel EASY; 7.5 lb in easy weeks), overhead press 7.5 lb pair only in easy weeks. Goblet squats and RDLs start at 5 lb and go up only after ALL sets feel EASY. Each end has its own dial: with the dumbbell sitting in its tray, turn BOTH dials to the same number. An adult sets them (or teaches Connor to and checks every time)."
     },
     {
      "label": "TRX straps",
@@ -237,7 +237,7 @@
     },
     {
      "label": "15 lb EZ curl bar",
-     "text": "Not scheduled in the plan. Optional only in weeks 10-11: 1 set of 10-12 EZ-bar curls in place of the last row set, ONLY if 7.5 lb Bowflex rows and presses are EASY with perfect form and an adult hands him the bar. If in doubt, save it for the next plan."
+     "text": "Used for the overhead press from week 2 Fri (2 x 10, then 2 x 12 from week 5; easy weeks 4 and 8 use two Bowflex 7.5 lb instead). An adult hands him the bar at the shoulders and takes it back after the set. Squeeze belly and glutes, don't lean back."
     },
     {
      "label": "Plate-loaded dumbbell handles (2-inch, 9 lb each)",
@@ -325,7 +325,7 @@
   {
    "name": "One-arm row (dumbbell handle)",
    "day": "Upper",
-   "how": "One hand and the same-side knee on the bench, flat back. Hold a Bowflex dumbbell (5 lb to start, set by an adult) in the other hand, pull it up to the hip, squeeze the shoulder blade, lower slowly. Do all reps, then switch."
+   "how": "One hand and the same-side knee on the bench, flat back. Hold a Bowflex dumbbell (15 lb from week 2 Fri, 10 lb in easy weeks; set by an adult) in the other hand, pull it up to the hip, squeeze the shoulder blade, lower slowly. Do all reps, then switch."
   },
   {
    "name": "Lat pulldown (light)",
@@ -338,9 +338,9 @@
    "how": "Hold both handles, arms straight, and walk the feet forward until the body leans back in a straight line (like a standing plank). Pull the chest up to the hands, squeeze the shoulder blades, lower slowly. Body almost upright = easy; feet a step closer to the anchor = harder. Change only one small step at a time. Adult checks the anchor and that straps stay tight."
   },
   {
-   "name": "Overhead press (broomstick -> Bowflex 5 lb)",
+   "name": "Overhead press (broomstick -> 15 lb EZ curl bar)",
    "day": "Upper",
-   "how": "Stand tall, squeeze glutes, ribs down. Hold the broomstick (later two 5 lb Bowflex dumbbells) at the shoulders, press straight up until arms are by the ears, lower slowly to the shoulders."
+   "how": "Stand tall, squeeze belly and glutes, ribs down - don't lean back. Hold the broomstick (from week 2 Fri the 15 lb EZ curl bar, handed over by an adult; two Bowflex 7.5 lb dumbbells in easy weeks) at the shoulders, press straight up until arms are by the ears, lower slowly to the shoulders."
   },
   {
    "name": "Dead hang / flexed-arm hang",
@@ -355,7 +355,7 @@
   {
    "name": "Biceps curl (Bowflex dumbbells)",
    "day": "Upper",
-   "how": "Stand tall with a Bowflex dumbbell in each hand (5 lb to start, set by an adult - both dials on each dumbbell the same), arms long, palms facing forward. Keep the elbows pinned at your sides and curl the dumbbells up toward the shoulders, squeeze, then take 2 seconds to lower them. No swinging, no leaning back, and the elbows don't drift forward. Go to 7.5 lb only after both sets feel EASY with good form."
+   "how": "Stand tall with a Bowflex dumbbell in each hand (10 lb from week 2 Fri, 7.5 lb in easy weeks; set by an adult - both dials on each dumbbell the same), arms long, palms facing forward. Keep the elbows pinned at your sides and curl the dumbbells up toward the shoulders, squeeze, then take 2 seconds to lower them. No swinging, no leaning back, and the elbows don't drift forward. Go to 12.5 lb only after both sets feel EASY with good form."
   },
   {
    "name": "Dip-handle support hold (fun challenge)",
@@ -777,7 +777,7 @@
        "name": "One-arm row (Bowflex dumbbell)",
        "sets": 2,
        "reps": "12/arm",
-       "target": "Bowflex 7.5 lb",
+       "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 10
       },
@@ -800,9 +800,9 @@
       {
        "name": "Overhead press (form practice)",
        "sets": 2,
-       "reps": "12",
-       "target": "Two Bowflex 7.5 lb",
-       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "reps": "10",
+       "target": "EZ curl bar (15 lb)",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 13
       },
       {
@@ -825,8 +825,8 @@
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
        "reps": "12",
-       "target": "Two Bowflex 5 lb (both dials on 5)",
-       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "target": "Two Bowflex 10 lb (12.5 lb only once both sets feel EASY)",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
        "guide": 16
       }
      ],
@@ -939,8 +939,8 @@
       {
        "name": "One-arm row (Bowflex dumbbell)",
        "sets": 2,
-       "reps": "12-15/arm",
-       "target": "Bowflex 7.5 lb",
+       "reps": "12/arm",
+       "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 10
       },
@@ -963,9 +963,9 @@
       {
        "name": "Overhead press (form practice)",
        "sets": 2,
-       "reps": "12-15",
-       "target": "Two Bowflex 7.5 lb",
-       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "reps": "10",
+       "target": "EZ curl bar (15 lb)",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 13
       },
       {
@@ -988,8 +988,8 @@
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
        "reps": "12",
-       "target": "Two Bowflex 5 lb",
-       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "target": "Two Bowflex 10 lb (12.5 lb only once both sets feel EASY)",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
        "guide": 16
       }
      ],
@@ -1103,7 +1103,7 @@
        "name": "One-arm row (Bowflex dumbbell)",
        "sets": 2,
        "reps": "12/arm",
-       "target": "Bowflex 7.5 lb (easy)",
+       "target": "Bowflex 10 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 10
       },
@@ -1126,9 +1126,9 @@
       {
        "name": "Overhead press (form practice)",
        "sets": 2,
-       "reps": "12",
+       "reps": "8",
        "target": "Two Bowflex 7.5 lb (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 13
       },
       {
@@ -1151,8 +1151,8 @@
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
        "reps": "10",
-       "target": "Two Bowflex 5 lb (easy - 1 or 2 sets)",
-       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "target": "Two Bowflex 7.5 lb (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
        "guide": 16
       }
      ],
@@ -1257,7 +1257,7 @@
        "name": "One-arm row (Bowflex dumbbell)",
        "sets": 2,
        "reps": "12/arm",
-       "target": "Bowflex 7.5 lb (easy)",
+       "target": "Bowflex 10 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 10
       },
@@ -1280,9 +1280,9 @@
       {
        "name": "Overhead press (form practice)",
        "sets": 2,
-       "reps": "12",
+       "reps": "8",
        "target": "Two Bowflex 7.5 lb (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 13
       },
       {
@@ -1305,8 +1305,8 @@
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
        "reps": "10",
-       "target": "Two Bowflex 5 lb (easy - 1 or 2 sets)",
-       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "target": "Two Bowflex 7.5 lb (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
        "guide": 16
       }
      ],
@@ -1418,9 +1418,9 @@
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
-       "sets": 3,
+       "sets": 2,
        "reps": "12/arm",
-       "target": "Bowflex 7.5 lb",
+       "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 10
       },
@@ -1442,10 +1442,10 @@
       },
       {
        "name": "Overhead press (form practice)",
-       "sets": 3,
+       "sets": 2,
        "reps": "12",
-       "target": "Two Bowflex 7.5 lb",
-       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "target": "EZ curl bar (15 lb)",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 13
       },
       {
@@ -1468,8 +1468,8 @@
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
        "reps": "12",
-       "target": "Two Bowflex 5 lb (7.5 lb once both sets feel EASY)",
-       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "target": "Two Bowflex 10 lb (12.5 lb only once both sets feel EASY)",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
        "guide": 16
       }
      ],
@@ -1581,9 +1581,9 @@
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
-       "sets": 3,
-       "reps": "12-15/arm",
-       "target": "Bowflex 7.5 lb",
+       "sets": 2,
+       "reps": "12/arm",
+       "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 10
       },
@@ -1605,10 +1605,10 @@
       },
       {
        "name": "Overhead press (form practice)",
-       "sets": 3,
-       "reps": "12-15",
-       "target": "Two Bowflex 7.5 lb",
-       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "sets": 2,
+       "reps": "12",
+       "target": "EZ curl bar (15 lb)",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 13
       },
       {
@@ -1631,8 +1631,8 @@
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
        "reps": "12",
-       "target": "Two Bowflex 5 lb (7.5 lb once both sets feel EASY)",
-       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "target": "Two Bowflex 10 lb (12.5 lb only once both sets feel EASY)",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
        "guide": 16
       }
      ],
@@ -1735,9 +1735,9 @@
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
-       "sets": 3,
-       "reps": "12-15/arm",
-       "target": "Bowflex 7.5 lb",
+       "sets": 2,
+       "reps": "12/arm",
+       "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 10
       },
@@ -1759,10 +1759,10 @@
       },
       {
        "name": "Overhead press (form practice)",
-       "sets": 3,
-       "reps": "12-15",
-       "target": "Two Bowflex 7.5 lb",
-       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "sets": 2,
+       "reps": "12",
+       "target": "EZ curl bar (15 lb)",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 13
       },
       {
@@ -1785,8 +1785,8 @@
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
        "reps": "12",
-       "target": "Two Bowflex 5 lb (7.5 lb once both sets feel EASY)",
-       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "target": "Two Bowflex 10 lb (12.5 lb only once both sets feel EASY)",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
        "guide": 16
       }
      ],
@@ -1898,9 +1898,9 @@
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
-       "sets": 3,
-       "reps": "15/arm",
-       "target": "Bowflex 7.5 lb",
+       "sets": 2,
+       "reps": "12/arm",
+       "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 10
       },
@@ -1922,10 +1922,10 @@
       },
       {
        "name": "Overhead press (form practice)",
-       "sets": 3,
-       "reps": "15",
-       "target": "Two Bowflex 7.5 lb",
-       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "sets": 2,
+       "reps": "12",
+       "target": "EZ curl bar (15 lb)",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 13
       },
       {
@@ -1948,8 +1948,8 @@
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
        "reps": "12",
-       "target": "Two Bowflex 5 lb (7.5 lb once both sets feel EASY)",
-       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "target": "Two Bowflex 10 lb (12.5 lb only once both sets feel EASY)",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
        "guide": 16
       }
      ],
@@ -2063,7 +2063,7 @@
        "name": "One-arm row (Bowflex dumbbell)",
        "sets": 2,
        "reps": "12/arm",
-       "target": "Bowflex 7.5 lb (easy)",
+       "target": "Bowflex 10 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 10
       },
@@ -2086,9 +2086,9 @@
       {
        "name": "Overhead press (form practice)",
        "sets": 2,
-       "reps": "12",
+       "reps": "8",
        "target": "Two Bowflex 7.5 lb (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 13
       },
       {
@@ -2111,8 +2111,8 @@
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
        "reps": "10",
-       "target": "Two Bowflex 5 lb (easy - 1 or 2 sets)",
-       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "target": "Two Bowflex 7.5 lb (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
        "guide": 16
       }
      ],
@@ -2217,7 +2217,7 @@
        "name": "One-arm row (Bowflex dumbbell)",
        "sets": 2,
        "reps": "12/arm",
-       "target": "Bowflex 7.5 lb (easy)",
+       "target": "Bowflex 10 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 10
       },
@@ -2240,9 +2240,9 @@
       {
        "name": "Overhead press (form practice)",
        "sets": 2,
-       "reps": "12",
+       "reps": "8",
        "target": "Two Bowflex 7.5 lb (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 13
       },
       {
@@ -2265,8 +2265,8 @@
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
        "reps": "10",
-       "target": "Two Bowflex 5 lb (easy - 1 or 2 sets)",
-       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "target": "Two Bowflex 7.5 lb (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
        "guide": 16
       }
      ],
@@ -2378,9 +2378,9 @@
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
-       "sets": 3,
+       "sets": 2,
        "reps": "12/arm",
-       "target": "Bowflex 10 lb if 7.5 is EASY, else 7.5 lb",
+       "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 10
       },
@@ -2402,10 +2402,10 @@
       },
       {
        "name": "Overhead press (form practice)",
-       "sets": 3,
+       "sets": 2,
        "reps": "12",
-       "target": "Two 10 lb if 7.5 lb is EASY, else 7.5 lb",
-       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "target": "EZ curl bar (15 lb)",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 13
       },
       {
@@ -2428,8 +2428,8 @@
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
        "reps": "12-15",
-       "target": "Two Bowflex 7.5 lb",
-       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "target": "Two Bowflex 10-12.5 lb",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
        "guide": 16
       }
      ],
@@ -2541,9 +2541,9 @@
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
-       "sets": 3,
+       "sets": 2,
        "reps": "12/arm",
-       "target": "Bowflex 10 lb (or stay 7.5 lb)",
+       "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 10
       },
@@ -2565,10 +2565,10 @@
       },
       {
        "name": "Overhead press (form practice)",
-       "sets": 3,
+       "sets": 2,
        "reps": "12",
-       "target": "Two Bowflex 10 lb (or stay 7.5 lb)",
-       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "target": "EZ curl bar (15 lb)",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 13
       },
       {
@@ -2591,8 +2591,8 @@
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
        "reps": "12-15",
-       "target": "Two Bowflex 7.5 lb",
-       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "target": "Two Bowflex 10-12.5 lb",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
        "guide": 16
       }
      ],
@@ -2695,9 +2695,9 @@
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
-       "sets": 3,
+       "sets": 2,
        "reps": "12/arm",
-       "target": "Bowflex 10 lb (or stay 7.5 lb)",
+       "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 10
       },
@@ -2719,10 +2719,10 @@
       },
       {
        "name": "Overhead press (form practice)",
-       "sets": 3,
+       "sets": 2,
        "reps": "12",
-       "target": "Two Bowflex 10 lb (or stay 7.5 lb)",
-       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "target": "EZ curl bar (15 lb)",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 13
       },
       {
@@ -2745,8 +2745,8 @@
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
        "reps": "12-15",
-       "target": "Two Bowflex 7.5 lb",
-       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "target": "Two Bowflex 10-12.5 lb",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
        "guide": 16
       }
      ],
@@ -2858,9 +2858,9 @@
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
-       "sets": 3,
-       "reps": "12-15/arm",
-       "target": "Same as last week (max 10 lb)",
+       "sets": 2,
+       "reps": "12/arm",
+       "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 10
       },
@@ -2882,10 +2882,10 @@
       },
       {
        "name": "Overhead press (form practice)",
-       "sets": 3,
-       "reps": "12-15",
-       "target": "Same as last week (max 10 lb)",
-       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "sets": 2,
+       "reps": "12",
+       "target": "EZ curl bar (15 lb)",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 13
       },
       {
@@ -2908,8 +2908,8 @@
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
        "reps": "12-15",
-       "target": "Two Bowflex 7.5 lb",
-       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "target": "Two Bowflex 10-12.5 lb",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
        "guide": 16
       }
      ],
@@ -3023,7 +3023,7 @@
        "name": "One-arm row (Bowflex dumbbell)",
        "sets": 2,
        "reps": "12/arm",
-       "target": "Bowflex 7.5 lb (easy)",
+       "target": "Bowflex 10 lb (easy)",
        "cue": "RECORD WEEK: light and fun. One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 10
       },
@@ -3047,8 +3047,8 @@
        "name": "Overhead press (form practice)",
        "sets": 2,
        "reps": "12",
-       "target": "Two Bowflex 7.5 lb (easy)",
-       "cue": "RECORD WEEK: light and fun. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "target": "EZ curl bar (15 lb) (easy)",
+       "cue": "RECORD WEEK: light and fun. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 13
       },
       {
@@ -3071,8 +3071,8 @@
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
        "reps": "12",
-       "target": "Two Bowflex 7.5 lb (easy)",
-       "cue": "RECORD WEEK: light and fun. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "target": "Two Bowflex 10 lb (easy)",
+       "cue": "RECORD WEEK: light and fun. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
        "guide": 16
       }
      ],
@@ -3177,7 +3177,7 @@
        "name": "One-arm row (Bowflex dumbbell)",
        "sets": 2,
        "reps": "12/arm",
-       "target": "Bowflex 7.5 lb (easy)",
+       "target": "Bowflex 10 lb (easy)",
        "cue": "RECORD WEEK: light and fun. One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 10
       },
@@ -3201,8 +3201,8 @@
        "name": "Overhead press (form practice)",
        "sets": 2,
        "reps": "12",
-       "target": "Two Bowflex 7.5 lb (easy)",
-       "cue": "RECORD WEEK: light and fun. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
+       "target": "EZ curl bar (15 lb) (easy)",
+       "cue": "RECORD WEEK: light and fun. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 13
       },
       {
@@ -3225,8 +3225,8 @@
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
        "reps": "12",
-       "target": "Two Bowflex 7.5 lb (easy)",
-       "cue": "RECORD WEEK: light and fun. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "target": "Two Bowflex 10 lb (easy)",
+       "cue": "RECORD WEEK: light and fun. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
        "guide": 16
       }
      ],
