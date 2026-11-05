@@ -72,11 +72,11 @@
     },
     {
      "label": "UPPER day",
-     "text": "Push-ups (incline on rack bar -> bench -> floor, plus 3 slow floor push-ups at the end) | One-arm row (Bowflex 7.5 lb) | Lat pulldown (10 lb) | TRX row (body angle sets the difficulty) | Overhead press (Bowflex 7.5 lb) | Dead hang (flexed-arm hang option from week 9) | Dead bug | Fun challenge."
+     "text": "Push-ups (incline on rack bar -> bench -> floor, plus 3 slow floor push-ups at the end) | One-arm row (Bowflex 7.5 lb) | Lat pulldown (10 lb) | TRX row (body angle sets the difficulty) | Overhead press (Bowflex 7.5 lb) | Dead hang (flexed-arm hang option from week 9) | Dead bug | Biceps curl (Bowflex 5 lb, from week 2) | Fun challenge."
     },
     {
      "label": "Session length (~30 min)",
-     "text": "5-min warm-up + ~20 min of exercises + 2-min fun challenge + 3-min cool-down. Rest 45-60 sec between sets. To save time, pair two exercises and go back and forth (e.g., squat then plank, push-ups then row)."
+     "text": "5-min warm-up + ~20 min of exercises + 2-min fun challenge + 3-min cool-down. Rest 45-60 sec between sets. To save time, pair two exercises and go back and forth (e.g., squat then plank, push-ups then row; on Upper days the biceps curls add only 2-3 min - pair them with the dead bug)."
     }
    ]
   },
@@ -127,7 +127,7 @@
     },
     {
      "label": "Weight increases",
-     "text": "Only on the Bowflex dumbbell exercises, and only after all sets feel EASY with good form: one 2.5 lb step at a time (rows and overhead press are 7.5 lb after week 1; 10 lb only in weeks 9-11). Lat pulldown: 10 lb after week 1; the smallest plate is 5 lb, so progress with reps and slow returns first; +5 lb (to 15 lb) only late in the plan if 3 x 15 is EASY. TRX rows get harder by moving the feet one small step closer to the anchor, not by adding weight. Never add weight and reps at the same time. If form slips, go back to the last version."
+     "text": "Only on the Bowflex dumbbell exercises, and only after all sets feel EASY with good form: one 2.5 lb step at a time (rows and overhead press are 7.5 lb after week 1; 10 lb only in weeks 9-11; biceps curls start at 5 lb in week 2 and go to 7.5 lb once both sets feel EASY, 7.5 lb in weeks 9-11). Lat pulldown: 10 lb after week 1; the smallest plate is 5 lb, so progress with reps and slow returns first; +5 lb (to 15 lb) only late in the plan if 3 x 15 is EASY. TRX rows get harder by moving the feet one small step closer to the anchor, not by adding weight. Never add weight and reps at the same time. If form slips, go back to the last version."
     },
     {
      "label": "Sets",
@@ -197,7 +197,7 @@
    "items": [
     {
      "label": "Bowflex SelectTech 52 dumbbells",
-     "text": "Adjustable 5-52.5 lb per hand in 2.5 lb steps - this is Connor's main 'weight' now. Rows and overhead press are 7.5 lb after week 1 (5 lb was EASY); goblet squats and RDLs start at 5 lb; 10 lb only in weeks 9-11 and only after ALL sets feel EASY. Each end has its own dial: with the dumbbell sitting in its tray, turn BOTH dials to the same number. An adult sets them (or teaches Connor to and checks every time)."
+     "text": "Adjustable 5-52.5 lb per hand in 2.5 lb steps - this is Connor's main 'weight' now. Rows and overhead press are 7.5 lb after week 1 (5 lb was EASY); goblet squats, RDLs and biceps curls (Upper days from week 2) start at 5 lb; 10 lb only in weeks 9-11 and only after ALL sets feel EASY. Each end has its own dial: with the dumbbell sitting in its tray, turn BOTH dials to the same number. An adult sets them (or teaches Connor to and checks every time)."
     },
     {
      "label": "TRX straps",
@@ -353,6 +353,11 @@
    "how": "Lie on your back with arms reaching up and knees bent at 90 degrees. Keep the low back pressed into the floor and slowly reach the opposite arm and leg out, breathe out, return and switch sides."
   },
   {
+   "name": "Biceps curl (Bowflex dumbbells)",
+   "day": "Upper",
+   "how": "Stand tall with a Bowflex dumbbell in each hand (5 lb to start, set by an adult - both dials on each dumbbell the same), arms long, palms facing forward. Keep the elbows pinned at your sides and curl the dumbbells up toward the shoulders, squeeze, then take 2 seconds to lower them. No swinging, no leaning back, and the elbows don't drift forward. Go to 7.5 lb only after both sets feel EASY with good form."
+  },
+  {
    "name": "Dip-handle support hold (fun challenge)",
    "day": "Upper",
    "how": "Adult close by. Hands on the dip handles, jump or step up to straight arms, shoulders pushed DOWN away from the ears, hold 5-10 sec. No dipping. Skip if shoulders feel uncomfortable."
@@ -441,7 +446,7 @@
       "reps": "Good-form reps in 60 sec",
       "target": "Bodyweight, touch the SAME bench each rep",
       "cue": "BASELINE TEST. Only count good reps (touch bench, stand tall). Note the bench height so week 12 is a fair comparison. Sticker!",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 1
@@ -514,7 +519,7 @@
       "reps": "Max GOOD-FORM reps",
       "target": "Hands on rack bar at ___ height (write it)",
       "cue": "BASELINE TEST. Stop the set the first time a rep isn't clean (hips sag, half rep). Never to failure. Sticker!",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 2
@@ -587,7 +592,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 3
@@ -661,6 +666,14 @@
        "target": "Dead bug",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 15
+      },
+      {
+       "name": "Biceps curl (Bowflex dumbbells)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Two Bowflex 5 lb (both dials on 5)",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "guide": 16
       }
      ],
      "challenge": {
@@ -669,7 +682,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 1
@@ -742,7 +755,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 2
@@ -807,6 +820,14 @@
        "target": "Dead bug",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 15
+      },
+      {
+       "name": "Biceps curl (Bowflex dumbbells)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Two Bowflex 5 lb (both dials on 5)",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "guide": 16
       }
      ],
      "challenge": {
@@ -815,7 +836,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 3
@@ -897,7 +918,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 1
@@ -962,6 +983,14 @@
        "target": "Dead bug, slow",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 15
+      },
+      {
+       "name": "Biceps curl (Bowflex dumbbells)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Two Bowflex 5 lb",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "guide": 16
       }
      ],
      "challenge": {
@@ -970,7 +999,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 2
@@ -1043,7 +1072,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 3
@@ -1117,6 +1146,14 @@
        "target": "Dead bug (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 15
+      },
+      {
+       "name": "Biceps curl (Bowflex dumbbells)",
+       "sets": 2,
+       "reps": "10",
+       "target": "Two Bowflex 5 lb (easy - 1 or 2 sets)",
+       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "guide": 16
       }
      ],
      "challenge": {
@@ -1125,7 +1162,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 1
@@ -1198,7 +1235,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 2
@@ -1263,6 +1300,14 @@
        "target": "Dead bug (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 15
+      },
+      {
+       "name": "Biceps curl (Bowflex dumbbells)",
+       "sets": 2,
+       "reps": "10",
+       "target": "Two Bowflex 5 lb (easy - 1 or 2 sets)",
+       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "guide": 16
       }
      ],
      "challenge": {
@@ -1271,7 +1316,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 3
@@ -1353,7 +1398,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 1
@@ -1418,6 +1463,14 @@
        "target": "Dead bug, slow",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 15
+      },
+      {
+       "name": "Biceps curl (Bowflex dumbbells)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Two Bowflex 5 lb (7.5 lb once both sets feel EASY)",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "guide": 16
       }
      ],
      "challenge": {
@@ -1426,7 +1479,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 16
+      "guide": 17
      },
      "note": null,
      "dayIndex": 2
@@ -1499,7 +1552,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 3
@@ -1573,6 +1626,14 @@
        "target": "Dead bug + bird dog 6/side",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 15
+      },
+      {
+       "name": "Biceps curl (Bowflex dumbbells)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Two Bowflex 5 lb (7.5 lb once both sets feel EASY)",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "guide": 16
       }
      ],
      "challenge": {
@@ -1581,7 +1642,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 1
@@ -1654,7 +1715,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 2
@@ -1719,6 +1780,14 @@
        "target": "Dead bug + bird dog 6/side",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 15
+      },
+      {
+       "name": "Biceps curl (Bowflex dumbbells)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Two Bowflex 5 lb (7.5 lb once both sets feel EASY)",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "guide": 16
       }
      ],
      "challenge": {
@@ -1727,7 +1796,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 3
@@ -1809,7 +1878,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 1
@@ -1874,6 +1943,14 @@
        "target": "Dead bug, 3-sec reach",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 15
+      },
+      {
+       "name": "Biceps curl (Bowflex dumbbells)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Two Bowflex 5 lb (7.5 lb once both sets feel EASY)",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "guide": 16
       }
      ],
      "challenge": {
@@ -1882,7 +1959,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 16
+      "guide": 17
      },
      "note": null,
      "dayIndex": 2
@@ -1955,7 +2032,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 3
@@ -2029,6 +2106,14 @@
        "target": "Dead bug (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 15
+      },
+      {
+       "name": "Biceps curl (Bowflex dumbbells)",
+       "sets": 2,
+       "reps": "10",
+       "target": "Two Bowflex 5 lb (easy - 1 or 2 sets)",
+       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "guide": 16
       }
      ],
      "challenge": {
@@ -2037,7 +2122,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 1
@@ -2110,7 +2195,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 2
@@ -2175,6 +2260,14 @@
        "target": "Dead bug (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 15
+      },
+      {
+       "name": "Biceps curl (Bowflex dumbbells)",
+       "sets": 2,
+       "reps": "10",
+       "target": "Two Bowflex 5 lb (easy - 1 or 2 sets)",
+       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "guide": 16
       }
      ],
      "challenge": {
@@ -2183,7 +2276,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 3
@@ -2265,7 +2358,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 1
@@ -2330,6 +2423,14 @@
        "target": "Dead bug, 3-sec reach",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 15
+      },
+      {
+       "name": "Biceps curl (Bowflex dumbbells)",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "Two Bowflex 7.5 lb",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "guide": 16
       }
      ],
      "challenge": {
@@ -2338,7 +2439,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 16
+      "guide": 17
      },
      "note": null,
      "dayIndex": 2
@@ -2411,7 +2512,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 3
@@ -2485,6 +2586,14 @@
        "target": "Dead bug + bird dog 8/side",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 15
+      },
+      {
+       "name": "Biceps curl (Bowflex dumbbells)",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "Two Bowflex 7.5 lb",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "guide": 16
       }
      ],
      "challenge": {
@@ -2493,7 +2602,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 1
@@ -2566,7 +2675,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 2
@@ -2631,6 +2740,14 @@
        "target": "Dead bug + bird dog 8/side",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 15
+      },
+      {
+       "name": "Biceps curl (Bowflex dumbbells)",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "Two Bowflex 7.5 lb",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "guide": 16
       }
      ],
      "challenge": {
@@ -2639,7 +2756,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 3
@@ -2721,7 +2838,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 1
@@ -2786,6 +2903,14 @@
        "target": "Dead bug, 3-sec reach",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 15
+      },
+      {
+       "name": "Biceps curl (Bowflex dumbbells)",
+       "sets": 2,
+       "reps": "12-15",
+       "target": "Two Bowflex 7.5 lb",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "guide": 16
       }
      ],
      "challenge": {
@@ -2794,7 +2919,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 16
+      "guide": 17
      },
      "note": null,
      "dayIndex": 2
@@ -2867,7 +2992,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 3
@@ -2941,6 +3066,14 @@
        "target": "Dead bug (easy)",
        "cue": "RECORD WEEK: light and fun. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 15
+      },
+      {
+       "name": "Biceps curl (Bowflex dumbbells)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Two Bowflex 7.5 lb (easy)",
+       "cue": "RECORD WEEK: light and fun. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "guide": 16
       }
      ],
      "challenge": {
@@ -2949,7 +3082,7 @@
       "reps": "Max GOOD-FORM reps",
       "target": "SAME height as week 1 (bonus: try floor)",
       "cue": "RECORD TEST. Same height as week 1 so you can compare. Stop the first time a rep isn't clean. Big sticker!",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 1
@@ -3022,7 +3155,7 @@
       "reps": "Good-form reps in 60 sec",
       "target": "Bodyweight, SAME bench as week 1",
       "cue": "RECORD TEST. Same bench as week 1. Only good reps count. Bodyweight only - no heavy maxes. Big sticker!",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 2
@@ -3087,6 +3220,14 @@
        "target": "Dead bug (easy)",
        "cue": "RECORD WEEK: light and fun. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 15
+      },
+      {
+       "name": "Biceps curl (Bowflex dumbbells)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Two Bowflex 7.5 lb (easy)",
+       "cue": "RECORD WEEK: light and fun. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
+       "guide": 16
       }
      ],
      "challenge": {
@@ -3095,7 +3236,7 @@
       "reps": "Beat your best one",
       "target": "Bodyweight",
       "cue": "Pick any fun challenge from the 12 weeks and try to beat your best. Then fill in the record sheet and celebrate!",
-      "guide": 18
+      "guide": 19
      },
      "note": null,
      "dayIndex": 3
