@@ -61,6 +61,10 @@
      "text": "After Week 2 Day 1 Upper (Nov 4): row 17.5 lb and pulldown 22.5 lb (one 2.5 lb step each) for Week 2 Day 3 and Week 3. Bench stays 35 (30 lb bar + 2.5/side) - the log said 38, which can't be built, so confirm what was on the bar. Landmine stays bar only (try one arm), curls 10, pushdowns 7.5, dead bug 2x8/side slower, floor push-ups goal 2x20. Set every weight BEFORE the session - same weight for all sets."
     },
     {
+     "label": "TARGETS RAISED (Nov 6, Lower)",
+     "text": "After Week 2 Day 2 Lower (Nov 6, felt EASY): one smallest step each from Week 3 - squat 50 (Olympic bar + 2.5/side), RDL 45 (30 lb bar + 5 + 2.5/side), leg extensions 17.5, calf raises 35, plank 30 sec. Later weeks adjusted so nothing goes backward (RDL 45 in weeks 5-6, calf 35-37.5, plank 30 sec in week 5). Set every weight BEFORE the session."
+    },
+    {
      "label": "Phases",
      "text": "Weeks 1-4: TECHNIQUE (learn the movements; deload in week 4)\nWeeks 5-8: BUILD (small weight increases; deload in week 8)\nWeeks 9-12: STRENGTH (slightly lower reps, slightly heavier; week 12 is a light 'show what you've learned' week with rep-PR tests - NO one-rep max tests)."
     }
@@ -375,7 +379,7 @@
        "sets": 2,
        "reps": "15-20",
        "target": "Bodyweight (done at 30 lb x 15)",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5-5 lb.",
+       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
        "guide": 5
       },
       {
@@ -614,7 +618,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "45 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Oct 31: 45x8, 45x8, then 55x8 - keep ALL 3 sets at 45 and build to 10 before adding weight. Load: empty 45 lb Olympic bar.",
+       "cue": "DONE Nov 6: 45x12, 50x10, 50x10 - felt EASY, every set at the top. RAISE one step: 50 lb (Olympic bar + 2.5/side), 3x8-10.",
        "guide": 2,
        "weight": 45
       },
@@ -623,7 +627,7 @@
        "sets": 3,
        "reps": "8",
        "target": "40 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Raised to 40 after 35x8x3 on Oct 31. Load: 30 lb bar + 5/side.",
+       "cue": "DONE Nov 6: 45x10, 45x10, 45x10 - felt EASY, above the 3x8 @40 target. RAISE one step: 45 lb (30 lb bar + 5 + 2.5/side), 3x8-10.",
        "guide": 3,
        "weight": 40
       },
@@ -632,7 +636,7 @@
        "sets": 2,
        "reps": "12-15",
        "target": "15 lb, build to 2x15",
-       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy. Oct 31: 15x12, 20x12 - use 15 lb for both sets until 2x15.",
+       "cue": "DONE Nov 6: 15x15, 20x15 - both sets at the top (2nd set raised mid-workout). RAISE one step: 17.5 lb (15 + 2.5), 2x12-15.",
        "guide": 4
       },
       {
@@ -640,7 +644,7 @@
        "sets": 2,
        "reps": "15-20",
        "target": "32.5 lb (Bowflex), build to 20 reps",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5-5 lb.",
+       "cue": "DONE Nov 6: 35x15, 40x20 - note 'too easy'. RAISE one step from 32.5: 35 lb (Bowflex), 2x15-20, aim for 20 on both sets.",
        "guide": 5
       },
       {
@@ -648,7 +652,7 @@
        "sets": 3,
        "reps": "25 sec",
        "target": "Bodyweight",
-       "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
+       "cue": "DONE Nov 6: 25, 30, 60 sec - every hold at or past 25. RAISE: 30 sec.",
        "guide": 6
       }
      ],
@@ -751,42 +755,42 @@
        "name": "Squat (45 lb Olympic bar, in rack)",
        "sets": 3,
        "reps": "8-10",
-       "target": "45 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: empty 45 lb Olympic bar.",
+       "target": "50 lb",
+       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Nov 6: 45x12, 50x10, 50x10 (easy) -> raised to 50 for all 3 sets. Set the weight BEFORE the session and keep it for every set. Load: Olympic bar + 2.5/side.",
        "guide": 2,
-       "weight": 45
+       "weight": 50
       },
       {
        "name": "Romanian deadlift (30 lb bar + plates)",
        "sets": 3,
        "reps": "8-10",
-       "target": "40 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 5/side.",
+       "target": "45 lb",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Nov 6: 45x10 x3 (easy) -> 45 lb; all 3 sets at 10 with a flat back -> 50 next. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 5 + 2.5/side.",
        "guide": 3,
-       "weight": 40
+       "weight": 45
       },
       {
        "name": "Leg extensions (light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "15 lb, build to 2x15",
-       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy.",
+       "target": "17.5 lb, build to 2x15",
+       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy. Nov 6: 15x15, 20x15 -> 17.5 lb both sets. Set the weight BEFORE the session and keep it for every set.",
        "guide": 4
       },
       {
        "name": "Calf raises",
        "sets": 2,
        "reps": "15-20",
-       "target": "32.5 lb (Bowflex), build to 20 reps",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5-5 lb.",
+       "target": "35 lb (Bowflex), build to 2x20",
+       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb. Nov 6: 35x15, 40x20 (too easy) -> 35 lb for both sets; 2x20 clean -> 37.5. Set the weight BEFORE the session and keep it for every set.",
        "guide": 5
       },
       {
        "name": "Plank",
        "sets": 3,
-       "reps": "25 sec",
+       "reps": "30 sec",
        "target": "Bodyweight",
-       "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
+       "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag. Nov 6: 25, 30, 60 sec -> 30 sec holds.",
        "guide": 6
       }
      ],
@@ -880,42 +884,42 @@
        "name": "Squat (45 lb Olympic bar, in rack)",
        "sets": 3,
        "reps": "8-10",
-       "target": "45 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: empty 45 lb Olympic bar.",
+       "target": "50 lb",
+       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Nov 6: 45x12, 50x10, 50x10 (easy) -> raised to 50 for all 3 sets. Set the weight BEFORE the session and keep it for every set. Load: Olympic bar + 2.5/side.",
        "guide": 2,
-       "weight": 45
+       "weight": 50
       },
       {
        "name": "Romanian deadlift (30 lb bar + plates)",
        "sets": 3,
        "reps": "8-10",
-       "target": "40 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 5/side.",
+       "target": "45 lb",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Nov 6: 45x10 x3 (easy) -> 45 lb; all 3 sets at 10 with a flat back -> 50 next. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 5 + 2.5/side.",
        "guide": 3,
-       "weight": 40
+       "weight": 45
       },
       {
        "name": "Leg extensions (light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "15 lb, build to 2x15",
-       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy.",
+       "target": "17.5 lb, build to 2x15",
+       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy. Nov 6: 15x15, 20x15 -> 17.5 lb both sets. Set the weight BEFORE the session and keep it for every set.",
        "guide": 4
       },
       {
        "name": "Calf raises",
        "sets": 2,
        "reps": "15-20",
-       "target": "32.5 lb (Bowflex), build to 20 reps",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5-5 lb.",
+       "target": "35 lb (Bowflex), build to 2x20",
+       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb. Nov 6: 35x15, 40x20 (too easy) -> 35 lb for both sets; 2x20 clean -> 37.5. Set the weight BEFORE the session and keep it for every set.",
        "guide": 5
       },
       {
        "name": "Plank",
        "sets": 3,
-       "reps": "25 sec",
+       "reps": "30 sec",
        "target": "Bodyweight",
-       "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
+       "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag. Nov 6: 25, 30, 60 sec -> 30 sec holds.",
        "guide": 6
       }
      ],
@@ -1045,7 +1049,7 @@
        "sets": 2,
        "reps": "12",
        "target": "30 lb (deload)",
-       "cue": "DELOAD: easy. Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5-5 lb.",
+       "cue": "DELOAD: easy. Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
        "guide": 5
       },
       {
@@ -1165,16 +1169,16 @@
        "name": "Romanian deadlift (30 lb bar + plates)",
        "sets": 3,
        "reps": "8-10",
-       "target": "40 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 5/side.",
+       "target": "45 lb",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 5 + 2.5/side.",
        "guide": 3,
-       "weight": 40
+       "weight": 45
       },
       {
        "name": "Leg extensions (light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "15, or 17.5 if 2x15 easy",
+       "target": "17.5, or 20 if 2x15 easy",
        "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy.",
        "guide": 4
       },
@@ -1182,14 +1186,14 @@
        "name": "Calf raises",
        "sets": 2,
        "reps": "15-20",
-       "target": "32.5, or 35 if 2x20 clean",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5-5 lb.",
+       "target": "35, or 37.5 if 2x20 clean",
+       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
        "guide": 5
       },
       {
        "name": "Plank",
        "sets": 3,
-       "reps": "25 sec",
+       "reps": "30 sec",
        "target": "Bodyweight",
        "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
        "guide": 6
@@ -1294,16 +1298,16 @@
        "name": "Romanian deadlift (30 lb bar + plates)",
        "sets": 3,
        "reps": "8-10",
-       "target": "40 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 5/side.",
+       "target": "45 lb",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 5 + 2.5/side.",
        "guide": 3,
-       "weight": 40
+       "weight": 45
       },
       {
        "name": "Leg extensions (light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "15, or 17.5 if 2x15 easy",
+       "target": "17.5, or 20 if 2x15 easy",
        "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy.",
        "guide": 4
       },
@@ -1311,14 +1315,14 @@
        "name": "Calf raises",
        "sets": 2,
        "reps": "15-20",
-       "target": "32.5, or 35 if 2x20 clean",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5-5 lb.",
+       "target": "35, or 37.5 if 2x20 clean",
+       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
        "guide": 5
       },
       {
        "name": "Plank",
        "sets": 3,
-       "reps": "25 sec",
+       "reps": "30 sec",
        "target": "Bodyweight",
        "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
        "guide": 6
@@ -1432,10 +1436,10 @@
        "name": "Romanian deadlift (30 lb bar + plates)",
        "sets": 3,
        "reps": "8",
-       "target": "40 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 5/side.",
+       "target": "45 lb",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 5 + 2.5/side.",
        "guide": 3,
-       "weight": 40
+       "weight": 45
       },
       {
        "name": "Leg extensions (light)",
@@ -1449,8 +1453,8 @@
        "name": "Calf raises",
        "sets": 2,
        "reps": "15-20",
-       "target": "32.5-35 lb",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5-5 lb.",
+       "target": "35-37.5 lb",
+       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
        "guide": 5
       },
       {
@@ -1587,8 +1591,8 @@
        "name": "Calf raises",
        "sets": 2,
        "reps": "15-20",
-       "target": "35 lb",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5-5 lb.",
+       "target": "37.5 lb",
+       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
        "guide": 5
       },
       {
@@ -1716,8 +1720,8 @@
        "name": "Calf raises",
        "sets": 2,
        "reps": "15-20",
-       "target": "35 lb",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5-5 lb.",
+       "target": "37.5 lb",
+       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
        "guide": 5
       },
       {
@@ -1855,7 +1859,7 @@
        "sets": 2,
        "reps": "12",
        "target": "30 lb (deload)",
-       "cue": "DELOAD: easy. Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5-5 lb.",
+       "cue": "DELOAD: easy. Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
        "guide": 5
       },
       {
@@ -1993,7 +1997,7 @@
        "sets": 2,
        "reps": "15-20",
        "target": "35, or 37.5-40 if 2x20 clean",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5-5 lb.",
+       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
        "guide": 5
       },
       {
@@ -2122,7 +2126,7 @@
        "sets": 2,
        "reps": "15-20",
        "target": "35, or 37.5-40 if 2x20 clean",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5-5 lb.",
+       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
        "guide": 5
       },
       {
@@ -2260,7 +2264,7 @@
        "sets": 2,
        "reps": "15-20",
        "target": "40 lb",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5-5 lb.",
+       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
        "guide": 5
       },
       {
@@ -2398,7 +2402,7 @@
        "sets": 2,
        "reps": "15-20",
        "target": "40, or 42.5-45 if 2x20 clean",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5-5 lb.",
+       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
        "guide": 5
       },
       {
@@ -2527,7 +2531,7 @@
        "sets": 2,
        "reps": "15-20",
        "target": "40, or 42.5-45 if 2x20 clean",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5-5 lb.",
+       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
        "guide": 5
       },
       {
@@ -2665,7 +2669,7 @@
        "sets": 2,
        "reps": "12",
        "target": "35 lb (light)",
-       "cue": "LIGHT week. Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5-5 lb.",
+       "cue": "LIGHT week. Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
        "guide": 5
       },
       {
