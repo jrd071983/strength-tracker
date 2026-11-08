@@ -65,6 +65,10 @@
      "text": "After Week 2 Day 2 Lower (Nov 6, felt EASY): one smallest step each from Week 3 - squat 50 (Olympic bar + 2.5/side), RDL 45 (30 lb bar + 5 + 2.5/side), leg extensions 17.5, calf raises 35, plank 30 sec. Later weeks adjusted so nothing goes backward (RDL 45 in weeks 5-6, calf 35-37.5, plank 30 sec in week 5). Set every weight BEFORE the session."
     },
     {
+     "label": "TARGETS RAISED (Nov 8, Upper)",
+     "text": "After Week 2 Day 3 Upper (Nov 8, felt OK), one smallest step each for Week 3 Upper: bench 40 (30 lb bar + 5/side) 3x8-10, low cable row 20, lat pulldown 25 (Week 5 pulldown also 25 so it doesn't go backward). Kept: landmine bar only - next step is ONE arm, 2x8/arm; curls 10 each; pushdowns 7.5 until 2x15; dead bug 2x8/side slow; floor push-ups goal 2x22+ (he hit 2x20). Nov 4's logged 38 lb bench is still unconfirmed."
+    },
+    {
      "label": "Phases",
      "text": "Weeks 1-4: TECHNIQUE (learn the movements; deload in week 4)\nWeeks 5-8: BUILD (small weight increases; deload in week 8)\nWeeks 9-12: STRENGTH (slightly lower reps, slightly heavier; week 12 is a light 'show what you've learned' week with rep-PR tests - NO one-rep max tests)."
     }
@@ -670,7 +674,7 @@
        "sets": 3,
        "reps": "6-8",
        "target": "35 lb",
-       "cue": "Spotter + safeties. Hit top reps on all 3 sets -> +5 lb (2.5 per side) and drop back to 6-8. Nov 4 log said 38 lb (not buildable) with 7, 8, 8 - stay at 35 and aim for 8, 8, 8. Load: 30 lb bar + 2.5/side.",
+       "cue": "DONE Nov 8: 35x8, 40x8, 40x8 - felt OK, every set at the top of 6-8 (sets 2-3 raised mid-workout to 40). Nov 4's logged 38 is still unconfirmed. RAISE one step: 40 lb (30 lb bar + 5/side) 3x8-10.",
        "guide": 7,
        "weight": 35
       },
@@ -679,7 +683,7 @@
        "sets": 3,
        "reps": "10",
        "target": "17.5 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb. Nov 4: 15x10, 15x10, 20x10 -> raised to 17.5 (one 2.5 lb step). Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
+       "cue": "DONE Nov 8: 17.5x10, 20x10, 20x12 - every set at 10+ (sets 2-3 raised mid-workout). RAISE one step: 20 lb (two 10 lb plates) 3x10. Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
        "guide": 8,
        "weight": 17.5
       },
@@ -688,7 +692,7 @@
        "sets": 3,
        "reps": "10",
        "target": "22.5 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb. Nov 4: 20x10, 20x10, 25x10 -> raised to 22.5 (one 2.5 lb step). Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
+       "cue": "DONE Nov 8: 25x10, 25x10, 25x10 - all 3 sets hit 10, above the 22.5 target. RAISE one step: 25 lb (two 10s + a 5) 3x10. Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
        "guide": 9,
        "weight": 22.5
       },
@@ -697,7 +701,7 @@
        "sets": 2,
        "reps": "8/arm",
        "target": "Bar only, one arm (two hands if wobbly)",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy. Nov 4: two hands, 45x8 then 50x8 - stay bar only and try one arm (2x8/arm); go back to two hands if one arm is wobbly.",
+       "cue": "DONE Nov 8: 45x15, 50x12 with two hands (one arm not tried yet). KEEP: bar only, one arm, 2x8/arm; if one arm isn't steady, two hands at 50 (bar + the plate he used) 2x10-12. Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
        "guide": 10
       },
       {
@@ -705,7 +709,7 @@
        "sets": 2,
        "reps": "AMRAP clean",
        "target": "Floor (18 & 15 on Nov 4)",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x20 clean. Nov 4: 18, 15 - beat it.",
+       "cue": "DONE Nov 8: 20 and 20 - hit the 2x20 goal (Week 1: 16, 12; Nov 4: 18, 15). Next: floor, 2 x max clean reps, goal 2x22+.",
        "guide": 11
       },
       {
@@ -713,7 +717,7 @@
        "sets": 2,
        "reps": "10-12",
        "target": "10 each, build to 12",
-       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready. Nov 4: 10x10, 10x12 - stay at 10 until both sets hit 12.",
+       "cue": "DONE Nov 8: 10x10, 10x12 - same as Nov 4, first set short of 12. KEEP: 10 lb each, 2x10-12.",
        "guide": 12
       },
       {
@@ -721,7 +725,7 @@
        "sets": 2,
        "reps": "12-15",
        "target": "7.5 lb, build to 2x12-15",
-       "cue": "Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy. Nov 4: 7.5x12, 7.5x10 - stay at 7.5 and get both sets to 12+.",
+       "cue": "DONE Nov 8: 7.5x12, 7.5x15 - both sets in range, only set 2 at the top. KEEP: 7.5 lb (5 + 2.5 plate), 2x12-15; 2x15 -> 10 lb.",
        "guide": 9
       },
       {
@@ -729,7 +733,7 @@
        "sets": 2,
        "reps": "8/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach. Nov 4 felt easy - make it harder by going slower (3-sec reach, 1-sec pause), not by adding reps.",
+       "cue": "DONE Nov 8: 10, 10 per side (target 8/side). KEEP: 2x8/side, slow (3-sec reach, 1-sec pause).",
        "guide": 14
       }
      ],
@@ -807,43 +811,43 @@
        "name": "Bench press (30 lb bar) - SPOTTER",
        "sets": 3,
        "reps": "8-10",
-       "target": "35 lb",
-       "cue": "Spotter + safeties. Hit top reps on all 3 sets -> +5 lb (2.5 per side) and drop back to 6-8. Load: 30 lb bar + 2.5/side.",
+       "target": "40 lb",
+       "cue": "Spotter + safeties. Hit top reps on all 3 sets -> +5 lb (2.5 per side) and drop back to 6-8. Nov 8: 35x8, 40x8, 40x8 -> 40 for all 3 sets; 3x10 clean -> 45. Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout). Load: 30 lb bar + 5/side.",
        "guide": 7,
-       "weight": 35
+       "weight": 40
       },
       {
        "name": "Low cable row (light)",
        "sets": 3,
        "reps": "10",
-       "target": "17.5 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb. Nov 4: 15x10, 15x10, 20x10 -> raised to 17.5 (one 2.5 lb step). Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
+       "target": "20 lb",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb. Nov 8: 17.5x10, 20x10, 20x12 -> raised to 20 (one 2.5 lb step). Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
        "guide": 8,
-       "weight": 17.5
+       "weight": 20
       },
       {
        "name": "Lat pulldown (light)",
        "sets": 3,
        "reps": "10",
-       "target": "22.5 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb. Nov 4: 20x10, 20x10, 25x10 -> raised to 22.5 (one 2.5 lb step). Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
+       "target": "25 lb",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb. Nov 8: 25x10 x3 -> 25 lb; 3x10 clean -> 27.5. Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
        "guide": 9,
-       "weight": 22.5
+       "weight": 25
       },
       {
        "name": "Landmine press (45 lb Olympic bar in landmine)",
        "sets": 2,
        "reps": "8/arm",
        "target": "Bar only, one arm (two hands if wobbly)",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy. Nov 4: two hands, 45x8 then 50x8 - stay bar only and try one arm (2x8/arm); go back to two hands if one arm is wobbly.",
+       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy. Nov 8: two hands, 45x15 and 50x12 - two hands is easy now; the next step is ONE arm, bar only, 2x8/arm (not more weight). If one arm isn't steady: two hands at 50, 2x10-12.",
        "guide": 10
       },
       {
        "name": "Push-ups (floor)",
        "sets": 2,
        "reps": "AMRAP clean",
-       "target": "Floor (18 & 15 on Nov 4)",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x20 clean. Nov 4: 18, 15 - beat it.",
+       "target": "Floor (20 & 20 on Nov 8), goal 2x22+",
+       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x20 clean. Nov 8: 20, 20 - goal 2x22+.",
        "guide": 11
       },
       {
@@ -851,7 +855,7 @@
        "sets": 2,
        "reps": "10-12",
        "target": "10 each, build to 12",
-       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready. Nov 4: 10x10, 10x12 - stay at 10 until both sets hit 12.",
+       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready. Nov 4 and Nov 8: 10x10, 10x12 - stay at 10 until both sets hit 12; rest a full 60-90 sec first.",
        "guide": 12
       },
       {
@@ -859,7 +863,7 @@
        "sets": 2,
        "reps": "12-15",
        "target": "7.5 lb, build to 2x12-15",
-       "cue": "Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy. Nov 4: 7.5x12, 7.5x10 - stay at 7.5 and get both sets to 12+.",
+       "cue": "Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy. Nov 8: 7.5x12, 7.5x15 - stay at 7.5 until both sets hit 15, then 10 lb.",
        "guide": 9
       },
       {
@@ -1230,10 +1234,10 @@
        "name": "Lat pulldown (light)",
        "sets": 3,
        "reps": "10",
-       "target": "22.5 lb",
+       "target": "25 lb",
        "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
        "guide": 9,
-       "weight": 22.5
+       "weight": 25
       },
       {
        "name": "Landmine press (45 lb Olympic bar in landmine)",
