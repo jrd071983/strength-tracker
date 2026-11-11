@@ -7,7 +7,7 @@
  "coachEmail": "justin.dodd@mail.grokbot.com",
  "coachName": "Coach",
  "title": "12-Week Beginner Strength Plan - Connor (age 9)",
- "intro": "Upper/Lower split, 3 sessions/week, ~30 minutes. Mostly bodyweight, TRX straps, and form practice with a broomstick or very light Bowflex dumbbells (5 lb to start). All targets are conservative starting points - adjust to what Connor can do with slow, controlled, good-form reps.",
+ "intro": "Upper/Lower split, 3 sessions/week, ~30 minutes. Mostly bodyweight, TRX straps, broomstick form practice, and light Bowflex dumbbells (from week 3 Fri on Lower days: squat 15 lb total, hinge and bridge one 10 lb, lunges 5 lb each hand if steady). All targets are conservative starting points - adjust to what Connor can do with slow, controlled, good-form reps.",
  "targetHeader": "Target version / load - suggested, adjust",
  "warmup": [
   {
@@ -47,7 +47,7 @@
     },
     {
      "label": "Phases",
-     "text": "Weeks 1-4: LEARN (learn the movements, 1-2 sets; easy week in week 4)\nWeeks 5-8: BUILD (2-3 sets, harder versions; easy week in week 8)\nWeeks 9-12: CHALLENGE (2-3 sets, harder versions / tiny weight only if EASY; week 12 is a FUN REP-RECORD week compared to week 1 - bodyweight only, NO max lifts)."
+     "text": "Weeks 1-4: LEARN (learn the movements, 1-2 sets; easy week in week 4)\nWeeks 5-8: BUILD (2-3 sets, harder versions; easy week in week 8)\nWeeks 9-12: CHALLENGE (2-3 sets, harder versions / small weight steps only if EASY; week 12 is a FUN REP-RECORD week compared to week 1 - record tests are bodyweight only; regular Lower lifts stay at the light week-3 loads; NO max lifts)."
     }
    ]
   },
@@ -68,7 +68,7 @@
     },
     {
      "label": "LOWER day",
-     "text": "Squat (box squat to bench, TRX for balance at first) | Reverse lunge (TRX-assisted at first) | Glute bridge | Broomstick hip hinge / RDL (form practice) | Step-up (low step) | Calf raises | Plank (+ side planks from week 5) | Leg extension (bench attachment, empty, from week 3 Fri) | Fun challenge."
+     "text": "Squat (box squat to bench; 15 lb total / 7.5 lb in each hand from week 3 Fri) | Reverse lunge (5 lb in each hand from week 3 Fri only if both legs stay steady, otherwise bodyweight) | Glute bridge (one 10 lb on the hips from week 3 Fri) | Hip hinge (one 10 lb held at the chest from week 3 Fri) | Step-up (low step, bodyweight) | Calf raises | Plank (+ side planks from week 5) | Leg extension (bench attachment, empty, from week 3 Fri) | Fun challenge."
     },
     {
      "label": "UPPER day",
@@ -127,7 +127,7 @@
     },
     {
      "label": "Weight increases",
-     "text": "Only on the Bowflex dumbbell exercises, and only after all sets feel EASY with good form: one 2.5 lb step at a time (from week 2 Fri, after an EASY Nov 4 session: one-arm rows HOLD at 15 lb through week 11 with no automatic increases (10 lb in easy weeks); overhead press uses the 15 lb EZ curl bar (two Bowflex 7.5 lb in easy weeks); biceps curls are 10 lb and go to 12.5 lb only once both sets feel EASY, 10-12.5 lb in weeks 9-11, 7.5 lb in easy weeks). Lat pulldown: 10 lb after week 1; the smallest plate is 5 lb, so progress with reps and slow returns first; +5 lb (to 15 lb) only late in the plan if 3 x 15 is EASY. TRX rows get harder by moving the feet one small step closer to the anchor, not by adding weight. Never add weight and reps at the same time. If form slips, go back to the last version."
+     "text": "Only after all sets feel EASY with good form, one 2.5 lb step at a time. Upper (from week 2 Fri, after an EASY Nov 4 session): one-arm rows HOLD at 15 lb through week 11 with no automatic increases (10 lb in easy weeks); overhead press uses the 15 lb EZ curl bar (two Bowflex 7.5 lb in easy weeks); biceps curls are 10 lb and go to 12.5 lb only once both sets feel EASY, 10-12.5 lb in weeks 9-11, 7.5 lb in easy weeks. Lower (from week 3 Fri, after an EASY Nov 11 session at 10 lb total on the squat): squats 15 lb total (7.5 lb in each hand; 10 lb total in easy weeks 4 and 8; 20 lb total only after two EASY sessions with clean form); hip hinges and glute bridges one 10 lb at the chest / on the hips (5-7.5 lb or bodyweight in easy weeks; 15 lb only after two EASY sessions); lunges 5 lb in each hand only if both legs stay steady (bodyweight in easy weeks, or if he wobbles). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise. Lat pulldown: 10 lb after week 1; the smallest plate is 5 lb, so progress with reps and slow returns first; +5 lb (to 15 lb) only late in the plan if 3 x 15 is EASY. TRX rows get harder by moving the feet one small step closer to the anchor, not by adding weight. Never add weight and reps at the same time. If form slips, go back to the last version."
     },
     {
      "label": "Sets",
@@ -143,7 +143,7 @@
     },
     {
      "label": "Week 12 - fun rep-record week",
-     "text": "Light week plus record tests compared to week 1: max good-form push-ups (same height as week 1), longest good-form plank, squats in 60 sec (same bench), longest dead hang. Bodyweight only. NO one-rep max tests, no heavy maxes, never to failure - stop the first time a rep isn't clean."
+     "text": "Light week plus record tests compared to week 1: max good-form push-ups (same height as week 1), longest good-form plank, squats in 60 sec (same bench), longest dead hang. Record tests are bodyweight only. Regular Lower lifts stay at the light week-3 loads (squat 15 lb total, hinge and bridge 10 lb, lunges 5 lb each hand if steady). NO one-rep max tests, no heavy maxes, never to failure - stop the first time a rep isn't clean."
     }
    ]
   },
@@ -197,11 +197,11 @@
    "items": [
     {
      "label": "Bowflex SelectTech 52 dumbbells",
-     "text": "Adjustable 5-52.5 lb per hand in 2.5 lb steps - this is Connor's main 'weight' now. From week 2 Fri: one-arm rows 15 lb (10 lb in easy weeks), biceps curls 10 lb (12.5 lb only once both sets feel EASY; 7.5 lb in easy weeks), overhead press 7.5 lb pair only in easy weeks. Goblet squats and RDLs start at 5 lb and go up only after ALL sets feel EASY. Each end has its own dial: with the dumbbell sitting in its tray, turn BOTH dials to the same number. An adult sets them (or teaches Connor to and checks every time)."
+     "text": "Adjustable 5-52.5 lb per hand in 2.5 lb steps - this is Connor's main 'weight' now. From week 2 Fri: one-arm rows 15 lb (10 lb in easy weeks), biceps curls 10 lb (12.5 lb only once both sets feel EASY; 7.5 lb in easy weeks), overhead press 7.5 lb pair only in easy weeks. From week 3 Fri on Lower days: squats 15 lb total (7.5 lb in each hand; 10 lb total in easy weeks; 20 lb total only after two EASY sessions with clean form), hip hinges and glute bridges one 10 lb at the chest / on the hips (5-7.5 lb or bodyweight in easy weeks; 15 lb only after two EASY sessions), lunges 5 lb in each hand only if both legs stay steady (bodyweight in easy weeks, or if he wobbles). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise. Each end has its own dial: with the dumbbell sitting in its tray, turn BOTH dials to the same number. An adult sets them (or teaches Connor to and checks every time)."
     },
     {
      "label": "TRX straps",
-     "text": "TRX rows on Upper days (body angle controls difficulty: more upright = easier). On Lower days in weeks 1-4, hold the handles lightly for balance on box squats and reverse lunges. Adult checks the anchor and strap length."
+     "text": "TRX rows on Upper days (body angle controls difficulty: more upright = easier). On Lower days in weeks 1-3 (through W3D1), hold the handles lightly for balance on box squats and reverse lunges. From week 3 Fri, lunges use 5 lb dumbbells if both legs stay steady (otherwise bodyweight, and the TRX or rack can be used for balance). Adult checks the anchor and strap length."
     },
     {
      "label": "Mikolo F4 power rack + safeties",
@@ -285,22 +285,22 @@
   {
    "name": "Box squat -> bodyweight squat -> goblet squat",
    "day": "Lower",
-   "how": "Feet shoulder width, chest up. Sit back and down until you lightly touch the bench, then stand up tall - no plopping. Later: same squat without the bench, then with a pause, then holding one 5 lb Bowflex dumbbell at the chest (goblet) only if all sets feel EASY. TRX-assisted (weeks 1-4): hold both TRX handles lightly in front, straps tight, just for balance - the legs do the work."
+   "how": "Feet shoulder width, chest up. Sit back and down until you lightly touch the bench, then stand up tall - no plopping. Weeks 1-3 (through W3D1): bodyweight box squat, TRX handles lightly in front for balance if needed. From week 3 Fri: 15 lb total (7.5 lb Bowflex in each hand) for the box squat to bench. The weight sticks only with clean form and all reps; if form is sloppy, drop back. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand), one step at a time. Easy weeks 4 and 8: 10 lb total. Week 12: back to the week-3 load (15 lb total), easy."
   },
   {
    "name": "Reverse lunge / split squat",
    "day": "Lower",
-   "how": "Stand tall, step one foot back and lower the back knee gently toward the floor. Front knee stays over the middle of the foot. Push through the front heel to come back up. Weeks 1-4: hold both TRX handles in front for balance (light grip, legs do the work). Split squat = feet stay in place, just go down and up."
+   "how": "Stand tall, step one foot back and lower the back knee gently toward the floor. Front knee stays over the middle of the foot. Push through the front heel to come back up. Weeks 1-3 (through W3D1): hold both TRX handles in front for balance (light grip, legs do the work). From week 3 Fri: 5 lb Bowflex in each hand only if both legs stay steady; if he wobbles, go back to bodyweight (TRX or rack for balance is OK). Easy weeks 4 and 8: bodyweight. The weight sticks only with clean form and all reps; if form is sloppy, drop back. Split squat = feet stay in place, just go down and up."
   },
   {
    "name": "Glute bridge (and single-leg bridge)",
    "day": "Lower",
-   "how": "Lie on your back, knees bent, feet flat. Squeeze your glutes and push through your heels to lift your hips until knees, hips and shoulders line up, pause, lower slowly. Single-leg: one foot up, same thing."
+   "how": "Lie on your back, knees bent, feet flat. Squeeze your glutes and push through your heels to lift your hips until knees, hips and shoulders line up, pause, lower slowly. From week 3 Fri: rest one 10 lb Bowflex gently across the hips (an adult can help place it). After two EASY sessions with clean form, may go to 15 lb, one step at a time. Easy weeks 4 and 8: 5-7.5 lb or bodyweight. The weight sticks only with clean form and all reps; if form is sloppy, drop back. Single-leg: one foot up, same thing (stay bodyweight unless the plan says otherwise)."
   },
   {
    "name": "Broomstick hip hinge / RDL",
    "day": "Lower",
-   "how": "Hinge: broomstick along the back touching the head, upper back and tailbone. Soft knees, push hips BACK until you feel the back of the legs stretch, keep all 3 touch points, stand up by squeezing glutes. RDL: hold the stick (later two 5 lb Bowflex dumbbells) at the thighs, slide it down to just below the knees with a flat back, stand up."
+   "how": "Hinge: broomstick along the back touching the head, upper back and tailbone. Soft knees, push hips BACK until you feel the back of the legs stretch, keep all 3 touch points, stand up by squeezing glutes. Weeks 1-3 (through W3D1) stay on the broomstick. From week 3 Fri: hold one 10 lb Bowflex at the chest, same hips-back pattern, flat back. After two EASY sessions with clean form, may go to 15 lb, one step at a time. Easy weeks 4 and 8: 5-7.5 lb or bodyweight. The weight sticks only with clean form and all reps; if form is sloppy, drop back."
   },
   {
    "name": "Step-up (low step)",
@@ -1016,34 +1016,34 @@
      "exercises": [
       {
        "name": "Squat",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Box squat to bench",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
        "name": "Reverse lunge",
        "sets": 2,
        "reps": "10/leg",
-       "target": "Reverse lunge, light grip on TRX",
-       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the TRX handles (or the rack) for balance at first.",
+       "target": "Two Bowflex 5 lb (one in each hand) ONLY if both legs stay steady; otherwise bodyweight",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold 5 lb in each hand only if both legs stay steady; if he wobbles, go back to bodyweight (TRX or rack for balance is OK). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 3
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "Glute bridge, 2-sec squeeze",
-       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
       {
        "name": "Hip hinge / RDL (form practice)",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Broomstick hip hinge",
-       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "target": "One Bowflex 10 lb held at the chest",
+       "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
       {
@@ -1188,33 +1188,33 @@
       {
        "name": "Squat",
        "sets": 2,
-       "reps": "15",
-       "target": "Box squat (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "reps": "12",
+       "target": "10 lb total (5 lb Bowflex in each hand), box squat to bench (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 5 lb Bowflex in each hand (adult sets both dials). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
        "name": "Reverse lunge",
        "sets": 2,
-       "reps": "8/leg",
-       "target": "TRX-assisted reverse lunge (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the TRX handles (or the rack) for balance at first.",
+       "reps": "12/leg",
+       "target": "Bodyweight reverse lunge (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Bodyweight this easy week; TRX or rack for balance is OK. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 3
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "12",
-       "target": "Glute bridge (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "target": "One Bowflex 5-7.5 lb on the hips, or bodyweight (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
       {
        "name": "Hip hinge / RDL (form practice)",
        "sets": 2,
-       "reps": "15",
-       "target": "Broomstick hip hinge (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "reps": "12",
+       "target": "One Bowflex 5-7.5 lb held at the chest, or bodyweight (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
       {
@@ -1358,34 +1358,34 @@
      "exercises": [
       {
        "name": "Squat",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Bodyweight squat (no bench) if box was EASY",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
        "name": "Reverse lunge",
        "sets": 2,
        "reps": "10/leg",
-       "target": "Reverse lunge, no hands",
-       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the TRX handles (or the rack) for balance at first.",
+       "target": "Two Bowflex 5 lb (one in each hand) ONLY if both legs stay steady; otherwise bodyweight",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold 5 lb in each hand only if both legs stay steady; if he wobbles, go back to bodyweight (TRX or rack for balance is OK). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 3
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "Bridge, 2-sec squeeze",
-       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
       {
        "name": "Hip hinge / RDL (form practice)",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Broomstick RDL (stick in hands)",
-       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
       {
@@ -1520,34 +1520,34 @@
      "exercises": [
       {
        "name": "Squat",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Bodyweight squat (no bench) if box was EASY",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
        "name": "Reverse lunge",
        "sets": 2,
        "reps": "10/leg",
-       "target": "Reverse lunge, no hands",
-       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the TRX handles (or the rack) for balance at first.",
+       "target": "Two Bowflex 5 lb (one in each hand) ONLY if both legs stay steady; otherwise bodyweight",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold 5 lb in each hand only if both legs stay steady; if he wobbles, go back to bodyweight (TRX or rack for balance is OK). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 3
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "Bridge, 2-sec squeeze",
-       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
       {
        "name": "Hip hinge / RDL (form practice)",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Broomstick RDL (stick in hands)",
-       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
       {
@@ -1691,34 +1691,34 @@
      "exercises": [
       {
        "name": "Squat",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Bodyweight squat, 3-sec lower",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
        "name": "Reverse lunge",
-       "sets": 3,
+       "sets": 2,
        "reps": "10/leg",
-       "target": "Reverse lunge, no hands",
-       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the TRX handles (or the rack) for balance at first.",
+       "target": "Two Bowflex 5 lb (one in each hand) ONLY if both legs stay steady; otherwise bodyweight",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold 5 lb in each hand only if both legs stay steady; if he wobbles, go back to bodyweight (TRX or rack for balance is OK). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 3
       },
       {
        "name": "Glute bridge",
-       "sets": 3,
-       "reps": "12",
-       "target": "Bridge, 2-sec squeeze",
-       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "sets": 2,
+       "reps": "15",
+       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
       {
        "name": "Hip hinge / RDL (form practice)",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Broomstick RDL, 3-sec lower",
-       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
       {
@@ -1862,34 +1862,34 @@
      "exercises": [
       {
        "name": "Squat",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Pause squat (2 sec at the bottom)",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
        "name": "Reverse lunge",
-       "sets": 3,
+       "sets": 2,
        "reps": "10/leg",
-       "target": "Split squat or reverse lunge, 2-sec lower",
-       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the TRX handles (or the rack) for balance at first.",
+       "target": "Two Bowflex 5 lb (one in each hand) ONLY if both legs stay steady; otherwise bodyweight",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold 5 lb in each hand only if both legs stay steady; if he wobbles, go back to bodyweight (TRX or rack for balance is OK). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 3
       },
       {
        "name": "Glute bridge",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Marching bridge (hold top, march)",
-       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
       {
        "name": "Hip hinge / RDL (form practice)",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Two Bowflex 5 lb ONLY if stick form is perfect",
-       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
       {
@@ -2024,34 +2024,34 @@
      "exercises": [
       {
        "name": "Squat",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Pause squat (2 sec at the bottom)",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
        "name": "Reverse lunge",
-       "sets": 3,
+       "sets": 2,
        "reps": "10/leg",
-       "target": "Split squat or reverse lunge, 2-sec lower",
-       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the TRX handles (or the rack) for balance at first.",
+       "target": "Two Bowflex 5 lb (one in each hand) ONLY if both legs stay steady; otherwise bodyweight",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold 5 lb in each hand only if both legs stay steady; if he wobbles, go back to bodyweight (TRX or rack for balance is OK). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 3
       },
       {
        "name": "Glute bridge",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Marching bridge (hold top, march)",
-       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
       {
        "name": "Hip hinge / RDL (form practice)",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Two Bowflex 5 lb ONLY if stick form is perfect",
-       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
       {
@@ -2196,33 +2196,33 @@
       {
        "name": "Squat",
        "sets": 2,
-       "reps": "15",
-       "target": "Bodyweight squat (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "reps": "12",
+       "target": "10 lb total (5 lb Bowflex in each hand), box squat to bench (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 5 lb Bowflex in each hand (adult sets both dials). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
        "name": "Reverse lunge",
        "sets": 2,
-       "reps": "8/leg",
-       "target": "Reverse lunge (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the TRX handles (or the rack) for balance at first.",
+       "reps": "12/leg",
+       "target": "Bodyweight reverse lunge (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Bodyweight this easy week; TRX or rack for balance is OK. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 3
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "12",
-       "target": "Glute bridge (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "target": "One Bowflex 5-7.5 lb on the hips, or bodyweight (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
       {
        "name": "Hip hinge / RDL (form practice)",
        "sets": 2,
-       "reps": "15",
-       "target": "Broomstick RDL (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "reps": "12",
+       "target": "One Bowflex 5-7.5 lb held at the chest, or bodyweight (easy)",
+       "cue": "EASY WEEK: fewer sets, easier version. Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
       {
@@ -2366,34 +2366,34 @@
      "exercises": [
       {
        "name": "Squat",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Goblet squat Bowflex 5 lb, or pause squat",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
        "name": "Reverse lunge",
-       "sets": 3,
+       "sets": 2,
        "reps": "10/leg",
-       "target": "Split squat, 2-sec lower",
-       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the TRX handles (or the rack) for balance at first.",
+       "target": "Two Bowflex 5 lb (one in each hand) ONLY if both legs stay steady; otherwise bodyweight",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold 5 lb in each hand only if both legs stay steady; if he wobbles, go back to bodyweight (TRX or rack for balance is OK). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 3
       },
       {
        "name": "Glute bridge",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Marching bridge, 2-sec hold",
-       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
       {
        "name": "Hip hinge / RDL (form practice)",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "RDL: two Bowflex 5 lb or broomstick",
-       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
       {
@@ -2528,34 +2528,34 @@
      "exercises": [
       {
        "name": "Squat",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Goblet squat Bowflex 5 lb, or pause squat",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
        "name": "Reverse lunge",
-       "sets": 3,
+       "sets": 2,
        "reps": "10/leg",
-       "target": "Split squat, 2-sec lower",
-       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the TRX handles (or the rack) for balance at first.",
+       "target": "Two Bowflex 5 lb (one in each hand) ONLY if both legs stay steady; otherwise bodyweight",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold 5 lb in each hand only if both legs stay steady; if he wobbles, go back to bodyweight (TRX or rack for balance is OK). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 3
       },
       {
        "name": "Glute bridge",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Marching bridge, 2-sec hold",
-       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
       {
        "name": "Hip hinge / RDL (form practice)",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "RDL: two Bowflex 5 lb or broomstick",
-       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
       {
@@ -2699,34 +2699,34 @@
      "exercises": [
       {
        "name": "Squat",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Goblet squat (Bowflex 5 lb)",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
        "name": "Reverse lunge",
-       "sets": 3,
-       "reps": "12/leg",
-       "target": "Split squat / reverse lunge",
-       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the TRX handles (or the rack) for balance at first.",
+       "sets": 2,
+       "reps": "10/leg",
+       "target": "Two Bowflex 5 lb (one in each hand) ONLY if both legs stay steady; otherwise bodyweight",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold 5 lb in each hand only if both legs stay steady; if he wobbles, go back to bodyweight (TRX or rack for balance is OK). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 3
       },
       {
        "name": "Glute bridge",
        "sets": 2,
-       "reps": "12/leg",
-       "target": "Single-leg bridge if marching is EASY (else marching 3x15)",
-       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "reps": "15",
+       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
       {
        "name": "Hip hinge / RDL (form practice)",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "RDL: two Bowflex 5 lb",
-       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
       {
@@ -2870,34 +2870,34 @@
      "exercises": [
       {
        "name": "Squat",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Goblet squat 5 lb (7.5 ONLY if all EASY)",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
        "name": "Reverse lunge",
-       "sets": 3,
-       "reps": "12/leg",
-       "target": "Holding two Bowflex 5 lb ONLY if EASY",
-       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the TRX handles (or the rack) for balance at first.",
+       "sets": 2,
+       "reps": "10/leg",
+       "target": "Two Bowflex 5 lb (one in each hand) ONLY if both legs stay steady; otherwise bodyweight",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold 5 lb in each hand only if both legs stay steady; if he wobbles, go back to bodyweight (TRX or rack for balance is OK). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 3
       },
       {
        "name": "Glute bridge",
-       "sets": 3,
-       "reps": "12/leg",
-       "target": "Single-leg bridge (or marching bridge)",
-       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "sets": 2,
+       "reps": "15",
+       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
       {
        "name": "Hip hinge / RDL (form practice)",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "RDL: two Bowflex 5 lb (7.5 ONLY if all EASY)",
-       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
       {
@@ -3032,34 +3032,34 @@
      "exercises": [
       {
        "name": "Squat",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "Goblet squat 5 lb (7.5 ONLY if all EASY)",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
        "name": "Reverse lunge",
-       "sets": 3,
-       "reps": "12/leg",
-       "target": "Holding two Bowflex 5 lb ONLY if EASY",
-       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the TRX handles (or the rack) for balance at first.",
+       "sets": 2,
+       "reps": "10/leg",
+       "target": "Two Bowflex 5 lb (one in each hand) ONLY if both legs stay steady; otherwise bodyweight",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold 5 lb in each hand only if both legs stay steady; if he wobbles, go back to bodyweight (TRX or rack for balance is OK). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 3
       },
       {
        "name": "Glute bridge",
-       "sets": 3,
-       "reps": "12/leg",
-       "target": "Single-leg bridge (or marching bridge)",
-       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "sets": 2,
+       "reps": "15",
+       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
       {
        "name": "Hip hinge / RDL (form practice)",
-       "sets": 3,
+       "sets": 2,
        "reps": "15",
-       "target": "RDL: two Bowflex 5 lb (7.5 ONLY if all EASY)",
-       "cue": "Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
       {
@@ -3205,32 +3205,32 @@
        "name": "Squat",
        "sets": 2,
        "reps": "15",
-       "target": "Bodyweight squat (easy)",
-       "cue": "RECORD WEEK: light and fun. Feet shoulder width, chest up, knees follow toes, sit back and down, stand tall. Move to the next version only after all sets feel EASY with good form.",
+       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench (easy)",
+       "cue": "RECORD WEEK: light and fun. Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
        "name": "Reverse lunge",
        "sets": 2,
-       "reps": "8/leg",
-       "target": "Reverse lunge (easy)",
-       "cue": "RECORD WEEK: light and fun. Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold the TRX handles (or the rack) for balance at first.",
+       "reps": "10/leg",
+       "target": "Two Bowflex 5 lb (one in each hand) if both legs stay steady, otherwise bodyweight (easy)",
+       "cue": "RECORD WEEK: light and fun. Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold 5 lb in each hand only if both legs stay steady; if he wobbles, go back to bodyweight (TRX or rack for balance is OK). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 3
       },
       {
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "Glute bridge (easy)",
-       "cue": "RECORD WEEK: light and fun. Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly.",
+       "target": "One Bowflex 10 lb resting on the hips (easy)",
+       "cue": "RECORD WEEK: light and fun. Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
       {
        "name": "Hip hinge / RDL (form practice)",
        "sets": 2,
        "reps": "15",
-       "target": "Broomstick RDL (easy)",
-       "cue": "RECORD WEEK: light and fun. Flat back, soft knees, push hips BACK, stick stays touching head/upper back/tailbone. This is form practice - slow and smooth.",
+       "target": "One Bowflex 10 lb held at the chest (easy)",
+       "cue": "RECORD WEEK: light and fun. Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
       {
