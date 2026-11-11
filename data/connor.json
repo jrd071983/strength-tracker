@@ -68,7 +68,7 @@
     },
     {
      "label": "LOWER day",
-     "text": "Squat (box squat to bench, TRX for balance at first) | Reverse lunge (TRX-assisted at first) | Glute bridge | Broomstick hip hinge / RDL (form practice) | Step-up (low step) | Calf raises | Plank (+ side planks from week 5) | Fun challenge."
+     "text": "Squat (box squat to bench, TRX for balance at first) | Reverse lunge (TRX-assisted at first) | Glute bridge | Broomstick hip hinge / RDL (form practice) | Step-up (low step) | Calf raises | Plank (+ side planks from week 5) | Leg extension (bench attachment, empty, from week 3 Fri) | Fun challenge."
     },
     {
      "label": "UPPER day",
@@ -76,7 +76,7 @@
     },
     {
      "label": "Session length (~30 min)",
-     "text": "5-min warm-up + ~20 min of exercises + 2-min fun challenge + 3-min cool-down. Rest 45-60 sec between sets. To save time, pair two exercises and go back and forth (e.g., squat then plank, push-ups then row; on Upper days the biceps curls add only 2-3 min - pair them with the dead bug)."
+     "text": "5-min warm-up + ~20 min of exercises + 2-min fun challenge + 3-min cool-down. Rest 45-60 sec between sets. To save time, pair two exercises and go back and forth (e.g., squat then plank, push-ups then row; on Upper days the biceps curls add only 2-3 min - pair them with the dead bug; on Lower days the leg extensions add only 2-3 min - pair them with the plank)."
     }
    ]
   },
@@ -225,7 +225,7 @@
     },
     {
      "label": "Flat bench",
-     "text": "Box-squat target, one-arm row support, and incline push-up station (weeks 9+). There is no leg extension attachment anymore - step-ups on a low step replace leg extensions."
+     "text": "Box-squat target, one-arm row support, and incline push-up station (weeks 9+). The leg extension attachment is used on Lower days from week 3 Fri: empty attachment first; the smallest step is one 5 lb plate (no 2.5s), only after all sets feel EASY at the empty attachment for two sessions (weeks 9-11). Adult sets it up."
     },
     {
      "label": "Low step for step-ups",
@@ -316,6 +316,11 @@
    "name": "Plank and side plank",
    "day": "Lower",
    "how": "Plank: forearms on the floor, body in a straight line head to heels, squeeze glutes and belly, breathe. Side plank: on one forearm and the side of the feet (or knees to make it easier), hips up in a straight line. Stop when hips sag."
+  },
+  {
+   "name": "Leg extension (bench attachment)",
+   "day": "Lower",
+   "how": "Adult sets up the bench's leg extension attachment and stays close. Sit tall with your back against the pad, hold the bench handles or sides, and put the roller pad on the front of your lower shins, just above the ankles. Toes point up. Straighten your knees slowly for 2 seconds, squeeze the front of your thighs, then lower for 3 seconds. No kicking, swinging or bouncing. Start with the empty attachment; add one 5 lb plate only after all sets feel EASY at the empty attachment for two sessions. Stop if your knees hurt and tell a grown-up."
   },
   {
    "name": "Push-ups (incline -> floor)",
@@ -446,7 +451,7 @@
       "reps": "Good-form reps in 60 sec",
       "target": "Bodyweight, touch the SAME bench each rep",
       "cue": "BASELINE TEST. Only count good reps (touch bench, stand tall). Note the bench height so week 12 is a fair comparison. Sticker!",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 1
@@ -462,7 +467,7 @@
        "reps": "10-12",
        "target": "Hands on rack bar at hip height",
        "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form.",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -470,7 +475,7 @@
        "reps": "12/arm",
        "target": "Bowflex 5 lb",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -478,7 +483,7 @@
        "reps": "12",
        "target": "Nothing loaded = ___ lb",
        "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -486,7 +491,7 @@
        "reps": "12",
        "target": "TRX row, body almost upright",
        "cue": "Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -494,7 +499,7 @@
        "reps": "12",
        "target": "Broomstick",
        "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Dead hang - BASELINE TEST",
@@ -502,7 +507,7 @@
        "reps": "Longest good hang (sec)",
        "target": "Dead hang, adult helps reach bar",
        "cue": "TEST: Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -510,7 +515,7 @@
        "reps": "6/side",
        "target": "Dead bug",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       }
      ],
      "challenge": {
@@ -519,7 +524,7 @@
       "reps": "Max GOOD-FORM reps",
       "target": "Hands on rack bar at ___ height (write it)",
       "cue": "BASELINE TEST. Stop the set the first time a rep isn't clean (hips sag, half rep). Never to failure. Sticker!",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 2
@@ -592,7 +597,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 3
@@ -617,7 +622,7 @@
        "reps": "8",
        "target": "Rack bar 2 holes HIGHER than week 1 - every rep clean",
        "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -625,7 +630,7 @@
        "reps": "12/arm",
        "target": "Bowflex 7.5 lb",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -633,7 +638,7 @@
        "reps": "12",
        "target": "10 lb",
        "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -641,7 +646,7 @@
        "reps": "12",
        "target": "Body almost upright",
        "cue": "Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -649,7 +654,7 @@
        "reps": "12",
        "target": "Two Bowflex 7.5 lb",
        "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Dead hang (pull-up bar)",
@@ -657,7 +662,7 @@
        "reps": "20-25 sec",
        "target": "Dead hang",
        "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -665,7 +670,7 @@
        "reps": "8/side",
        "target": "Dead bug",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
@@ -673,7 +678,7 @@
        "reps": "12",
        "target": "Two Bowflex 5 lb (both dials on 5)",
        "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb only after both sets feel EASY with good form; if form slips, go back to 5 lb.",
-       "guide": 16
+       "guide": 17
       }
      ],
      "challenge": {
@@ -682,7 +687,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 1
@@ -755,7 +760,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 2
@@ -771,7 +776,7 @@
        "reps": "8",
        "target": "Rack bar 2 holes HIGHER than week 1 - every rep clean",
        "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -779,7 +784,7 @@
        "reps": "12/arm",
        "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -787,7 +792,7 @@
        "reps": "12",
        "target": "10 lb",
        "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -795,7 +800,7 @@
        "reps": "12",
        "target": "Body almost upright",
        "cue": "Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -803,7 +808,7 @@
        "reps": "10",
        "target": "EZ curl bar (15 lb)",
        "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Dead hang (pull-up bar)",
@@ -811,7 +816,7 @@
        "reps": "20-25 sec",
        "target": "Dead hang",
        "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -819,7 +824,7 @@
        "reps": "8/side",
        "target": "Dead bug",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
@@ -827,7 +832,7 @@
        "reps": "12",
        "target": "Two Bowflex 10 lb (12.5 lb only once both sets feel EASY)",
        "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
-       "guide": 16
+       "guide": 17
       }
      ],
      "challenge": {
@@ -836,7 +841,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 3
@@ -918,7 +923,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 1
@@ -934,7 +939,7 @@
        "reps": "8-10",
        "target": "Rack bar 2 holes higher than week 1",
        "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -942,7 +947,7 @@
        "reps": "12/arm",
        "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -950,7 +955,7 @@
        "reps": "12-15",
        "target": "10 lb",
        "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -958,7 +963,7 @@
        "reps": "12-15",
        "target": "Same, or feet 1 small step in if EASY",
        "cue": "Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -966,7 +971,7 @@
        "reps": "10",
        "target": "EZ curl bar (15 lb)",
        "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Dead hang (pull-up bar)",
@@ -974,7 +979,7 @@
        "reps": "20-25 sec",
        "target": "Dead hang",
        "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -982,7 +987,7 @@
        "reps": "8-10/side",
        "target": "Dead bug, slow",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
@@ -990,7 +995,7 @@
        "reps": "12",
        "target": "Two Bowflex 10 lb (12.5 lb only once both sets feel EASY)",
        "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
-       "guide": 16
+       "guide": 17
       }
      ],
      "challenge": {
@@ -999,7 +1004,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 2
@@ -1064,6 +1069,14 @@
        "target": "Forearm plank",
        "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
        "guide": 8
+      },
+      {
+       "name": "Leg extension (bench attachment)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Empty attachment (no plates)",
+       "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
+       "guide": 9
       }
      ],
      "challenge": {
@@ -1072,7 +1085,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 3
@@ -1097,7 +1110,7 @@
        "reps": "8",
        "target": "Rack bar 2 holes higher than week 1 (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -1105,7 +1118,7 @@
        "reps": "12/arm",
        "target": "Bowflex 10 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -1113,7 +1126,7 @@
        "reps": "12",
        "target": "10 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -1121,7 +1134,7 @@
        "reps": "12",
        "target": "Body almost upright (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -1129,7 +1142,7 @@
        "reps": "8",
        "target": "Two Bowflex 7.5 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Dead hang (pull-up bar)",
@@ -1137,7 +1150,7 @@
        "reps": "20 sec",
        "target": "Dead hang (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -1145,7 +1158,7 @@
        "reps": "8/side",
        "target": "Dead bug (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
@@ -1153,7 +1166,7 @@
        "reps": "10",
        "target": "Two Bowflex 7.5 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
-       "guide": 16
+       "guide": 17
       }
      ],
      "challenge": {
@@ -1162,7 +1175,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 1
@@ -1227,6 +1240,14 @@
        "target": "Forearm plank (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
        "guide": 8
+      },
+      {
+       "name": "Leg extension (bench attachment)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Empty attachment (no plates) (easy - 1 or 2 sets)",
+       "cue": "EASY WEEK: fewer sets, easier version. Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
+       "guide": 9
       }
      ],
      "challenge": {
@@ -1235,7 +1256,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 2
@@ -1251,7 +1272,7 @@
        "reps": "8",
        "target": "Rack bar 2 holes higher than week 1 (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -1259,7 +1280,7 @@
        "reps": "12/arm",
        "target": "Bowflex 10 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -1267,7 +1288,7 @@
        "reps": "12",
        "target": "10 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -1275,7 +1296,7 @@
        "reps": "12",
        "target": "Body almost upright (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -1283,7 +1304,7 @@
        "reps": "8",
        "target": "Two Bowflex 7.5 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Dead hang (pull-up bar)",
@@ -1291,7 +1312,7 @@
        "reps": "20 sec",
        "target": "Dead hang (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -1299,7 +1320,7 @@
        "reps": "8/side",
        "target": "Dead bug (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
@@ -1307,7 +1328,7 @@
        "reps": "10",
        "target": "Two Bowflex 7.5 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
-       "guide": 16
+       "guide": 17
       }
      ],
      "challenge": {
@@ -1316,7 +1337,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 3
@@ -1390,6 +1411,14 @@
        "target": "1 round = front, left, right (knees OK on side plank)",
        "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
        "guide": 8
+      },
+      {
+       "name": "Leg extension (bench attachment)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Empty attachment (no plates)",
+       "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
+       "guide": 9
       }
      ],
      "challenge": {
@@ -1398,7 +1427,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 1
@@ -1414,7 +1443,7 @@
        "reps": "8",
        "target": "Rack bar 1 hole higher than week 1",
        "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -1422,7 +1451,7 @@
        "reps": "12/arm",
        "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -1430,7 +1459,7 @@
        "reps": "12",
        "target": "10 lb, 3-sec return",
        "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -1438,7 +1467,7 @@
        "reps": "12-15",
        "target": "Feet 1 small step in if 2x15 EASY",
        "cue": "Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -1446,7 +1475,7 @@
        "reps": "12",
        "target": "EZ curl bar (15 lb)",
        "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Dead hang (pull-up bar)",
@@ -1454,7 +1483,7 @@
        "reps": "20-25 sec",
        "target": "Dead hang",
        "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -1462,7 +1491,7 @@
        "reps": "10/side",
        "target": "Dead bug, slow",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
@@ -1470,7 +1499,7 @@
        "reps": "12",
        "target": "Two Bowflex 10 lb (12.5 lb only once both sets feel EASY)",
        "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
-       "guide": 16
+       "guide": 17
       }
      ],
      "challenge": {
@@ -1479,7 +1508,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 17
+      "guide": 18
      },
      "note": null,
      "dayIndex": 2
@@ -1544,6 +1573,14 @@
        "target": "1 round = front, left, right (knees OK on side plank)",
        "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
        "guide": 8
+      },
+      {
+       "name": "Leg extension (bench attachment)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Empty attachment (no plates)",
+       "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
+       "guide": 9
       }
      ],
      "challenge": {
@@ -1552,7 +1589,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 3
@@ -1577,7 +1614,7 @@
        "reps": "8-10",
        "target": "Rack bar 1 hole higher than week 1",
        "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -1585,7 +1622,7 @@
        "reps": "12/arm",
        "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -1593,7 +1630,7 @@
        "reps": "12-15",
        "target": "10 lb, 3-sec return",
        "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -1601,7 +1638,7 @@
        "reps": "15",
        "target": "Same angle as last week",
        "cue": "Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -1609,7 +1646,7 @@
        "reps": "12",
        "target": "EZ curl bar (15 lb)",
        "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Dead hang (pull-up bar)",
@@ -1617,7 +1654,7 @@
        "reps": "25 sec",
        "target": "Dead hang",
        "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -1625,7 +1662,7 @@
        "reps": "10/side",
        "target": "Dead bug + bird dog 6/side",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
@@ -1633,7 +1670,7 @@
        "reps": "12",
        "target": "Two Bowflex 10 lb (12.5 lb only once both sets feel EASY)",
        "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
-       "guide": 16
+       "guide": 17
       }
      ],
      "challenge": {
@@ -1642,7 +1679,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 1
@@ -1707,6 +1744,14 @@
        "target": "Front, then each side",
        "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
        "guide": 8
+      },
+      {
+       "name": "Leg extension (bench attachment)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Empty attachment (no plates)",
+       "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
+       "guide": 9
       }
      ],
      "challenge": {
@@ -1715,7 +1760,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 2
@@ -1731,7 +1776,7 @@
        "reps": "8-10",
        "target": "Rack bar 1 hole higher than week 1",
        "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -1739,7 +1784,7 @@
        "reps": "12/arm",
        "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -1747,7 +1792,7 @@
        "reps": "12-15",
        "target": "10 lb, 3-sec return",
        "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -1755,7 +1800,7 @@
        "reps": "15",
        "target": "Same angle as last week",
        "cue": "Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -1763,7 +1808,7 @@
        "reps": "12",
        "target": "EZ curl bar (15 lb)",
        "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Dead hang (pull-up bar)",
@@ -1771,7 +1816,7 @@
        "reps": "25 sec",
        "target": "Dead hang",
        "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -1779,7 +1824,7 @@
        "reps": "10/side",
        "target": "Dead bug + bird dog 6/side",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
@@ -1787,7 +1832,7 @@
        "reps": "12",
        "target": "Two Bowflex 10 lb (12.5 lb only once both sets feel EASY)",
        "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
-       "guide": 16
+       "guide": 17
       }
      ],
      "challenge": {
@@ -1796,7 +1841,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 3
@@ -1870,6 +1915,14 @@
        "target": "Front, then each side",
        "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
        "guide": 8
+      },
+      {
+       "name": "Leg extension (bench attachment)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Empty attachment (no plates)",
+       "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
+       "guide": 9
       }
      ],
      "challenge": {
@@ -1878,7 +1931,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 1
@@ -1894,7 +1947,7 @@
        "reps": "8",
        "target": "Rack bar at week-1 height (hip)",
        "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -1902,7 +1955,7 @@
        "reps": "12/arm",
        "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -1910,7 +1963,7 @@
        "reps": "15",
        "target": "10 lb",
        "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -1918,7 +1971,7 @@
        "reps": "12",
        "target": "Same, or 1 small step in if EASY",
        "cue": "Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -1926,7 +1979,7 @@
        "reps": "12",
        "target": "EZ curl bar (15 lb)",
        "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Dead hang (pull-up bar)",
@@ -1934,7 +1987,7 @@
        "reps": "20-25 sec",
        "target": "Dead hang",
        "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -1942,7 +1995,7 @@
        "reps": "12/side",
        "target": "Dead bug, 3-sec reach",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
@@ -1950,7 +2003,7 @@
        "reps": "12",
        "target": "Two Bowflex 10 lb (12.5 lb only once both sets feel EASY)",
        "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
-       "guide": 16
+       "guide": 17
       }
      ],
      "challenge": {
@@ -1959,7 +2012,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 17
+      "guide": 18
      },
      "note": null,
      "dayIndex": 2
@@ -2024,6 +2077,14 @@
        "target": "Front, then each side",
        "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
        "guide": 8
+      },
+      {
+       "name": "Leg extension (bench attachment)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Empty attachment (no plates)",
+       "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
+       "guide": 9
       }
      ],
      "challenge": {
@@ -2032,7 +2093,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 3
@@ -2057,7 +2118,7 @@
        "reps": "8",
        "target": "Rack bar 1 hole higher than week 1 (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -2065,7 +2126,7 @@
        "reps": "12/arm",
        "target": "Bowflex 10 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -2073,7 +2134,7 @@
        "reps": "12",
        "target": "10 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -2081,7 +2142,7 @@
        "reps": "12",
        "target": "Body almost upright (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -2089,7 +2150,7 @@
        "reps": "8",
        "target": "Two Bowflex 7.5 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Dead hang (pull-up bar)",
@@ -2097,7 +2158,7 @@
        "reps": "20 sec",
        "target": "Dead hang (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -2105,7 +2166,7 @@
        "reps": "8/side",
        "target": "Dead bug (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
@@ -2113,7 +2174,7 @@
        "reps": "10",
        "target": "Two Bowflex 7.5 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
-       "guide": 16
+       "guide": 17
       }
      ],
      "challenge": {
@@ -2122,7 +2183,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 1
@@ -2187,6 +2248,14 @@
        "target": "Easy",
        "cue": "EASY WEEK: fewer sets, easier version. Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
        "guide": 8
+      },
+      {
+       "name": "Leg extension (bench attachment)",
+       "sets": 2,
+       "reps": "12",
+       "target": "Empty attachment (no plates) (easy - 1 or 2 sets)",
+       "cue": "EASY WEEK: fewer sets, easier version. Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
+       "guide": 9
       }
      ],
      "challenge": {
@@ -2195,7 +2264,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 2
@@ -2211,7 +2280,7 @@
        "reps": "8",
        "target": "Rack bar 1 hole higher than week 1 (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -2219,7 +2288,7 @@
        "reps": "12/arm",
        "target": "Bowflex 10 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -2227,7 +2296,7 @@
        "reps": "12",
        "target": "10 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -2235,7 +2304,7 @@
        "reps": "12",
        "target": "Body almost upright (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -2243,7 +2312,7 @@
        "reps": "8",
        "target": "Two Bowflex 7.5 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Dead hang (pull-up bar)",
@@ -2251,7 +2320,7 @@
        "reps": "20 sec",
        "target": "Dead hang (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -2259,7 +2328,7 @@
        "reps": "8/side",
        "target": "Dead bug (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
@@ -2267,7 +2336,7 @@
        "reps": "10",
        "target": "Two Bowflex 7.5 lb (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
-       "guide": 16
+       "guide": 17
       }
      ],
      "challenge": {
@@ -2276,7 +2345,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 3
@@ -2350,6 +2419,14 @@
        "target": "Front, then each side",
        "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
        "guide": 8
+      },
+      {
+       "name": "Leg extension (bench attachment)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Empty attachment; add a 5 lb plate only after all sets feel EASY at the empty attachment for two sessions",
+       "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
+       "guide": 9
       }
      ],
      "challenge": {
@@ -2358,7 +2435,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 1
@@ -2374,7 +2451,7 @@
        "reps": "8",
        "target": "Rack bar 1 hole BELOW hip height",
        "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -2382,7 +2459,7 @@
        "reps": "12/arm",
        "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -2390,7 +2467,7 @@
        "reps": "12",
        "target": "15 lb ONLY if 3x15 at 10 lb was EASY, else 10 lb",
        "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -2398,7 +2475,7 @@
        "reps": "12-15",
        "target": "Same, or 1 small step in if EASY",
        "cue": "Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -2406,7 +2483,7 @@
        "reps": "12",
        "target": "EZ curl bar (15 lb)",
        "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Hang: flexed-arm or dead hang",
@@ -2414,7 +2491,7 @@
        "reps": "20-25 sec",
        "target": "Dead hang, or 5-10 sec flexed-arm hang if EASY",
        "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -2422,7 +2499,7 @@
        "reps": "12/side",
        "target": "Dead bug, 3-sec reach",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
@@ -2430,7 +2507,7 @@
        "reps": "12-15",
        "target": "Two Bowflex 10-12.5 lb",
        "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
-       "guide": 16
+       "guide": 17
       }
      ],
      "challenge": {
@@ -2439,7 +2516,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 17
+      "guide": 18
      },
      "note": null,
      "dayIndex": 2
@@ -2504,6 +2581,14 @@
        "target": "Front, then each side",
        "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
        "guide": 8
+      },
+      {
+       "name": "Leg extension (bench attachment)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Empty attachment; add a 5 lb plate only after all sets feel EASY at the empty attachment for two sessions",
+       "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
+       "guide": 9
       }
      ],
      "challenge": {
@@ -2512,7 +2597,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 3
@@ -2537,7 +2622,7 @@
        "reps": "8",
        "target": "Rack bar 2 holes below hip, or hands on bench",
        "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -2545,7 +2630,7 @@
        "reps": "12/arm",
        "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -2553,7 +2638,7 @@
        "reps": "12-15",
        "target": "Same as last week",
        "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -2561,7 +2646,7 @@
        "reps": "12-15",
        "target": "Same, or 1 small step in if EASY",
        "cue": "Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -2569,7 +2654,7 @@
        "reps": "12",
        "target": "EZ curl bar (15 lb)",
        "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Hang: flexed-arm or dead hang",
@@ -2577,7 +2662,7 @@
        "reps": "25 sec",
        "target": "Dead hang, or 5-10 sec flexed-arm hang",
        "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -2585,7 +2670,7 @@
        "reps": "12/side",
        "target": "Dead bug + bird dog 8/side",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
@@ -2593,7 +2678,7 @@
        "reps": "12-15",
        "target": "Two Bowflex 10-12.5 lb",
        "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
-       "guide": 16
+       "guide": 17
       }
      ],
      "challenge": {
@@ -2602,7 +2687,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 1
@@ -2667,6 +2752,14 @@
        "target": "Front, then each side",
        "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
        "guide": 8
+      },
+      {
+       "name": "Leg extension (bench attachment)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Empty attachment; add a 5 lb plate only after all sets feel EASY at the empty attachment for two sessions",
+       "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
+       "guide": 9
       }
      ],
      "challenge": {
@@ -2675,7 +2768,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 2
@@ -2691,7 +2784,7 @@
        "reps": "8",
        "target": "Rack bar 2 holes below hip, or hands on bench",
        "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -2699,7 +2792,7 @@
        "reps": "12/arm",
        "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -2707,7 +2800,7 @@
        "reps": "12-15",
        "target": "Same as last week",
        "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -2715,7 +2808,7 @@
        "reps": "12-15",
        "target": "Same, or 1 small step in if EASY",
        "cue": "Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -2723,7 +2816,7 @@
        "reps": "12",
        "target": "EZ curl bar (15 lb)",
        "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Hang: flexed-arm or dead hang",
@@ -2731,7 +2824,7 @@
        "reps": "25 sec",
        "target": "Dead hang, or 5-10 sec flexed-arm hang",
        "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -2739,7 +2832,7 @@
        "reps": "12/side",
        "target": "Dead bug + bird dog 8/side",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
@@ -2747,7 +2840,7 @@
        "reps": "12-15",
        "target": "Two Bowflex 10-12.5 lb",
        "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
-       "guide": 16
+       "guide": 17
       }
      ],
      "challenge": {
@@ -2756,7 +2849,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 3
@@ -2830,6 +2923,14 @@
        "target": "Front, then each side",
        "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
        "guide": 8
+      },
+      {
+       "name": "Leg extension (bench attachment)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Empty attachment; add a 5 lb plate only after all sets feel EASY at the empty attachment for two sessions",
+       "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
+       "guide": 9
       }
      ],
      "challenge": {
@@ -2838,7 +2939,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 1
@@ -2854,7 +2955,7 @@
        "reps": "8",
        "target": "Hands on bench, or floor if bench 3x8 is EASY",
        "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -2862,7 +2963,7 @@
        "reps": "12/arm",
        "target": "Bowflex 15 lb (hold here - no automatic increases)",
        "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -2870,7 +2971,7 @@
        "reps": "15",
        "target": "Same as last week",
        "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -2878,7 +2979,7 @@
        "reps": "15",
        "target": "Same angle as last week",
        "cue": "Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -2886,7 +2987,7 @@
        "reps": "12",
        "target": "EZ curl bar (15 lb)",
        "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Hang: flexed-arm or dead hang",
@@ -2894,7 +2995,7 @@
        "reps": "20-25 sec",
        "target": "Dead hang, or 5-10 sec flexed-arm hang",
        "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -2902,7 +3003,7 @@
        "reps": "10/side",
        "target": "Dead bug, 3-sec reach",
        "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
@@ -2910,7 +3011,7 @@
        "reps": "12-15",
        "target": "Two Bowflex 10-12.5 lb",
        "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
-       "guide": 16
+       "guide": 17
       }
      ],
      "challenge": {
@@ -2919,7 +3020,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 17
+      "guide": 18
      },
      "note": null,
      "dayIndex": 2
@@ -2984,6 +3085,14 @@
        "target": "Front, then each side",
        "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
        "guide": 8
+      },
+      {
+       "name": "Leg extension (bench attachment)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Empty attachment; add a 5 lb plate only after all sets feel EASY at the empty attachment for two sessions",
+       "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
+       "guide": 9
       }
      ],
      "challenge": {
@@ -2992,7 +3101,7 @@
       "reps": "Do it / beat it",
       "target": "Bodyweight",
       "cue": "Just for fun - earns a sticker/checkmark. Good form beats speed.",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 3
@@ -3017,7 +3126,7 @@
        "reps": "8",
        "target": "Rack bar 2 holes higher than week 1 (easy - save energy for the record test)",
        "cue": "RECORD WEEK: light and fun. Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -3025,7 +3134,7 @@
        "reps": "12/arm",
        "target": "Bowflex 10 lb (easy)",
        "cue": "RECORD WEEK: light and fun. One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -3033,7 +3142,7 @@
        "reps": "12",
        "target": "10 lb (easy)",
        "cue": "RECORD WEEK: light and fun. Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -3041,7 +3150,7 @@
        "reps": "12",
        "target": "Body almost upright (easy)",
        "cue": "RECORD WEEK: light and fun. Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -3049,7 +3158,7 @@
        "reps": "12",
        "target": "EZ curl bar (15 lb) (easy)",
        "cue": "RECORD WEEK: light and fun. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Dead hang - RECORD TEST (vs. week 1)",
@@ -3057,7 +3166,7 @@
        "reps": "Longest good hang (sec)",
        "target": "Dead hang, adult helps reach bar",
        "cue": "TEST: Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -3065,7 +3174,7 @@
        "reps": "8/side",
        "target": "Dead bug (easy)",
        "cue": "RECORD WEEK: light and fun. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
@@ -3073,7 +3182,7 @@
        "reps": "12",
        "target": "Two Bowflex 10 lb (easy)",
        "cue": "RECORD WEEK: light and fun. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
-       "guide": 16
+       "guide": 17
       }
      ],
      "challenge": {
@@ -3082,7 +3191,7 @@
       "reps": "Max GOOD-FORM reps",
       "target": "SAME height as week 1 (bonus: try floor)",
       "cue": "RECORD TEST. Same height as week 1 so you can compare. Stop the first time a rep isn't clean. Big sticker!",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 1
@@ -3147,6 +3256,14 @@
        "target": "Forearm plank, stop when hips sag",
        "cue": "TEST: Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
        "guide": 8
+      },
+      {
+       "name": "Leg extension (bench attachment)",
+       "sets": 2,
+       "reps": "15",
+       "target": "Same setting that felt EASY (empty or + one 5 lb plate) (easy)",
+       "cue": "RECORD WEEK: light and fun. Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
+       "guide": 9
       }
      ],
      "challenge": {
@@ -3155,7 +3272,7 @@
       "reps": "Good-form reps in 60 sec",
       "target": "Bodyweight, SAME bench as week 1",
       "cue": "RECORD TEST. Same bench as week 1. Only good reps count. Bodyweight only - no heavy maxes. Big sticker!",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 2
@@ -3171,7 +3288,7 @@
        "reps": "8",
        "target": "Rack bar 2 holes higher than week 1 (easy)",
        "cue": "RECORD WEEK: light and fun. Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
-       "guide": 9
+       "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
@@ -3179,7 +3296,7 @@
        "reps": "12/arm",
        "target": "Bowflex 10 lb (easy)",
        "cue": "RECORD WEEK: light and fun. One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
-       "guide": 10
+       "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
@@ -3187,7 +3304,7 @@
        "reps": "12",
        "target": "10 lb (easy)",
        "cue": "RECORD WEEK: light and fun. Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
-       "guide": 11
+       "guide": 12
       },
       {
        "name": "TRX row (body angle)",
@@ -3195,7 +3312,7 @@
        "reps": "12",
        "target": "Body almost upright (easy)",
        "cue": "RECORD WEEK: light and fun. Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
-       "guide": 12
+       "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
@@ -3203,7 +3320,7 @@
        "reps": "12",
        "target": "EZ curl bar (15 lb) (easy)",
        "cue": "RECORD WEEK: light and fun. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
-       "guide": 13
+       "guide": 14
       },
       {
        "name": "Hang: flexed-arm or dead hang",
@@ -3211,7 +3328,7 @@
        "reps": "20 sec",
        "target": "Dead hang (easy)",
        "cue": "RECORD WEEK: light and fun. Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
-       "guide": 14
+       "guide": 15
       },
       {
        "name": "Dead bug (core)",
@@ -3219,7 +3336,7 @@
        "reps": "8/side",
        "target": "Dead bug (easy)",
        "cue": "RECORD WEEK: light and fun. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
-       "guide": 15
+       "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
@@ -3227,7 +3344,7 @@
        "reps": "12",
        "target": "Two Bowflex 10 lb (easy)",
        "cue": "RECORD WEEK: light and fun. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 12.5 lb only after both sets feel EASY with good form; if form slips, go back to 10 lb.",
-       "guide": 16
+       "guide": 17
       }
      ],
      "challenge": {
@@ -3236,7 +3353,7 @@
       "reps": "Beat your best one",
       "target": "Bodyweight",
       "cue": "Pick any fun challenge from the 12 weeks and try to beat your best. Then fill in the record sheet and celebrate!",
-      "guide": 19
+      "guide": 20
      },
      "note": null,
      "dayIndex": 3
