@@ -81,8 +81,12 @@
      "text": "After Week 3 Day 3 Lower (Nov 15, felt EASY), one smallest step each for Week 5 Lower: squat 60 (Olympic bar + 5 + 2.5/side), leg extensions 22.5, calf raises 42.5 (one step from the 40 he used on both sets), plank 40 sec. RDL KEEP 50 (30 lb bar + 10/side) - set 3 was logged as 20, which can't be built (probably 50); confirm, and if it was 50x10 Week 5 goes to 55. Row set 3 from Nov 13 was corrected in the log to 10, so Week 5-6 row is 22.5. Week 4 deload unchanged (squat 50, RDL 45, leg ext 17.5, calf 32.5, plank 2x25 sec). Later weeks don't go backward."
     },
     {
+     "label": "PLAN CHANGE (Nov 15)",
+     "text": "Justin: no deload in Week 4. Week 4 uses the working weights: Upper bench 40 (30 lb bar + 5/side) 3x8-10, row 22.5, pulldown 27.5, landmine bar only one arm 2x8/arm, push-ups 2xAMRAP goal 22+, curls 12.5 each, pushdowns 10, dead bug 2x8-10/side; Lower squat 60 (Olympic bar + 5 + 2.5/side) 3x8-10, RDL 50 (30 lb bar + 10/side) 3x8-10, leg extensions 22.5 2x12-15, calf raises 42.5 2x15-20, plank 3x40 sec. Weeks 5-11 repeat a weight, then plan one small step (only if every set hit the top last time). Week 8 deload = Week 4 loads, 2 sets. Week 12 light = Week 4 loads."
+    },
+    {
      "label": "Phases",
-     "text": "Weeks 1-4: TECHNIQUE (learn the movements; deload in week 4)\nWeeks 5-8: BUILD (small weight increases; deload in week 8)\nWeeks 9-12: STRENGTH (slightly lower reps, slightly heavier; week 12 is a light 'show what you've learned' week with rep-PR tests - NO one-rep max tests)."
+     "text": "Weeks 1-4: TECHNIQUE (learn the movements; Week 4 deload removed Nov 15 - Week 4 uses the working weights)\nWeeks 5-8: BUILD (small weight increases; deload in week 8)\nWeeks 9-12: STRENGTH (slightly lower reps, slightly heavier; week 12 is a light 'show what you've learned' week with rep-PR tests - NO one-rep max tests)."
     }
    ]
   },
@@ -160,8 +164,8 @@
      "text": "Target Weight numbers in the plan are SUGGESTIONS ONLY based on typical progress. If a target feels heavy or form slips, stay at the previous weight. If it feels too easy, still only add the smallest increment."
     },
     {
-     "label": "Deload weeks (4 and 8)",
-     "text": "Easier week to let the body recover: about 2 sets instead of 3 and/or ~10-15% lighter. Week 4 Lower (updated Nov 11): squat 50 (Olympic bar + 2.5/side), RDL 45 (30 lb bar + 5 + 2.5/side), leg extensions 17.5, calf raises 32.5, plank 2x25 sec - 2 sets, one step under Week 3 Day 3. Week 4 Upper (updated Nov 13): bench 35 (30 lb bar + 2.5/side) 2x8, row 17.5, pulldown 25, landmine bar only one arm 2x6/arm, curls 10 each, pushdowns 7.5 - 2 sets, a step under the working loads. Week 8 Lower (updated Nov 15): squat 55, RDL 45, leg extensions 20, calf raises 37.5."
+     "label": "Deload week (8)",
+     "text": "Week 4 deload removed Nov 15 (Justin). Week 8 is the one easier week: 2 sets (1 for dead bug) at the Week 4 working loads - squat 60, RDL 50, leg extensions 22.5, calf raises 42.5, plank 2x40 sec; bench 40, row 22.5, pulldown 27.5, landmine bar only one arm 2x6/arm, curls 12.5, pushdowns 10. Easy and crisp, no adding weight."
     },
     {
      "label": "Week 12 - rep-record week",
@@ -950,7 +954,7 @@
   },
   {
    "week": 4,
-   "phase": "Technique - DELOAD",
+   "phase": "Technique",
    "sessions": [
     {
      "num": 10,
@@ -959,69 +963,70 @@
      "exercises": [
       {
        "name": "Bench press (30 lb bar) - SPOTTER",
-       "sets": 2,
-       "reps": "8",
-       "target": "35 lb",
-       "cue": "DELOAD: 2 sets only, easy and crisp. Spotter + safeties. Nov 13: 40x8, 40x8, 40x10 -> working weight stays 40; deload at 35 (30 lb bar + 2.5/side). Back to 40 x 3x8-10 in Week 5. Load: 30 lb bar + 2.5/side.",
+       "sets": 3,
+       "reps": "8-10",
+       "target": "40 lb",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Spotter + safeties. All 3 sets at the top -> +5 lb (2.5/side). Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 5/side.",
        "guide": 7,
-       "weight": 35
+       "weight": 40
       },
       {
        "name": "Low cable row (light)",
-       "sets": 2,
+       "sets": 3,
        "reps": "10",
-       "target": "17.5 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb. DELOAD: 17.5 lb (one step under 20), 2x10 easy. Nov 13: 20x10, 20x10, 20x1 (set 3 likely a typo for 10) - working weight stays 20.",
+       "target": "22.5 lb",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 clean -> +2.5 lb. Set the weight BEFORE the session and keep it for every set. Load: two 10s + 2.5.",
        "guide": 8,
-       "weight": 17.5
+       "weight": 22.5
       },
       {
        "name": "Lat pulldown (light)",
-       "sets": 2,
+       "sets": 3,
        "reps": "10",
-       "target": "25 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb. DELOAD: 25 lb, 2x10 easy (working weight is now 27.5).",
+       "target": "27.5 lb",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 clean -> +2.5 lb. Set the weight BEFORE the session and keep it for every set. Load: two 10s + 5 + 2.5.",
        "guide": 9,
-       "weight": 25
+       "weight": 27.5
       },
       {
        "name": "Landmine press (45 lb Olympic bar in landmine)",
        "sets": 2,
-       "reps": "6/arm",
+       "reps": "8/arm",
        "target": "Bar only, ONE arm (no plates)",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy. DELOAD: bar only, ONE arm, 2x6/arm, slow. Nov 13: 50x10, 50x12 two hands - take the plate off; the goal is one arm, not more weight.",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. ONE arm: hold the bar end at the shoulder, ribs down, press up and forward, all reps then switch arms. Two hands only if one arm is wobbly - still no plate. Add the smallest plate only when one-arm 2x8/arm is steady. Set the weight BEFORE the session and keep it for every set.",
        "guide": 10
       },
       {
        "name": "Push-ups (floor)",
        "sets": 2,
        "reps": "AMRAP clean",
-       "target": "Floor, easy (stop 3-4 reps short)",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x22+ clean.",
+       "target": "Floor, goal 2x22+",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Body straight like a plank, chest to floor. Stop the set when a rep isn't clean.",
        "guide": 11
       },
       {
        "name": "Dumbbell curls (Bowflex)",
        "sets": 2,
-       "reps": "10",
-       "target": "10 each (deload)",
-       "cue": "DELOAD: fewer reps, easy. Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready. Nov 13: 10x12, 10x12 - deload stays at 10 each (working weight is now 12.5).",
+       "reps": "10-12",
+       "target": "12.5 each",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb each. Set the weight BEFORE the session and keep it for every set.",
        "guide": 12
       },
       {
        "name": "Triceps pushdowns (lat pulldown cable, light)",
        "sets": 2,
-       "reps": "10",
-       "target": "7.5 lb (deload)",
-       "cue": "DELOAD: lighter. Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy. Nov 13: 7.5x15 x2 - deload stays at 7.5 (working weight is now 10).",
-       "guide": 9
+       "reps": "12-15",
+       "target": "10 lb",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Elbows pinned to sides, push down until arms straight, slow return. 2x15 clean -> +2.5 lb. Set the weight BEFORE the session and keep it for every set. Load: one 10.",
+       "guide": 9,
+       "weight": 10
       },
       {
        "name": "Dead bug",
-       "sets": 1,
-       "reps": "6/side",
+       "sets": 2,
+       "reps": "8-10/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach.",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Low back pressed into floor; slowly reach opposite arm and leg out (3-sec reach, 1-sec pause), return, switch sides.",
        "guide": 14
       }
      ],
@@ -1036,44 +1041,46 @@
      "exercises": [
       {
        "name": "Squat (45 lb Olympic bar, in rack)",
-       "sets": 2,
-       "reps": "8",
-       "target": "50 lb",
-       "cue": "DELOAD: 2 sets only, easy and crisp. Load: Olympic bar + 2.5/side.",
+       "sets": 3,
+       "reps": "8-10",
+       "target": "60 lb",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Safeties set + spotter. Chest up, knees track over toes, hips to at least parallel. All 3 sets at the top -> +5 lb (2.5/side). Set the weight BEFORE the session and keep it for every set. Load: 45 lb Olympic bar + 5 + 2.5/side.",
        "guide": 2,
-       "weight": 50
+       "weight": 60
       },
       {
        "name": "Romanian deadlift (30 lb bar + plates)",
-       "sets": 2,
-       "reps": "8",
-       "target": "45 lb",
-       "cue": "DELOAD: 2 sets, easy. Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 5 + 2.5/side.",
+       "sets": 3,
+       "reps": "8-10",
+       "target": "50 lb",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Flat back, push hips back, bar to just below knees, slow and controlled. All sets at the top with a flat back -> +5 lb (2.5/side). Nov 15 set 3 was logged as 20 (can't be built - confirm; probably 50). Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 10/side.",
        "guide": 3,
-       "weight": 45
+       "weight": 50
       },
       {
        "name": "Leg extensions (light)",
        "sets": 2,
-       "reps": "12",
-       "target": "17.5 lb (deload)",
-       "cue": "DELOAD: lighter and easy. Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy.",
-       "guide": 4
+       "reps": "12-15",
+       "target": "22.5 lb",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. 2x15 easy -> +2.5 lb. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 4,
+       "weight": 22.5
       },
       {
        "name": "Calf raises",
        "sets": 2,
-       "reps": "12",
-       "target": "32.5 lb (deload)",
-       "cue": "DELOAD: easy. Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
-       "guide": 5
+       "reps": "15-20",
+       "target": "42.5 lb",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Bowflex set to the target, held at one side, other hand on the rack. Balls of feet on a step or 45 lb plate, pause 1 sec at the top, lower slowly. 2x20 clean -> +2.5 lb. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 5,
+       "weight": 42.5
       },
       {
        "name": "Plank",
-       "sets": 2,
-       "reps": "25 sec",
+       "sets": 3,
+       "reps": "40 sec",
        "target": "Bodyweight",
-       "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
        "guide": 6
       }
      ],
@@ -1088,69 +1095,70 @@
      "exercises": [
       {
        "name": "Bench press (30 lb bar) - SPOTTER",
-       "sets": 2,
-       "reps": "8",
-       "target": "35 lb",
-       "cue": "DELOAD: 2 sets only, easy and crisp. Spotter + safeties. Nov 13: 40x8, 40x8, 40x10 -> working weight stays 40; deload at 35 (30 lb bar + 2.5/side). Back to 40 x 3x8-10 in Week 5. Load: 30 lb bar + 2.5/side.",
+       "sets": 3,
+       "reps": "8-10",
+       "target": "40 lb",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Spotter + safeties. All 3 sets at the top -> +5 lb (2.5/side). Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 5/side.",
        "guide": 7,
-       "weight": 35
+       "weight": 40
       },
       {
        "name": "Low cable row (light)",
-       "sets": 2,
+       "sets": 3,
        "reps": "10",
-       "target": "17.5 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb. DELOAD: 17.5 lb (one step under 20), 2x10 easy. Nov 13: 20x10, 20x10, 20x1 (set 3 likely a typo for 10) - working weight stays 20.",
+       "target": "22.5 lb",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 clean -> +2.5 lb. Set the weight BEFORE the session and keep it for every set. Load: two 10s + 2.5.",
        "guide": 8,
-       "weight": 17.5
+       "weight": 22.5
       },
       {
        "name": "Lat pulldown (light)",
-       "sets": 2,
+       "sets": 3,
        "reps": "10",
-       "target": "25 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb. DELOAD: 25 lb, 2x10 easy (working weight is now 27.5).",
+       "target": "27.5 lb",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 clean -> +2.5 lb. Set the weight BEFORE the session and keep it for every set. Load: two 10s + 5 + 2.5.",
        "guide": 9,
-       "weight": 25
+       "weight": 27.5
       },
       {
        "name": "Landmine press (45 lb Olympic bar in landmine)",
        "sets": 2,
-       "reps": "6/arm",
+       "reps": "8/arm",
        "target": "Bar only, ONE arm (no plates)",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy. DELOAD: bar only, ONE arm, 2x6/arm, slow. Nov 13: 50x10, 50x12 two hands - take the plate off; the goal is one arm, not more weight.",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. ONE arm: hold the bar end at the shoulder, ribs down, press up and forward, all reps then switch arms. Two hands only if one arm is wobbly - still no plate. Add the smallest plate only when one-arm 2x8/arm is steady. Set the weight BEFORE the session and keep it for every set.",
        "guide": 10
       },
       {
        "name": "Push-ups (floor)",
        "sets": 2,
        "reps": "AMRAP clean",
-       "target": "Floor, easy (stop 3-4 reps short)",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x22+ clean.",
+       "target": "Floor, goal 2x22+",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Body straight like a plank, chest to floor. Stop the set when a rep isn't clean.",
        "guide": 11
       },
       {
        "name": "Dumbbell curls (Bowflex)",
        "sets": 2,
-       "reps": "10",
-       "target": "10 each (deload)",
-       "cue": "DELOAD: fewer reps, easy. Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready. Nov 13: 10x12, 10x12 - deload stays at 10 each (working weight is now 12.5).",
+       "reps": "10-12",
+       "target": "12.5 each",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb each. Set the weight BEFORE the session and keep it for every set.",
        "guide": 12
       },
       {
        "name": "Triceps pushdowns (lat pulldown cable, light)",
        "sets": 2,
-       "reps": "10",
-       "target": "7.5 lb (deload)",
-       "cue": "DELOAD: lighter. Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy. Nov 13: 7.5x15 x2 - deload stays at 7.5 (working weight is now 10).",
-       "guide": 9
+       "reps": "12-15",
+       "target": "10 lb",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Elbows pinned to sides, push down until arms straight, slow return. 2x15 clean -> +2.5 lb. Set the weight BEFORE the session and keep it for every set. Load: one 10.",
+       "guide": 9,
+       "weight": 10
       },
       {
        "name": "Dead bug",
-       "sets": 1,
-       "reps": "6/side",
+       "sets": 2,
+       "reps": "8-10/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach.",
+       "cue": "WEEK 4 - no deload (Justin, Nov 15): working weights from the Nov 13/15 reviews. Low back pressed into floor; slowly reach opposite arm and leg out (3-sec reach, 1-sec pause), return, switch sides.",
        "guide": 14
       }
      ],
@@ -1159,7 +1167,7 @@
      "dayIndex": 3
     }
    ],
-   "deload": true,
+   "deload": false,
    "record": false,
    "baseline": false
   },
@@ -1177,7 +1185,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "60 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Nov 15: 55x10, 55x10, 55x12 (EASY) -> 60 for all 3 sets. Set the weight BEFORE the session and keep it for every set. Load: Olympic bar + 5 + 2.5/side.",
+       "cue": "Safeties set + spotter. Chest up, knees track over toes, hips to at least parallel. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 45 lb Olympic bar + 5 + 2.5/side.",
        "guide": 2,
        "weight": 60
       },
@@ -1186,7 +1194,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "50 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Nov 15: 50x10, 50x10, set 3 logged 20 (typo) -> stay 50 until confirmed; confirmed 50x10 -> 55. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 10/side.",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. All sets at the top with a flat back -> +5 lb (2.5/side). Nov 15 set 3 was logged as 20 (can't be built - confirm; probably 50). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 10/side.",
        "guide": 3,
        "weight": 50
       },
@@ -1194,24 +1202,26 @@
        "name": "Leg extensions (light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "22.5 lb, build to 2x15",
-       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy. Nov 15: 20x15 x2 -> 22.5 lb both sets. Set the weight BEFORE the session and keep it for every set.",
-       "guide": 4
+       "target": "22.5 lb",
+       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. 2x15 easy -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 4,
+       "weight": 22.5
       },
       {
        "name": "Calf raises",
        "sets": 2,
        "reps": "15-20",
-       "target": "42.5 lb (Bowflex), build to 2x20",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb. Nov 15: 40x20 x2 -> 42.5 lb for both sets (one step from 40). Set the weight BEFORE the session and keep it for every set.",
-       "guide": 5
+       "target": "42.5 lb",
+       "cue": "Bowflex set to the target, held at one side, other hand on the rack. Balls of feet on a step or 45 lb plate, pause 1 sec at the top, lower slowly. 2x20 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 5,
+       "weight": 42.5
       },
       {
        "name": "Plank",
        "sets": 3,
        "reps": "40 sec",
        "target": "Bodyweight",
-       "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag. Nov 15: 35, 40, 40 sec -> 40 sec holds.",
+       "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
        "guide": 6
       }
      ],
@@ -1229,7 +1239,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "40 lb",
-       "cue": "Spotter + safeties. Hit top reps on all 3 sets -> +5 lb (2.5 per side) and drop back to 6-8. Nov 13: 40x8, 40x8, 40x10 -> stay at 40 until all 3 sets hit 10, then 45. Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout). Load: 30 lb bar + 5/side.",
+       "cue": "Spotter + safeties. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 5/side.",
        "guide": 7,
        "weight": 40
       },
@@ -1238,7 +1248,7 @@
        "sets": 3,
        "reps": "10",
        "target": "22.5 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb. Nov 13: 20x10 x3 (set 3 corrected in the log from 1 to 10) -> raised to 22.5 (10 + 10 + 2.5). Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: two 10s + 2.5.",
        "guide": 8,
        "weight": 22.5
       },
@@ -1247,7 +1257,7 @@
        "sets": 3,
        "reps": "10",
        "target": "27.5 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb. Nov 13: 25x10 x3 -> raised to 27.5 (one 2.5 lb step). Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: two 10s + 5 + 2.5.",
        "guide": 9,
        "weight": 27.5
       },
@@ -1256,39 +1266,40 @@
        "sets": 2,
        "reps": "8/arm",
        "target": "Bar only, ONE arm (no plates)",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy. Nov 13: two hands at 50 again - bar only, ONE arm, 2x8/arm. Add a plate only after 2x8/arm one-arm is steady.",
+       "cue": "ONE arm: hold the bar end at the shoulder, ribs down, press up and forward, all reps then switch arms. Two hands only if one arm is wobbly - still no plate. Add the smallest plate only when one-arm 2x8/arm is steady. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
        "guide": 10
       },
       {
        "name": "Push-ups (floor)",
        "sets": 2,
        "reps": "AMRAP clean",
-       "target": "Floor (20 & 20 on Nov 13), goal 2x22+",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x22+ clean.",
+       "target": "Floor, goal 2x22+",
+       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean.",
        "guide": 11
       },
       {
        "name": "Dumbbell curls (Bowflex)",
        "sets": 2,
        "reps": "10-12",
-       "target": "12.5 each, build to 12",
-       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready. Nov 13: 10x12, 10x12 -> raised to 12.5 each (one Bowflex step).",
+       "target": "12.5 each",
+       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb each. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
        "guide": 12
       },
       {
        "name": "Triceps pushdowns (lat pulldown cable, light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "10 lb, build to 2x15",
-       "cue": "Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy. Nov 13: 7.5x15 x2 -> raised to 10 lb (one 2.5 lb step). Set the weight BEFORE the session and keep it for every set (no adding weight mid-workout).",
-       "guide": 9
+       "target": "10 lb",
+       "cue": "Elbows pinned to sides, push down until arms straight, slow return. 2x15 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: one 10.",
+       "guide": 9,
+       "weight": 10
       },
       {
        "name": "Dead bug",
        "sets": 2,
        "reps": "8-10/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach.",
+       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out (3-sec reach, 1-sec pause), return, switch sides.",
        "guide": 14
       }
      ],
@@ -1306,7 +1317,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "60 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Nov 15: 55x10, 55x10, 55x12 (EASY) -> 60 for all 3 sets. Set the weight BEFORE the session and keep it for every set. Load: Olympic bar + 5 + 2.5/side.",
+       "cue": "Safeties set + spotter. Chest up, knees track over toes, hips to at least parallel. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 45 lb Olympic bar + 5 + 2.5/side.",
        "guide": 2,
        "weight": 60
       },
@@ -1315,7 +1326,7 @@
        "sets": 3,
        "reps": "8-10",
        "target": "50 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Nov 15: 50x10, 50x10, set 3 logged 20 (typo) -> stay 50 until confirmed; confirmed 50x10 -> 55. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 10/side.",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. All sets at the top with a flat back -> +5 lb (2.5/side). Nov 15 set 3 was logged as 20 (can't be built - confirm; probably 50). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 10/side.",
        "guide": 3,
        "weight": 50
       },
@@ -1323,24 +1334,26 @@
        "name": "Leg extensions (light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "22.5 lb, build to 2x15",
-       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy. Nov 15: 20x15 x2 -> 22.5 lb both sets. Set the weight BEFORE the session and keep it for every set.",
-       "guide": 4
+       "target": "22.5 lb",
+       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. 2x15 easy -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 4,
+       "weight": 22.5
       },
       {
        "name": "Calf raises",
        "sets": 2,
        "reps": "15-20",
-       "target": "42.5 lb (Bowflex), build to 2x20",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb. Nov 15: 40x20 x2 -> 42.5 lb for both sets (one step from 40). Set the weight BEFORE the session and keep it for every set.",
-       "guide": 5
+       "target": "42.5 lb",
+       "cue": "Bowflex set to the target, held at one side, other hand on the rack. Balls of feet on a step or 45 lb plate, pause 1 sec at the top, lower slowly. 2x20 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 5,
+       "weight": 42.5
       },
       {
        "name": "Plank",
        "sets": 3,
        "reps": "40 sec",
        "target": "Bodyweight",
-       "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag. Nov 15: 35, 40, 40 sec -> 40 sec holds.",
+       "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
        "guide": 6
       }
      ],
@@ -1365,68 +1378,69 @@
       {
        "name": "Bench press (30 lb bar) - SPOTTER",
        "sets": 3,
-       "reps": "8-10",
-       "target": "40 lb",
-       "cue": "Spotter + safeties. Hit top reps on all 3 sets -> +5 lb (2.5 per side) and drop back to 6-8. Load: 30 lb bar + 5/side.",
+       "reps": "6-8",
+       "target": "45 lb",
+       "cue": "Spotter + safeties. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 5 + 2.5/side.",
        "guide": 7,
-       "weight": 40
+       "weight": 45
       },
       {
        "name": "Low cable row (light)",
        "sets": 3,
        "reps": "10",
-       "target": "22.5 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
+       "target": "25 lb",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: two 10s + 5.",
        "guide": 8,
-       "weight": 22.5
+       "weight": 25
       },
       {
        "name": "Lat pulldown (light)",
        "sets": 3,
        "reps": "10",
-       "target": "27.5 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
+       "target": "30 lb",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 25 + 5.",
        "guide": 9,
-       "weight": 27.5
+       "weight": 30
       },
       {
        "name": "Landmine press (45 lb Olympic bar in landmine)",
        "sets": 2,
        "reps": "8/arm",
        "target": "Bar only, one arm; + 2.5 only if 2x8/arm is steady",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy.",
+       "cue": "ONE arm: hold the bar end at the shoulder, ribs down, press up and forward, all reps then switch arms. Two hands only if one arm is wobbly - still no plate. Add the smallest plate only when one-arm 2x8/arm is steady. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
        "guide": 10
       },
       {
        "name": "Push-ups (floor)",
        "sets": 2,
        "reps": "AMRAP clean",
-       "target": "Floor",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x22+ clean.",
+       "target": "Floor, goal 2x22+",
+       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean.",
        "guide": 11
       },
       {
        "name": "Dumbbell curls (Bowflex)",
        "sets": 2,
        "reps": "10-12",
-       "target": "12.5 each",
-       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready.",
+       "target": "15 each",
+       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb each. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
        "guide": 12
       },
       {
        "name": "Triceps pushdowns (lat pulldown cable, light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "10 lb, +2.5 if 2x15 easy",
-       "cue": "Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy.",
-       "guide": 9
+       "target": "12.5 lb",
+       "cue": "Elbows pinned to sides, push down until arms straight, slow return. 2x15 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 10 + 2.5.",
+       "guide": 9,
+       "weight": 12.5
       },
       {
        "name": "Dead bug",
        "sets": 2,
        "reps": "8-10/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach.",
+       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out (3-sec reach, 1-sec pause), return, switch sides.",
        "guide": 14
       }
      ],
@@ -1443,40 +1457,42 @@
        "name": "Squat (45 lb Olympic bar, in rack)",
        "sets": 3,
        "reps": "8-10",
-       "target": "60 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 5 + 2.5/side.",
+       "target": "65 lb",
+       "cue": "Safeties set + spotter. Chest up, knees track over toes, hips to at least parallel. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 45 lb Olympic bar + 10/side.",
        "guide": 2,
-       "weight": 60
+       "weight": 65
       },
       {
        "name": "Romanian deadlift (30 lb bar + plates)",
        "sets": 3,
-       "reps": "8",
-       "target": "50 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 10/side.",
+       "reps": "8-10",
+       "target": "55 lb",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. All sets at the top with a flat back -> +5 lb (2.5/side). Nov 15 set 3 was logged as 20 (can't be built - confirm; probably 50). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 10 + 2.5/side.",
        "guide": 3,
-       "weight": 50
+       "weight": 55
       },
       {
        "name": "Leg extensions (light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "22.5 lb, +2.5 if 2x15 easy",
-       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy.",
-       "guide": 4
+       "target": "25 lb",
+       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. 2x15 easy -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 4,
+       "weight": 25
       },
       {
        "name": "Calf raises",
        "sets": 2,
        "reps": "15-20",
-       "target": "42.5 lb, +2.5 if 2x20 clean",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
-       "guide": 5
+       "target": "45 lb",
+       "cue": "Bowflex set to the target, held at one side, other hand on the rack. Balls of feet on a step or 45 lb plate, pause 1 sec at the top, lower slowly. 2x20 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 5,
+       "weight": 45
       },
       {
        "name": "Plank",
        "sets": 3,
-       "reps": "40 sec",
+       "reps": "45 sec",
        "target": "Bodyweight",
        "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
        "guide": 6
@@ -1494,68 +1510,69 @@
       {
        "name": "Bench press (30 lb bar) - SPOTTER",
        "sets": 3,
-       "reps": "8-10",
-       "target": "40 lb",
-       "cue": "Spotter + safeties. Hit top reps on all 3 sets -> +5 lb (2.5 per side) and drop back to 6-8. Load: 30 lb bar + 5/side.",
+       "reps": "6-8",
+       "target": "45 lb",
+       "cue": "Spotter + safeties. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 5 + 2.5/side.",
        "guide": 7,
-       "weight": 40
+       "weight": 45
       },
       {
        "name": "Low cable row (light)",
        "sets": 3,
        "reps": "10",
-       "target": "22.5 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
+       "target": "25 lb",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: two 10s + 5.",
        "guide": 8,
-       "weight": 22.5
+       "weight": 25
       },
       {
        "name": "Lat pulldown (light)",
        "sets": 3,
        "reps": "10",
-       "target": "27.5 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
+       "target": "30 lb",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 25 + 5.",
        "guide": 9,
-       "weight": 27.5
+       "weight": 30
       },
       {
        "name": "Landmine press (45 lb Olympic bar in landmine)",
        "sets": 2,
        "reps": "8/arm",
        "target": "Bar only, one arm; + 2.5 only if 2x8/arm is steady",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy.",
+       "cue": "ONE arm: hold the bar end at the shoulder, ribs down, press up and forward, all reps then switch arms. Two hands only if one arm is wobbly - still no plate. Add the smallest plate only when one-arm 2x8/arm is steady. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
        "guide": 10
       },
       {
        "name": "Push-ups (floor)",
        "sets": 2,
        "reps": "AMRAP clean",
-       "target": "Floor",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x22+ clean.",
+       "target": "Floor, goal 2x22+",
+       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean.",
        "guide": 11
       },
       {
        "name": "Dumbbell curls (Bowflex)",
        "sets": 2,
        "reps": "10-12",
-       "target": "12.5 each",
-       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready.",
+       "target": "15 each",
+       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb each. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
        "guide": 12
       },
       {
        "name": "Triceps pushdowns (lat pulldown cable, light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "10 lb, +2.5 if 2x15 easy",
-       "cue": "Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy.",
-       "guide": 9
+       "target": "12.5 lb",
+       "cue": "Elbows pinned to sides, push down until arms straight, slow return. 2x15 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 10 + 2.5.",
+       "guide": 9,
+       "weight": 12.5
       },
       {
        "name": "Dead bug",
        "sets": 2,
        "reps": "8-10/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach.",
+       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out (3-sec reach, 1-sec pause), return, switch sides.",
        "guide": 14
       }
      ],
@@ -1581,40 +1598,42 @@
        "name": "Squat (45 lb Olympic bar, in rack)",
        "sets": 3,
        "reps": "8-10",
-       "target": "60 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 5 + 2.5/side.",
+       "target": "65 lb",
+       "cue": "Safeties set + spotter. Chest up, knees track over toes, hips to at least parallel. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 45 lb Olympic bar + 10/side.",
        "guide": 2,
-       "weight": 60
+       "weight": 65
       },
       {
        "name": "Romanian deadlift (30 lb bar + plates)",
        "sets": 3,
        "reps": "8-10",
-       "target": "50 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 10/side.",
+       "target": "55 lb",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. All sets at the top with a flat back -> +5 lb (2.5/side). Nov 15 set 3 was logged as 20 (can't be built - confirm; probably 50). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 10 + 2.5/side.",
        "guide": 3,
-       "weight": 50
+       "weight": 55
       },
       {
        "name": "Leg extensions (light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "22.5 lb, +2.5 if 2x15 easy",
-       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy.",
-       "guide": 4
+       "target": "25 lb",
+       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. 2x15 easy -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 4,
+       "weight": 25
       },
       {
        "name": "Calf raises",
        "sets": 2,
        "reps": "15-20",
-       "target": "42.5 lb, +2.5 if 2x20 clean",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
-       "guide": 5
+       "target": "45 lb",
+       "cue": "Bowflex set to the target, held at one side, other hand on the rack. Balls of feet on a step or 45 lb plate, pause 1 sec at the top, lower slowly. 2x20 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 5,
+       "weight": 45
       },
       {
        "name": "Plank",
        "sets": 3,
-       "reps": "40 sec",
+       "reps": "45 sec",
        "target": "Bodyweight",
        "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
        "guide": 6
@@ -1632,9 +1651,9 @@
       {
        "name": "Bench press (30 lb bar) - SPOTTER",
        "sets": 3,
-       "reps": "6-8",
+       "reps": "8-10",
        "target": "45 lb",
-       "cue": "Spotter + safeties. Hit top reps on all 3 sets -> +5 lb (2.5 per side) and drop back to 6-8. Load: 30 lb bar + 5 + 2.5/side.",
+       "cue": "Spotter + safeties. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 5 + 2.5/side.",
        "guide": 7,
        "weight": 45
       },
@@ -1643,7 +1662,7 @@
        "sets": 3,
        "reps": "10",
        "target": "25 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: two 10s + 5.",
        "guide": 8,
        "weight": 25
       },
@@ -1651,49 +1670,50 @@
        "name": "Lat pulldown (light)",
        "sets": 3,
        "reps": "10",
-       "target": "27.5 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
+       "target": "30 lb",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 25 + 5.",
        "guide": 9,
-       "weight": 27.5
+       "weight": 30
       },
       {
        "name": "Landmine press (45 lb Olympic bar in landmine)",
        "sets": 2,
        "reps": "8/arm",
-       "target": "Bar only, one arm; + 2.5 only if 2x8/arm is steady",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy.",
+       "target": "Bar + 2.5, one arm (bar only if not steady yet)",
+       "cue": "ONE arm: hold the bar end at the shoulder, ribs down, press up and forward, all reps then switch arms. Two hands only if one arm is wobbly - still no plate. Add the smallest plate only when one-arm 2x8/arm is steady. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
        "guide": 10
       },
       {
        "name": "Push-ups (floor)",
        "sets": 2,
        "reps": "AMRAP clean",
-       "target": "Floor",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x22+ clean.",
+       "target": "Floor, goal 2x25",
+       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean.",
        "guide": 11
       },
       {
        "name": "Dumbbell curls (Bowflex)",
        "sets": 2,
        "reps": "10-12",
-       "target": "12.5 each",
-       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready.",
+       "target": "15 each",
+       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb each. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
        "guide": 12
       },
       {
        "name": "Triceps pushdowns (lat pulldown cable, light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "10 lb, +2.5 if 2x15 easy",
-       "cue": "Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy.",
-       "guide": 9
+       "target": "12.5 lb",
+       "cue": "Elbows pinned to sides, push down until arms straight, slow return. 2x15 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 10 + 2.5.",
+       "guide": 9,
+       "weight": 12.5
       },
       {
        "name": "Dead bug",
        "sets": 2,
        "reps": "10/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach.",
+       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out (3-sec reach, 1-sec pause), return, switch sides.",
        "guide": 14
       }
      ],
@@ -1710,40 +1730,42 @@
        "name": "Squat (45 lb Olympic bar, in rack)",
        "sets": 3,
        "reps": "8-10",
-       "target": "60 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 5 + 2.5/side.",
+       "target": "65 lb",
+       "cue": "Safeties set + spotter. Chest up, knees track over toes, hips to at least parallel. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 45 lb Olympic bar + 10/side.",
        "guide": 2,
-       "weight": 60
+       "weight": 65
       },
       {
        "name": "Romanian deadlift (30 lb bar + plates)",
        "sets": 3,
        "reps": "8-10",
-       "target": "50 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 10/side.",
+       "target": "55 lb",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. All sets at the top with a flat back -> +5 lb (2.5/side). Nov 15 set 3 was logged as 20 (can't be built - confirm; probably 50). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 10 + 2.5/side.",
        "guide": 3,
-       "weight": 50
+       "weight": 55
       },
       {
        "name": "Leg extensions (light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "22.5 lb, +2.5 if 2x15 easy",
-       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy.",
-       "guide": 4
+       "target": "25 lb",
+       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. 2x15 easy -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 4,
+       "weight": 25
       },
       {
        "name": "Calf raises",
        "sets": 2,
        "reps": "15-20",
-       "target": "42.5 lb, +2.5 if 2x20 clean",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
-       "guide": 5
+       "target": "45 lb",
+       "cue": "Bowflex set to the target, held at one side, other hand on the rack. Balls of feet on a step or 45 lb plate, pause 1 sec at the top, lower slowly. 2x20 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 5,
+       "weight": 45
       },
       {
        "name": "Plank",
        "sets": 3,
-       "reps": "40 sec",
+       "reps": "45 sec",
        "target": "Bodyweight",
        "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
        "guide": 6
@@ -1772,7 +1794,7 @@
        "sets": 2,
        "reps": "8",
        "target": "40 lb",
-       "cue": "DELOAD: 2 sets only, easy and crisp. Spotter + safeties. Load: 30 lb bar + 5/side.",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Spotter + safeties. All 3 sets at the top -> +5 lb (2.5/side). Load: 30 lb bar + 5/side.",
        "guide": 7,
        "weight": 40
       },
@@ -1780,26 +1802,26 @@
        "name": "Low cable row (light)",
        "sets": 2,
        "reps": "10",
-       "target": "15 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
+       "target": "22.5 lb",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 clean -> +2.5 lb. Load: two 10s + 2.5.",
        "guide": 8,
-       "weight": 15
+       "weight": 22.5
       },
       {
        "name": "Lat pulldown (light)",
        "sets": 2,
        "reps": "10",
-       "target": "22.5 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
+       "target": "27.5 lb",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 clean -> +2.5 lb. Load: two 10s + 5 + 2.5.",
        "guide": 9,
-       "weight": 22.5
+       "weight": 27.5
       },
       {
        "name": "Landmine press (45 lb Olympic bar in landmine)",
        "sets": 2,
        "reps": "6/arm",
-       "target": "Bar only",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy.",
+       "target": "Bar only, one arm",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. ONE arm: hold the bar end at the shoulder, ribs down, press up and forward, all reps then switch arms. Two hands only if one arm is wobbly - still no plate. Add the smallest plate only when one-arm 2x8/arm is steady.",
        "guide": 10
       },
       {
@@ -1807,31 +1829,32 @@
        "sets": 2,
        "reps": "AMRAP clean",
        "target": "Floor, easy (stop 3-4 reps short)",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x22+ clean.",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Body straight like a plank, chest to floor. Stop the set when a rep isn't clean.",
        "guide": 11
       },
       {
        "name": "Dumbbell curls (Bowflex)",
        "sets": 2,
        "reps": "10",
-       "target": "10 each (deload)",
-       "cue": "DELOAD: fewer reps, easy. Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready.",
+       "target": "12.5 each (deload)",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb each.",
        "guide": 12
       },
       {
        "name": "Triceps pushdowns (lat pulldown cable, light)",
        "sets": 2,
        "reps": "10",
-       "target": "7.5 lb (deload)",
-       "cue": "DELOAD: lighter. Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy.",
-       "guide": 9
+       "target": "10 lb",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Elbows pinned to sides, push down until arms straight, slow return. 2x15 clean -> +2.5 lb. Load: one 10.",
+       "guide": 9,
+       "weight": 10
       },
       {
        "name": "Dead bug",
        "sets": 1,
-       "reps": "6/side",
+       "reps": "8/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach.",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Low back pressed into floor; slowly reach opposite arm and leg out (3-sec reach, 1-sec pause), return, switch sides.",
        "guide": 14
       }
      ],
@@ -1848,42 +1871,44 @@
        "name": "Squat (45 lb Olympic bar, in rack)",
        "sets": 2,
        "reps": "8",
-       "target": "55 lb",
-       "cue": "DELOAD: 2 sets only, easy and crisp. Load: Olympic bar + 5/side.",
+       "target": "60 lb",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Safeties set + spotter. Chest up, knees track over toes, hips to at least parallel. All 3 sets at the top -> +5 lb (2.5/side). Load: 45 lb Olympic bar + 5 + 2.5/side.",
        "guide": 2,
-       "weight": 55
+       "weight": 60
       },
       {
        "name": "Romanian deadlift (30 lb bar + plates)",
        "sets": 2,
        "reps": "8",
-       "target": "45 lb",
-       "cue": "DELOAD: 2 sets, easy. Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 5 + 2.5/side.",
+       "target": "50 lb",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Flat back, push hips back, bar to just below knees, slow and controlled. All sets at the top with a flat back -> +5 lb (2.5/side). Nov 15 set 3 was logged as 20 (can't be built - confirm; probably 50). Load: 30 lb bar + 10/side.",
        "guide": 3,
-       "weight": 45
+       "weight": 50
       },
       {
        "name": "Leg extensions (light)",
        "sets": 2,
        "reps": "12",
-       "target": "20 lb (deload)",
-       "cue": "DELOAD: lighter and easy. Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy.",
-       "guide": 4
+       "target": "22.5 lb",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. 2x15 easy -> +2.5 lb.",
+       "guide": 4,
+       "weight": 22.5
       },
       {
        "name": "Calf raises",
        "sets": 2,
        "reps": "12",
-       "target": "37.5 lb (deload)",
-       "cue": "DELOAD: easy. Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
-       "guide": 5
+       "target": "42.5 lb",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Bowflex set to the target, held at one side, other hand on the rack. Balls of feet on a step or 45 lb plate, pause 1 sec at the top, lower slowly. 2x20 clean -> +2.5 lb.",
+       "guide": 5,
+       "weight": 42.5
       },
       {
        "name": "Plank",
        "sets": 2,
-       "reps": "25 sec",
+       "reps": "40 sec",
        "target": "Bodyweight",
-       "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
        "guide": 6
       }
      ],
@@ -1901,7 +1926,7 @@
        "sets": 2,
        "reps": "8",
        "target": "40 lb",
-       "cue": "DELOAD: 2 sets only, easy and crisp. Spotter + safeties. Load: 30 lb bar + 5/side.",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Spotter + safeties. All 3 sets at the top -> +5 lb (2.5/side). Load: 30 lb bar + 5/side.",
        "guide": 7,
        "weight": 40
       },
@@ -1909,26 +1934,26 @@
        "name": "Low cable row (light)",
        "sets": 2,
        "reps": "10",
-       "target": "15 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
+       "target": "22.5 lb",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 clean -> +2.5 lb. Load: two 10s + 2.5.",
        "guide": 8,
-       "weight": 15
+       "weight": 22.5
       },
       {
        "name": "Lat pulldown (light)",
        "sets": 2,
        "reps": "10",
-       "target": "22.5 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
+       "target": "27.5 lb",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 clean -> +2.5 lb. Load: two 10s + 5 + 2.5.",
        "guide": 9,
-       "weight": 22.5
+       "weight": 27.5
       },
       {
        "name": "Landmine press (45 lb Olympic bar in landmine)",
        "sets": 2,
        "reps": "6/arm",
-       "target": "Bar only",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy.",
+       "target": "Bar only, one arm",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. ONE arm: hold the bar end at the shoulder, ribs down, press up and forward, all reps then switch arms. Two hands only if one arm is wobbly - still no plate. Add the smallest plate only when one-arm 2x8/arm is steady.",
        "guide": 10
       },
       {
@@ -1936,31 +1961,32 @@
        "sets": 2,
        "reps": "AMRAP clean",
        "target": "Floor, easy (stop 3-4 reps short)",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x22+ clean.",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Body straight like a plank, chest to floor. Stop the set when a rep isn't clean.",
        "guide": 11
       },
       {
        "name": "Dumbbell curls (Bowflex)",
        "sets": 2,
        "reps": "10",
-       "target": "10 each (deload)",
-       "cue": "DELOAD: fewer reps, easy. Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready.",
+       "target": "12.5 each (deload)",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb each.",
        "guide": 12
       },
       {
        "name": "Triceps pushdowns (lat pulldown cable, light)",
        "sets": 2,
        "reps": "10",
-       "target": "7.5 lb (deload)",
-       "cue": "DELOAD: lighter. Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy.",
-       "guide": 9
+       "target": "10 lb",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Elbows pinned to sides, push down until arms straight, slow return. 2x15 clean -> +2.5 lb. Load: one 10.",
+       "guide": 9,
+       "weight": 10
       },
       {
        "name": "Dead bug",
        "sets": 1,
-       "reps": "6/side",
+       "reps": "8/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach.",
+       "cue": "DELOAD (Week 8): 2 sets (1 for dead bug), easy - same loads as Week 4. Low back pressed into floor; slowly reach opposite arm and leg out (3-sec reach, 1-sec pause), return, switch sides.",
        "guide": 14
       }
      ],
@@ -1986,40 +2012,42 @@
        "name": "Squat (45 lb Olympic bar, in rack)",
        "sets": 3,
        "reps": "6-8",
-       "target": "60 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 5 + 2.5/side.",
+       "target": "70 lb",
+       "cue": "Safeties set + spotter. Chest up, knees track over toes, hips to at least parallel. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 45 lb Olympic bar + 10 + 2.5/side.",
        "guide": 2,
-       "weight": 60
+       "weight": 70
       },
       {
        "name": "Romanian deadlift (30 lb bar + plates)",
        "sets": 3,
        "reps": "8",
-       "target": "50 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 10/side.",
+       "target": "60 lb",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. All sets at the top with a flat back -> +5 lb (2.5/side). Nov 15 set 3 was logged as 20 (can't be built - confirm; probably 50). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 10 + 5/side.",
        "guide": 3,
-       "weight": 50
+       "weight": 60
       },
       {
        "name": "Leg extensions (light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "+2.5 if 2x15 easy",
-       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy.",
-       "guide": 4
+       "target": "27.5 lb",
+       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. 2x15 easy -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 4,
+       "weight": 27.5
       },
       {
        "name": "Calf raises",
        "sets": 2,
        "reps": "15-20",
-       "target": "42.5, or 45 if 2x20 clean",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
-       "guide": 5
+       "target": "47.5 lb",
+       "cue": "Bowflex set to the target, held at one side, other hand on the rack. Balls of feet on a step or 45 lb plate, pause 1 sec at the top, lower slowly. 2x20 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 5,
+       "weight": 47.5
       },
       {
        "name": "Plank",
        "sets": 3,
-       "reps": "40 sec",
+       "reps": "45 sec",
        "target": "Bodyweight",
        "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
        "guide": 6
@@ -2037,68 +2065,69 @@
       {
        "name": "Bench press (30 lb bar) - SPOTTER",
        "sets": 3,
-       "reps": "8-10",
-       "target": "45 lb",
-       "cue": "Spotter + safeties. Hit top reps on all 3 sets -> +5 lb (2.5 per side) and drop back to 6-8. Load: 30 lb bar + 5 + 2.5/side.",
+       "reps": "6-8",
+       "target": "50 lb",
+       "cue": "Spotter + safeties. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 10/side.",
        "guide": 7,
-       "weight": 45
+       "weight": 50
       },
       {
        "name": "Low cable row (light)",
        "sets": 3,
        "reps": "10",
-       "target": "25 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
+       "target": "27.5 lb",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: two 10s + 5 + 2.5.",
        "guide": 8,
-       "weight": 25
+       "weight": 27.5
       },
       {
        "name": "Lat pulldown (light)",
        "sets": 3,
        "reps": "10",
-       "target": "30 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
+       "target": "32.5 lb",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 25 + 5 + 2.5.",
        "guide": 9,
-       "weight": 30
+       "weight": 32.5
       },
       {
        "name": "Landmine press (45 lb Olympic bar in landmine)",
        "sets": 2,
        "reps": "8/arm",
-       "target": "Bar + 5",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy.",
+       "target": "Bar + 2.5, one arm",
+       "cue": "ONE arm: hold the bar end at the shoulder, ribs down, press up and forward, all reps then switch arms. Two hands only if one arm is wobbly - still no plate. Add the smallest plate only when one-arm 2x8/arm is steady. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
        "guide": 10
       },
       {
        "name": "Push-ups (floor)",
        "sets": 2,
        "reps": "AMRAP clean",
-       "target": "Floor",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x22+ clean.",
+       "target": "Floor, beat your best",
+       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean.",
        "guide": 11
       },
       {
        "name": "Dumbbell curls (Bowflex)",
        "sets": 2,
        "reps": "10-12",
-       "target": "12.5, or 15 each if 2x12 clean",
-       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready.",
+       "target": "15 each",
+       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb each. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
        "guide": 12
       },
       {
        "name": "Triceps pushdowns (lat pulldown cable, light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "+2.5 if 2x15 easy",
-       "cue": "Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy.",
-       "guide": 9
+       "target": "12.5 lb",
+       "cue": "Elbows pinned to sides, push down until arms straight, slow return. 2x15 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 10 + 2.5.",
+       "guide": 9,
+       "weight": 12.5
       },
       {
        "name": "Dead bug",
        "sets": 2,
        "reps": "10/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach.",
+       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out (3-sec reach, 1-sec pause), return, switch sides.",
        "guide": 14
       }
      ],
@@ -2115,40 +2144,42 @@
        "name": "Squat (45 lb Olympic bar, in rack)",
        "sets": 3,
        "reps": "6-8",
-       "target": "60 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 5 + 2.5/side.",
+       "target": "70 lb",
+       "cue": "Safeties set + spotter. Chest up, knees track over toes, hips to at least parallel. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 45 lb Olympic bar + 10 + 2.5/side.",
        "guide": 2,
-       "weight": 60
+       "weight": 70
       },
       {
        "name": "Romanian deadlift (30 lb bar + plates)",
        "sets": 3,
        "reps": "8",
-       "target": "50 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 10/side.",
+       "target": "60 lb",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. All sets at the top with a flat back -> +5 lb (2.5/side). Nov 15 set 3 was logged as 20 (can't be built - confirm; probably 50). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 10 + 5/side.",
        "guide": 3,
-       "weight": 50
+       "weight": 60
       },
       {
        "name": "Leg extensions (light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "+2.5 if 2x15 easy",
-       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy.",
-       "guide": 4
+       "target": "27.5 lb",
+       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. 2x15 easy -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 4,
+       "weight": 27.5
       },
       {
        "name": "Calf raises",
        "sets": 2,
        "reps": "15-20",
-       "target": "42.5, or 45 if 2x20 clean",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
-       "guide": 5
+       "target": "47.5 lb",
+       "cue": "Bowflex set to the target, held at one side, other hand on the rack. Balls of feet on a step or 45 lb plate, pause 1 sec at the top, lower slowly. 2x20 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 5,
+       "weight": 47.5
       },
       {
        "name": "Plank",
        "sets": 3,
-       "reps": "40 sec",
+       "reps": "45 sec",
        "target": "Bodyweight",
        "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
        "guide": 6
@@ -2175,9 +2206,9 @@
       {
        "name": "Bench press (30 lb bar) - SPOTTER",
        "sets": 3,
-       "reps": "6-8",
+       "reps": "8-10",
        "target": "50 lb",
-       "cue": "Spotter + safeties. Hit top reps on all 3 sets -> +5 lb (2.5 per side) and drop back to 6-8. Load: 30 lb bar + 10/side.",
+       "cue": "Spotter + safeties. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 10/side.",
        "guide": 7,
        "weight": 50
       },
@@ -2185,58 +2216,59 @@
        "name": "Low cable row (light)",
        "sets": 3,
        "reps": "10",
-       "target": "30 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
+       "target": "27.5 lb",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: two 10s + 5 + 2.5.",
        "guide": 8,
-       "weight": 30
+       "weight": 27.5
       },
       {
        "name": "Lat pulldown (light)",
        "sets": 3,
        "reps": "10",
-       "target": "30 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
+       "target": "32.5 lb",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 25 + 5 + 2.5.",
        "guide": 9,
-       "weight": 30
+       "weight": 32.5
       },
       {
        "name": "Landmine press (45 lb Olympic bar in landmine)",
        "sets": 2,
        "reps": "8/arm",
-       "target": "Bar + 5",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy.",
+       "target": "Bar + 2.5, one arm (+5 only if 2x8/arm is easy)",
+       "cue": "ONE arm: hold the bar end at the shoulder, ribs down, press up and forward, all reps then switch arms. Two hands only if one arm is wobbly - still no plate. Add the smallest plate only when one-arm 2x8/arm is steady. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
        "guide": 10
       },
       {
        "name": "Push-ups (floor)",
        "sets": 2,
        "reps": "AMRAP clean",
-       "target": "Floor",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x22+ clean.",
+       "target": "Floor, beat your best",
+       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean.",
        "guide": 11
       },
       {
        "name": "Dumbbell curls (Bowflex)",
        "sets": 2,
        "reps": "10-12",
-       "target": "15 each",
-       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready.",
+       "target": "17.5 each",
+       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb each. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
        "guide": 12
       },
       {
        "name": "Triceps pushdowns (lat pulldown cable, light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "+2.5 if 2x15 easy",
-       "cue": "Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy.",
-       "guide": 9
+       "target": "15 lb",
+       "cue": "Elbows pinned to sides, push down until arms straight, slow return. 2x15 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 10 + 5.",
+       "guide": 9,
+       "weight": 15
       },
       {
        "name": "Dead bug",
        "sets": 2,
        "reps": "10/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach.",
+       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out (3-sec reach, 1-sec pause), return, switch sides.",
        "guide": 14
       }
      ],
@@ -2253,40 +2285,42 @@
        "name": "Squat (45 lb Olympic bar, in rack)",
        "sets": 3,
        "reps": "6-8",
-       "target": "65 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 10/side.",
+       "target": "70 lb",
+       "cue": "Safeties set + spotter. Chest up, knees track over toes, hips to at least parallel. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 45 lb Olympic bar + 10 + 2.5/side.",
        "guide": 2,
-       "weight": 65
+       "weight": 70
       },
       {
        "name": "Romanian deadlift (30 lb bar + plates)",
        "sets": 3,
        "reps": "8",
-       "target": "50 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 10/side.",
+       "target": "60 lb",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. All sets at the top with a flat back -> +5 lb (2.5/side). Nov 15 set 3 was logged as 20 (can't be built - confirm; probably 50). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 10 + 5/side.",
        "guide": 3,
-       "weight": 50
+       "weight": 60
       },
       {
        "name": "Leg extensions (light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "+2.5 if 2x15 easy",
-       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy.",
-       "guide": 4
+       "target": "27.5 lb",
+       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. 2x15 easy -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 4,
+       "weight": 27.5
       },
       {
        "name": "Calf raises",
        "sets": 2,
        "reps": "15-20",
-       "target": "42.5-45 lb",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
-       "guide": 5
+       "target": "47.5 lb",
+       "cue": "Bowflex set to the target, held at one side, other hand on the rack. Balls of feet on a step or 45 lb plate, pause 1 sec at the top, lower slowly. 2x20 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 5,
+       "weight": 47.5
       },
       {
        "name": "Plank",
        "sets": 3,
-       "reps": "40 sec",
+       "reps": "50 sec",
        "target": "Bodyweight",
        "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
        "guide": 6
@@ -2304,9 +2338,9 @@
       {
        "name": "Bench press (30 lb bar) - SPOTTER",
        "sets": 3,
-       "reps": "6-8",
+       "reps": "8-10",
        "target": "50 lb",
-       "cue": "Spotter + safeties. Hit top reps on all 3 sets -> +5 lb (2.5 per side) and drop back to 6-8. Load: 30 lb bar + 10/side.",
+       "cue": "Spotter + safeties. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 10/side.",
        "guide": 7,
        "weight": 50
       },
@@ -2314,58 +2348,59 @@
        "name": "Low cable row (light)",
        "sets": 3,
        "reps": "10",
-       "target": "30 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
+       "target": "27.5 lb",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: two 10s + 5 + 2.5.",
        "guide": 8,
-       "weight": 30
+       "weight": 27.5
       },
       {
        "name": "Lat pulldown (light)",
        "sets": 3,
        "reps": "10",
-       "target": "30 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
+       "target": "32.5 lb",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 25 + 5 + 2.5.",
        "guide": 9,
-       "weight": 30
+       "weight": 32.5
       },
       {
        "name": "Landmine press (45 lb Olympic bar in landmine)",
        "sets": 2,
        "reps": "8/arm",
-       "target": "Bar + 5",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy.",
+       "target": "Bar + 2.5, one arm (+5 only if 2x8/arm is easy)",
+       "cue": "ONE arm: hold the bar end at the shoulder, ribs down, press up and forward, all reps then switch arms. Two hands only if one arm is wobbly - still no plate. Add the smallest plate only when one-arm 2x8/arm is steady. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
        "guide": 10
       },
       {
        "name": "Push-ups (floor)",
        "sets": 2,
        "reps": "AMRAP clean",
-       "target": "Floor",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x22+ clean.",
+       "target": "Floor, beat your best",
+       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean.",
        "guide": 11
       },
       {
        "name": "Dumbbell curls (Bowflex)",
        "sets": 2,
        "reps": "10-12",
-       "target": "15 each",
-       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready.",
+       "target": "17.5 each",
+       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb each. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
        "guide": 12
       },
       {
        "name": "Triceps pushdowns (lat pulldown cable, light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "+2.5 if 2x15 easy",
-       "cue": "Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy.",
-       "guide": 9
+       "target": "15 lb",
+       "cue": "Elbows pinned to sides, push down until arms straight, slow return. 2x15 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 10 + 5.",
+       "guide": 9,
+       "weight": 15
       },
       {
        "name": "Dead bug",
        "sets": 2,
        "reps": "10/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach.",
+       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out (3-sec reach, 1-sec pause), return, switch sides.",
        "guide": 14
       }
      ],
@@ -2391,40 +2426,42 @@
        "name": "Squat (45 lb Olympic bar, in rack)",
        "sets": 3,
        "reps": "6-8",
-       "target": "70 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 10 + 2.5/side.",
+       "target": "75 lb",
+       "cue": "Safeties set + spotter. Chest up, knees track over toes, hips to at least parallel. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 45 lb Olympic bar + 10 + 5/side.",
        "guide": 2,
-       "weight": 70
+       "weight": 75
       },
       {
        "name": "Romanian deadlift (30 lb bar + plates)",
        "sets": 3,
        "reps": "8",
-       "target": "55 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 10 + 2.5/side.",
+       "target": "65 lb",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. All sets at the top with a flat back -> +5 lb (2.5/side). Nov 15 set 3 was logged as 20 (can't be built - confirm; probably 50). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 10 + 5 + 2.5/side.",
        "guide": 3,
-       "weight": 55
+       "weight": 65
       },
       {
        "name": "Leg extensions (light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "+2.5 if 2x15 easy",
-       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy.",
-       "guide": 4
+       "target": "30 lb",
+       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. 2x15 easy -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 4,
+       "weight": 30
       },
       {
        "name": "Calf raises",
        "sets": 2,
        "reps": "15-20",
-       "target": "45, or 47.5 if 2x20 clean",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
-       "guide": 5
+       "target": "50 lb",
+       "cue": "Bowflex set to the target, held at one side, other hand on the rack. Balls of feet on a step or 45 lb plate, pause 1 sec at the top, lower slowly. 2x20 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 5,
+       "weight": 50
       },
       {
        "name": "Plank",
        "sets": 3,
-       "reps": "40 sec",
+       "reps": "50 sec",
        "target": "Bodyweight",
        "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
        "guide": 6
@@ -2442,18 +2479,18 @@
       {
        "name": "Bench press (30 lb bar) - SPOTTER",
        "sets": 3,
-       "reps": "8-10",
-       "target": "50 lb",
-       "cue": "Spotter + safeties. Hit top reps on all 3 sets -> +5 lb (2.5 per side) and drop back to 6-8. Load: 30 lb bar + 10/side.",
+       "reps": "6-8",
+       "target": "55 lb",
+       "cue": "Spotter + safeties. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 10 + 2.5/side.",
        "guide": 7,
-       "weight": 50
+       "weight": 55
       },
       {
        "name": "Low cable row (light)",
        "sets": 3,
        "reps": "10",
        "target": "30 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
+       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 25 + 5.",
        "guide": 8,
        "weight": 30
       },
@@ -2461,49 +2498,50 @@
        "name": "Lat pulldown (light)",
        "sets": 3,
        "reps": "10",
-       "target": "30 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
+       "target": "35 lb",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 25 + 10.",
        "guide": 9,
-       "weight": 30
+       "weight": 35
       },
       {
        "name": "Landmine press (45 lb Olympic bar in landmine)",
        "sets": 2,
        "reps": "8/arm",
-       "target": "Bar + 5 (or +7.5)",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy.",
+       "target": "Bar + 5, one arm (only after +2.5 is easy)",
+       "cue": "ONE arm: hold the bar end at the shoulder, ribs down, press up and forward, all reps then switch arms. Two hands only if one arm is wobbly - still no plate. Add the smallest plate only when one-arm 2x8/arm is steady. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
        "guide": 10
       },
       {
        "name": "Push-ups (floor)",
        "sets": 2,
        "reps": "AMRAP clean",
-       "target": "Floor",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x22+ clean.",
+       "target": "Floor, beat your best",
+       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean.",
        "guide": 11
       },
       {
        "name": "Dumbbell curls (Bowflex)",
        "sets": 2,
        "reps": "10-12",
-       "target": "15 each",
-       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready.",
+       "target": "17.5 each",
+       "cue": "Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb each. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
        "guide": 12
       },
       {
        "name": "Triceps pushdowns (lat pulldown cable, light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "+2.5 if 2x15 easy",
-       "cue": "Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy.",
-       "guide": 9
+       "target": "15 lb",
+       "cue": "Elbows pinned to sides, push down until arms straight, slow return. 2x15 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 10 + 5.",
+       "guide": 9,
+       "weight": 15
       },
       {
        "name": "Dead bug",
        "sets": 2,
        "reps": "10/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach.",
+       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out (3-sec reach, 1-sec pause), return, switch sides.",
        "guide": 14
       }
      ],
@@ -2520,40 +2558,42 @@
        "name": "Squat (45 lb Olympic bar, in rack)",
        "sets": 3,
        "reps": "6-8",
-       "target": "70 lb",
-       "cue": "Safeties set. Chest up, knees track over toes, hips to at least parallel. All sets at top reps -> +5 lb next time. Load: Olympic bar + 10 + 2.5/side.",
+       "target": "75 lb",
+       "cue": "Safeties set + spotter. Chest up, knees track over toes, hips to at least parallel. All 3 sets at the top -> +5 lb (2.5/side). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 45 lb Olympic bar + 10 + 5/side.",
        "guide": 2,
-       "weight": 70
+       "weight": 75
       },
       {
        "name": "Romanian deadlift (30 lb bar + plates)",
        "sets": 3,
        "reps": "8",
-       "target": "55 lb",
-       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 10 + 2.5/side.",
+       "target": "65 lb",
+       "cue": "Flat back, push hips back, bar to just below knees, slow and controlled. All sets at the top with a flat back -> +5 lb (2.5/side). Nov 15 set 3 was logged as 20 (can't be built - confirm; probably 50). Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set. Load: 30 lb bar + 10 + 5 + 2.5/side.",
        "guide": 3,
-       "weight": 55
+       "weight": 65
       },
       {
        "name": "Leg extensions (light)",
        "sets": 2,
        "reps": "12-15",
-       "target": "+2.5 if 2x15 easy",
-       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy.",
-       "guide": 4
+       "target": "30 lb",
+       "cue": "Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. 2x15 easy -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 4,
+       "weight": 30
       },
       {
        "name": "Calf raises",
        "sets": 2,
        "reps": "15-20",
-       "target": "45, or 47.5 if 2x20 clean",
-       "cue": "Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
-       "guide": 5
+       "target": "50 lb",
+       "cue": "Bowflex set to the target, held at one side, other hand on the rack. Balls of feet on a step or 45 lb plate, pause 1 sec at the top, lower slowly. 2x20 clean -> +2.5 lb. Move up to a planned step only if every set hit the top of the range last time with clean form; otherwise repeat the last weight. Set the weight BEFORE the session and keep it for every set.",
+       "guide": 5,
+       "weight": 50
       },
       {
        "name": "Plank",
        "sets": 3,
-       "reps": "40 sec",
+       "reps": "50 sec",
        "target": "Bodyweight",
        "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
        "guide": 6
@@ -2581,35 +2621,35 @@
        "name": "Bench press (30 lb bar) - SPOTTER",
        "sets": 3,
        "reps": "5, 5, rep-PR",
-       "target": "45 lb",
-       "cue": "REP-RECORD TEST (do the max set in ONE Upper session this week; other Upper session: 3x5 light). Spotter. No 1RM. Load: 30 lb bar + 5 + 2.5/side.",
+       "target": "40 lb",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Spotter + safeties. All 3 sets at the top -> +5 lb (2.5/side). Load: 30 lb bar + 5/side.",
        "guide": 7,
-       "weight": 45
+       "weight": 40
       },
       {
        "name": "Low cable row (light)",
        "sets": 2,
        "reps": "10",
-       "target": "20 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
+       "target": "22.5 lb",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 clean -> +2.5 lb. Load: two 10s + 2.5.",
        "guide": 8,
-       "weight": 20
+       "weight": 22.5
       },
       {
        "name": "Lat pulldown (light)",
        "sets": 2,
        "reps": "10",
-       "target": "20 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
+       "target": "27.5 lb",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 clean -> +2.5 lb. Load: two 10s + 5 + 2.5.",
        "guide": 9,
-       "weight": 20
+       "weight": 27.5
       },
       {
        "name": "Landmine press (45 lb Olympic bar in landmine)",
        "sets": 2,
-       "reps": "8/arm",
-       "target": "Bar only",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy.",
+       "reps": "6/arm",
+       "target": "Bar only, one arm (light)",
+       "cue": "LIGHT week - no max testing; Week 4 loads. ONE arm: hold the bar end at the shoulder, ribs down, press up and forward, all reps then switch arms. Two hands only if one arm is wobbly - still no plate. Add the smallest plate only when one-arm 2x8/arm is steady.",
        "guide": 10
       },
       {
@@ -2617,7 +2657,7 @@
        "sets": 1,
        "reps": "Max CLEAN reps (rep-record test)",
        "target": "Floor - TEST",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x22+ clean.",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Body straight like a plank, chest to floor. Stop the set when a rep isn't clean.",
        "guide": 11
       },
       {
@@ -2625,23 +2665,24 @@
        "sets": 2,
        "reps": "10",
        "target": "12.5 each (light)",
-       "cue": "LIGHT week. Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready.",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb each.",
        "guide": 12
       },
       {
        "name": "Triceps pushdowns (lat pulldown cable, light)",
        "sets": 2,
        "reps": "10",
-       "target": "Light - back 2.5 lb",
-       "cue": "LIGHT week. Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy.",
-       "guide": 9
+       "target": "10 lb",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Elbows pinned to sides, push down until arms straight, slow return. 2x15 clean -> +2.5 lb. Load: one 10.",
+       "guide": 9,
+       "weight": 10
       },
       {
        "name": "Dead bug",
        "sets": 2,
        "reps": "8/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach.",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Low back pressed into floor; slowly reach opposite arm and leg out (3-sec reach, 1-sec pause), return, switch sides.",
        "guide": 14
       }
      ],
@@ -2658,42 +2699,44 @@
        "name": "Squat (45 lb Olympic bar, in rack)",
        "sets": 3,
        "reps": "5, 5, rep-PR",
-       "target": "50 lb",
-       "cue": "REP-RECORD TEST (light): 2 easy sets of 5, then 1 set of max CLEAN reps. Stop when form slows. No 1RM. Load: Olympic bar + 2.5/side.",
+       "target": "60 lb",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Safeties set + spotter. Chest up, knees track over toes, hips to at least parallel. All 3 sets at the top -> +5 lb (2.5/side). Load: 45 lb Olympic bar + 5 + 2.5/side.",
        "guide": 2,
-       "weight": 50
+       "weight": 60
       },
       {
        "name": "Romanian deadlift (30 lb bar + plates)",
        "sets": 2,
        "reps": "8",
-       "target": "40 lb",
-       "cue": "LIGHT week - no max testing. Flat back, push hips back, bar to just below knees, slow and controlled. Top reps on all sets (8, or 10 in 8-10 weeks) clean with a flat back -> +5 lb. Load: 30 lb bar + 5/side.",
+       "target": "50 lb",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Flat back, push hips back, bar to just below knees, slow and controlled. All sets at the top with a flat back -> +5 lb (2.5/side). Nov 15 set 3 was logged as 20 (can't be built - confirm; probably 50). Load: 30 lb bar + 10/side.",
        "guide": 3,
-       "weight": 40
+       "weight": 50
       },
       {
        "name": "Leg extensions (light)",
        "sets": 2,
        "reps": "12",
-       "target": "Light - back 2.5-5 lb",
-       "cue": "LIGHT week. Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. +2.5 lb only when 2x15 is easy.",
-       "guide": 4
+       "target": "22.5 lb",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Slow and controlled (2 sec up, 1 sec squeeze, 3 sec down), no kicking. 2x15 easy -> +2.5 lb.",
+       "guide": 4,
+       "weight": 22.5
       },
       {
        "name": "Calf raises",
        "sets": 2,
        "reps": "12",
-       "target": "35 lb (light)",
-       "cue": "LIGHT week. Balls of feet on a step or 45 lb plate; hold the weight (Bowflex set to the target) at one side, other hand on the rack for balance. Rise onto toes, pause 1 sec, lower slowly below level. 2x20 clean -> +2.5 lb.",
-       "guide": 5
+       "target": "42.5 lb",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Bowflex set to the target, held at one side, other hand on the rack. Balls of feet on a step or 45 lb plate, pause 1 sec at the top, lower slowly. 2x20 clean -> +2.5 lb.",
+       "guide": 5,
+       "weight": 42.5
       },
       {
        "name": "Plank",
        "sets": 1,
        "reps": "max clean hold (cap 60 sec)",
        "target": "Bodyweight",
-       "cue": "Straight line head to heels, squeeze glutes and abs. Stop if hips sag. Hold test: stop when form breaks.",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Straight line head to heels, squeeze glutes and abs. Stop if hips sag.",
        "guide": 6
       }
      ],
@@ -2710,35 +2753,35 @@
        "name": "Bench press (30 lb bar) - SPOTTER",
        "sets": 3,
        "reps": "5, 5, rep-PR",
-       "target": "45 lb",
-       "cue": "REP-RECORD TEST (do the max set in ONE Upper session this week; other Upper session: 3x5 light). Spotter. No 1RM. Load: 30 lb bar + 5 + 2.5/side.",
+       "target": "40 lb",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Spotter + safeties. All 3 sets at the top -> +5 lb (2.5/side). Load: 30 lb bar + 5/side.",
        "guide": 7,
-       "weight": 45
+       "weight": 40
       },
       {
        "name": "Low cable row (light)",
        "sets": 2,
        "reps": "10",
-       "target": "20 lb",
-       "cue": "Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 easy -> +2.5 lb.",
+       "target": "22.5 lb",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Tall chest, pull handle to belly, squeeze shoulder blades, 2 sec return. 3x10 clean -> +2.5 lb. Load: two 10s + 2.5.",
        "guide": 8,
-       "weight": 20
+       "weight": 22.5
       },
       {
        "name": "Lat pulldown (light)",
        "sets": 2,
        "reps": "10",
-       "target": "20 lb",
-       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 easy -> +2.5 lb.",
+       "target": "27.5 lb",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Pull bar to upper chest, elbows down, no leaning back or yanking. 3x10 clean -> +2.5 lb. Load: two 10s + 5 + 2.5.",
        "guide": 9,
-       "weight": 20
+       "weight": 27.5
       },
       {
        "name": "Landmine press (45 lb Olympic bar in landmine)",
        "sets": 2,
-       "reps": "8/arm",
-       "target": "Bar only",
-       "cue": "Stand tall, press up and slightly forward, ribs down. Add plates only when 2x8/arm is easy.",
+       "reps": "6/arm",
+       "target": "Bar only, one arm (light)",
+       "cue": "LIGHT week - no max testing; Week 4 loads. ONE arm: hold the bar end at the shoulder, ribs down, press up and forward, all reps then switch arms. Two hands only if one arm is wobbly - still no plate. Add the smallest plate only when one-arm 2x8/arm is steady.",
        "guide": 10
       },
       {
@@ -2746,7 +2789,7 @@
        "sets": 1,
        "reps": "Max CLEAN reps (rep-record test)",
        "target": "Floor - TEST",
-       "cue": "Body straight like a plank, chest to floor. Stop the set when a rep isn't clean. Goal: 2x22+ clean.",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Body straight like a plank, chest to floor. Stop the set when a rep isn't clean.",
        "guide": 11
       },
       {
@@ -2754,23 +2797,24 @@
        "sets": 2,
        "reps": "10",
        "target": "12.5 each (light)",
-       "cue": "LIGHT week. Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb. Alt: 15 lb EZ bar once ready.",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Both dials same number, set in the tray. Elbows pinned, no swinging. 2x12 clean -> +2.5 lb each.",
        "guide": 12
       },
       {
        "name": "Triceps pushdowns (lat pulldown cable, light)",
        "sets": 2,
        "reps": "10",
-       "target": "Light - back 2.5 lb",
-       "cue": "LIGHT week. Elbows pinned to sides, push down until arms straight, slow return. +2.5 lb when 2x15 is easy.",
-       "guide": 9
+       "target": "10 lb",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Elbows pinned to sides, push down until arms straight, slow return. 2x15 clean -> +2.5 lb. Load: one 10.",
+       "guide": 9,
+       "weight": 10
       },
       {
        "name": "Dead bug",
        "sets": 2,
        "reps": "8/side",
        "target": "Bodyweight",
-       "cue": "Low back pressed into floor; slowly reach opposite arm and leg out, return, switch sides. Breathe out as you reach.",
+       "cue": "LIGHT week - no max testing; Week 4 loads. Low back pressed into floor; slowly reach opposite arm and leg out (3-sec reach, 1-sec pause), return, switch sides.",
        "guide": 14
       }
      ],
