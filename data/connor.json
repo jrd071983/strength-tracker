@@ -47,7 +47,7 @@
     },
     {
      "label": "Phases",
-     "text": "Weeks 1-4: LEARN (learn the movements, 1-2 sets; easy week in week 4)\nWeeks 5-8: BUILD (2-3 sets, harder versions; easy week in week 8)\nWeeks 9-12: CHALLENGE (2-3 sets, harder versions / small weight steps only if EASY; week 12 is a FUN REP-RECORD week compared to week 1 - record tests are bodyweight only; regular Lower lifts stay at the light week-3 loads; NO max lifts)."
+     "text": "Weeks 1-4: LEARN (learn the movements, 1-2 sets)\nWeeks 5-8: BUILD (2-3 sets, harder versions; easy week in week 8)\nWeeks 9-12: CHALLENGE (2-3 sets, harder versions / small weight steps only if EASY; week 12 is a FUN REP-RECORD week compared to week 1 - record tests are bodyweight only; regular Lower lifts stay at the light week-3 loads; NO max lifts)."
     }
    ]
   },
@@ -68,7 +68,7 @@
     },
     {
      "label": "LOWER day",
-     "text": "Squat (box squat to bench; 15 lb total / 7.5 lb in each hand from week 3 Fri) | Reverse lunge (5 lb in each hand from week 3 Fri only if both legs stay steady, otherwise bodyweight) | Glute bridge (one 10 lb on the hips from week 3 Fri) | Hip hinge (one 10 lb held at the chest from week 3 Fri) | Step-up (low step, bodyweight) | Calf raises | Plank (+ side planks from week 5) | Leg extension (bench attachment, empty, from week 3 Fri) | Fun challenge."
+     "text": "Squat (box squat to bench; 15 lb total / 7.5 lb in each hand from week 3 Fri) | Reverse lunge (5 lb in each hand from week 3 Fri only if both legs stay steady, otherwise bodyweight) | Glute bridge (one 10 lb on the hips from week 3 Fri) | Hip hinge (one 10 lb held at the chest from week 3 Fri) | Step-up (low step, bodyweight) | Calf raises | Plank (+ side planks from week 5) | Leg extension (bench attachment, empty on week 3 Fri; one 5 lb plate from week 4) | Fun challenge."
     },
     {
      "label": "UPPER day",
@@ -127,7 +127,7 @@
     },
     {
      "label": "Weight increases",
-     "text": "Only after all sets feel EASY with good form, one 2.5 lb step at a time. Upper (from week 2 Fri, after an EASY Nov 4 session): one-arm rows HOLD at 15 lb through week 11 with no automatic increases (10 lb in easy weeks); overhead press uses the 15 lb EZ curl bar (two Bowflex 7.5 lb in easy weeks); biceps curls are 5 lb in each hand and go to 7.5 lb in each hand only after both sets feel EASY with clean form for two sessions, 5-7.5 lb in each hand in weeks 9-11 (one step at a time), 5 lb in each hand in easy weeks. Lower (from week 3 Fri, after an EASY Nov 11 session at 10 lb total on the squat): squats 15 lb total (7.5 lb in each hand; 10 lb total in easy weeks 4 and 8; 20 lb total only after two EASY sessions with clean form); hip hinges and glute bridges one 10 lb at the chest / on the hips (5-7.5 lb or bodyweight in easy weeks; 15 lb only after two EASY sessions); lunges 5 lb in each hand only if both legs stay steady (bodyweight in easy weeks, or if he wobbles). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise. Lat pulldown: 10 lb after week 1; the smallest plate is 5 lb, so progress with reps and slow returns first; +5 lb (to 15 lb) only late in the plan if 3 x 15 is EASY. TRX rows get harder by moving the feet one small step closer to the anchor, not by adding weight. Never add weight and reps at the same time. If form slips, go back to the last version."
+     "text": "Only after all sets feel EASY with good form, one 2.5 lb step at a time. Upper (from week 2 Fri, after an EASY Nov 4 session): one-arm rows HOLD at 15 lb through week 11 with no automatic increases (10 lb in easy weeks); overhead press uses the 15 lb EZ curl bar (two Bowflex 7.5 lb in easy weeks); biceps curls are 5 lb in each hand and go to 7.5 lb in each hand only after both sets feel EASY with clean form for two sessions, 5-7.5 lb in each hand in weeks 9-11 (one step at a time), 5 lb in each hand in easy weeks. Lower (from week 3 Fri, after an EASY Nov 11 session at 10 lb total on the squat): squats 15 lb total (7.5 lb in each hand; 10 lb total in easy week 8; 20 lb total only after two EASY sessions with clean form); hip hinges and glute bridges one 10 lb at the chest / on the hips (5-7.5 lb or bodyweight in easy weeks; 15 lb only after two EASY sessions); lunges 5 lb in each hand only if both legs stay steady (bodyweight in easy weeks, or if he wobbles). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise. Lat pulldown: 10 lb after week 1; the smallest plate is 5 lb, so progress with reps and slow returns first; +5 lb (to 15 lb) only late in the plan if 3 x 15 is EASY. TRX rows get harder by moving the feet one small step closer to the anchor, not by adding weight. Never add weight and reps at the same time. If form slips, go back to the last version."
     },
     {
      "label": "Sets",
@@ -138,8 +138,8 @@
      "text": "Targets in the plan are SUGGESTIONS ONLY. If a target feels HARD, stay at the previous version. If it feels too easy, still only make one small change."
     },
     {
-     "label": "Easy (deload) weeks 4 and 8",
-     "text": "Easier versions and fewer sets/reps than the weeks around them (never below the week-1 updated levels) so the body can recover and form stays sharp. Still fun challenges!"
+     "label": "Easy (deload) week 8",
+     "text": "Easier versions and fewer sets/reps than the weeks around them (never below the week-1 updated levels) so the body can recover and form stays sharp. Still fun challenges! Week 4 stays a normal training week."
     },
     {
      "label": "Week 12 - fun rep-record week",
@@ -225,7 +225,7 @@
     },
     {
      "label": "Flat bench",
-     "text": "Box-squat target, one-arm row support, and incline push-up station (weeks 9+). The leg extension attachment is used on Lower days from week 3 Fri: empty attachment first; the smallest step is one 5 lb plate (no 2.5s), only after all sets feel EASY at the empty attachment for two sessions (weeks 9-11). Adult sets it up."
+     "text": "Box-squat target, one-arm row support, and incline push-up station (weeks 9+). The leg extension attachment is used on Lower days from week 3 Fri (empty attachment). From week 4: one 5 lb plate (2 x 15). Easy week 8: empty attachment or one 5 lb plate, 2 x 12. Weeks 9-11: a second 5 lb plate only after two EASY sessions with clean form. Week 12: one 5 lb plate, easy. Adult sets it up."
     },
     {
      "label": "Low step for step-ups",
@@ -237,7 +237,7 @@
     },
     {
      "label": "15 lb EZ curl bar",
-     "text": "Used for the overhead press from week 2 Fri (2 x 10, then 2 x 12 from week 5; easy weeks 4 and 8 use two Bowflex 7.5 lb instead). An adult hands him the bar at the shoulders and takes it back after the set. Squeeze belly and glutes, don't lean back."
+     "text": "Used for the overhead press from week 2 Fri (2 x 10, then 2 x 12 from week 5; easy week 8 uses two Bowflex 7.5 lb instead). An adult hands him the bar at the shoulders and takes it back after the set. Squeeze belly and glutes, don't lean back."
     },
     {
      "label": "Plate-loaded dumbbell handles (2-inch, 9 lb each)",
@@ -245,7 +245,7 @@
     },
     {
      "label": "Olympic plates",
-     "text": "2 x 45, 2 x 25, 8 x 10, 4 x 5 lb (no 2.5s). The 45 lb plate laid flat is the step for calf raises. Plates are only used for the calf-raise step and (late, optional) +5 lb on the pulldown."
+     "text": "2 x 45, 2 x 25, 8 x 10, 4 x 5 lb (no 2.5s). The 45 lb plate laid flat is the step for calf raises. Plates are used for the calf-raise step, one 5 lb plate on the leg extension from week 4, and (late, optional) +5 lb on the pulldown."
     },
     {
      "label": "Fixed dumbbells 25 and 45 lb",
@@ -285,22 +285,22 @@
   {
    "name": "Box squat -> bodyweight squat -> goblet squat",
    "day": "Lower",
-   "how": "Feet shoulder width, chest up. Sit back and down until you lightly touch the bench, then stand up tall - no plopping. Weeks 1-3 (through W3D1): bodyweight box squat, TRX handles lightly in front for balance if needed. From week 3 Fri: 15 lb total (7.5 lb Bowflex in each hand) for the box squat to bench. The weight sticks only with clean form and all reps; if form is sloppy, drop back. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand), one step at a time. Easy weeks 4 and 8: 10 lb total. Week 12: back to the week-3 load (15 lb total), easy."
+   "how": "Feet shoulder width, chest up. Sit back and down until you lightly touch the bench, then stand up tall - no plopping. Weeks 1-3 (through W3D1): bodyweight box squat, TRX handles lightly in front for balance if needed. From week 3 Fri: 15 lb total (7.5 lb Bowflex in each hand) for the box squat to bench. The weight sticks only with clean form and all reps; if form is sloppy, drop back. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand), one step at a time. Easy week 8: 10 lb total. Week 12: back to the week-3 load (15 lb total), easy."
   },
   {
    "name": "Reverse lunge / split squat",
    "day": "Lower",
-   "how": "Stand tall, step one foot back and lower the back knee gently toward the floor. Front knee stays over the middle of the foot. Push through the front heel to come back up. Weeks 1-3 (through W3D1): hold both TRX handles in front for balance (light grip, legs do the work). From week 3 Fri: 5 lb Bowflex in each hand only if both legs stay steady; if he wobbles, go back to bodyweight (TRX or rack for balance is OK). Easy weeks 4 and 8: bodyweight. The weight sticks only with clean form and all reps; if form is sloppy, drop back. Split squat = feet stay in place, just go down and up."
+   "how": "Stand tall, step one foot back and lower the back knee gently toward the floor. Front knee stays over the middle of the foot. Push through the front heel to come back up. Weeks 1-3 (through W3D1): hold both TRX handles in front for balance (light grip, legs do the work). From week 3 Fri: 5 lb Bowflex in each hand only if both legs stay steady; if he wobbles, go back to bodyweight (TRX or rack for balance is OK). Easy week 8: bodyweight. The weight sticks only with clean form and all reps; if form is sloppy, drop back. Split squat = feet stay in place, just go down and up."
   },
   {
    "name": "Glute bridge (and single-leg bridge)",
    "day": "Lower",
-   "how": "Lie on your back, knees bent, feet flat. Squeeze your glutes and push through your heels to lift your hips until knees, hips and shoulders line up, pause, lower slowly. From week 3 Fri: rest one 10 lb Bowflex gently across the hips (an adult can help place it). After two EASY sessions with clean form, may go to 15 lb, one step at a time. Easy weeks 4 and 8: 5-7.5 lb or bodyweight. The weight sticks only with clean form and all reps; if form is sloppy, drop back. Single-leg: one foot up, same thing (stay bodyweight unless the plan says otherwise)."
+   "how": "Lie on your back, knees bent, feet flat. Squeeze your glutes and push through your heels to lift your hips until knees, hips and shoulders line up, pause, lower slowly. From week 3 Fri: rest one 10 lb Bowflex gently across the hips (an adult can help place it). After two EASY sessions with clean form, may go to 15 lb, one step at a time. Easy week 8: 5-7.5 lb or bodyweight. The weight sticks only with clean form and all reps; if form is sloppy, drop back. Single-leg: one foot up, same thing (stay bodyweight unless the plan says otherwise)."
   },
   {
    "name": "Broomstick hip hinge / RDL",
    "day": "Lower",
-   "how": "Hinge: broomstick along the back touching the head, upper back and tailbone. Soft knees, push hips BACK until you feel the back of the legs stretch, keep all 3 touch points, stand up by squeezing glutes. Weeks 1-3 (through W3D1) stay on the broomstick. From week 3 Fri: hold one 10 lb Bowflex at the chest, same hips-back pattern, flat back. After two EASY sessions with clean form, may go to 15 lb, one step at a time. Easy weeks 4 and 8: 5-7.5 lb or bodyweight. The weight sticks only with clean form and all reps; if form is sloppy, drop back."
+   "how": "Hinge: broomstick along the back touching the head, upper back and tailbone. Soft knees, push hips BACK until you feel the back of the legs stretch, keep all 3 touch points, stand up by squeezing glutes. Weeks 1-3 (through W3D1) stay on the broomstick. From week 3 Fri: hold one 10 lb Bowflex at the chest, same hips-back pattern, flat back. After two EASY sessions with clean form, may go to 15 lb, one step at a time. Easy week 8: 5-7.5 lb or bodyweight. The weight sticks only with clean form and all reps; if form is sloppy, drop back."
   },
   {
    "name": "Step-up (low step)",
@@ -320,7 +320,7 @@
   {
    "name": "Leg extension (bench attachment)",
    "day": "Lower",
-   "how": "Adult sets up the bench's leg extension attachment and stays close. Sit tall with your back against the pad, hold the bench handles or sides, and put the roller pad on the front of your lower shins, just above the ankles. Toes point up. Straighten your knees slowly for 2 seconds, squeeze the front of your thighs, then lower for 3 seconds. No kicking, swinging or bouncing. Start with the empty attachment; add one 5 lb plate only after all sets feel EASY at the empty attachment for two sessions. Stop if your knees hurt and tell a grown-up."
+   "how": "Adult sets up the bench's leg extension attachment and stays close. Sit tall with your back against the pad, hold the bench handles or sides, and put the roller pad on the front of your lower shins, just above the ankles. Toes point up. Straighten your knees slowly for 2 seconds, squeeze the front of your thighs, then lower for 3 seconds. No kicking, swinging or bouncing. Week 3 Fri started with the empty attachment. From week 4: one 5 lb plate (2 x 15). Easy week 8: empty attachment or one 5 lb plate, 2 x 12. Weeks 9-11: a second 5 lb plate only after two EASY sessions with clean form. Week 12: one 5 lb plate, easy. Stop if your knees hurt and tell a grown-up."
   },
   {
    "name": "Push-ups (incline -> floor)",
@@ -1097,7 +1097,7 @@
   },
   {
    "week": 4,
-   "phase": "Learn - EASY (DELOAD) WEEK",
+   "phase": "Learn",
    "sessions": [
     {
      "num": 10,
@@ -1107,65 +1107,65 @@
       {
        "name": "Push-ups (incline -> floor)",
        "sets": 3,
-       "reps": "8",
-       "target": "Rack bar 2 holes higher than week 1 (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
+       "reps": "8-10",
+       "target": "Rack bar 2 holes higher than week 1",
+       "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
        "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
        "sets": 2,
        "reps": "12/arm",
-       "target": "Bowflex 10 lb (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
+       "target": "Bowflex 15 lb (hold here - no automatic increases)",
+       "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
        "sets": 2,
-       "reps": "12",
-       "target": "10 lb (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "reps": "12-15",
+       "target": "10 lb",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
        "guide": 12
       },
       {
        "name": "TRX row (body angle)",
        "sets": 2,
-       "reps": "12",
-       "target": "Body almost upright (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
+       "reps": "12-15",
+       "target": "Same, or feet 1 small step in if EASY",
+       "cue": "Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
        "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
        "sets": 2,
-       "reps": "8",
-       "target": "Two Bowflex 7.5 lb (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
+       "reps": "10",
+       "target": "EZ curl bar (15 lb)",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 14
       },
       {
        "name": "Dead hang (pull-up bar)",
        "sets": 2,
-       "reps": "20 sec",
-       "target": "Dead hang (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "reps": "20-25 sec",
+       "target": "Dead hang",
+       "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
        "guide": 15
       },
       {
        "name": "Dead bug (core)",
        "sets": 2,
-       "reps": "8/side",
-       "target": "Dead bug (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "reps": "8-10/side",
+       "target": "Dead bug, slow",
+       "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
-       "reps": "10",
-       "target": "5 lb in each hand (both dials on 5, easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb in each hand only after both sets feel EASY with clean form for two sessions; if form slips, go back to 5 lb in each hand.",
+       "reps": "12",
+       "target": "5 lb in each hand (both dials on 5; 7.5 lb in each hand only after both sets feel EASY with clean form for two sessions)",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb in each hand only after both sets feel EASY with clean form for two sessions; if form slips, go back to 5 lb in each hand.",
        "guide": 17
       }
      ],
@@ -1188,65 +1188,65 @@
       {
        "name": "Squat",
        "sets": 2,
-       "reps": "12",
-       "target": "10 lb total (5 lb Bowflex in each hand), box squat to bench (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 5 lb Bowflex in each hand (adult sets both dials). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
+       "reps": "15",
+       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
        "name": "Reverse lunge",
        "sets": 2,
-       "reps": "12/leg",
-       "target": "Bodyweight reverse lunge (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Bodyweight this easy week; TRX or rack for balance is OK. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
+       "reps": "10/leg",
+       "target": "Two Bowflex 5 lb (one in each hand) ONLY if both legs stay steady; otherwise bodyweight",
+       "cue": "Step back, back knee lowers gently toward floor, front knee over the middle of the foot, push up through front heel. Hold 5 lb in each hand only if both legs stay steady; if he wobbles, go back to bodyweight (TRX or rack for balance is OK). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 3
       },
       {
        "name": "Glute bridge",
        "sets": 2,
-       "reps": "12",
-       "target": "One Bowflex 5-7.5 lb on the hips, or bodyweight (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
+       "reps": "15",
+       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze",
+       "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
       {
        "name": "Hip hinge / RDL (form practice)",
        "sets": 2,
-       "reps": "12",
-       "target": "One Bowflex 5-7.5 lb held at the chest, or bodyweight (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
+       "reps": "15",
+       "target": "One Bowflex 10 lb held at the chest",
+       "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
       {
        "name": "Step-up (low step)",
        "sets": 2,
-       "reps": "8/leg",
-       "target": "Low step (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Whole foot on the step, push through that heel to stand tall, lower slowly with control (no jumping off). Do all reps on one leg, then switch. Hold the rack for balance.",
+       "reps": "10/leg",
+       "target": "Low step, light hand on rack",
+       "cue": "Whole foot on the step, push through that heel to stand tall, lower slowly with control (no jumping off). Do all reps on one leg, then switch. Hold the rack for balance.",
        "guide": 6
       },
       {
        "name": "Calf raises",
-       "sets": 2,
+       "sets": 3,
        "reps": "15",
-       "target": "On floor (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
+       "target": "On floor, 1-sec hold at top",
+       "cue": "Rise high onto toes, pause, lower slowly. Hold the rack for balance.",
        "guide": 7
       },
       {
        "name": "Plank",
        "sets": 2,
-       "reps": "15-20 sec",
-       "target": "Forearm plank (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
+       "reps": "20-25 sec",
+       "target": "Forearm plank",
+       "cue": "Straight line head to heels, squeeze glutes and belly, breathe. Stop the hold when hips sag.",
        "guide": 8
       },
       {
        "name": "Leg extension (bench attachment)",
        "sets": 2,
-       "reps": "12",
-       "target": "Empty attachment (no plates) (easy - 1 or 2 sets)",
-       "cue": "EASY WEEK: fewer sets, easier version. Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
+       "reps": "15",
+       "target": "One 5 lb plate",
+       "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
        "guide": 9
       }
      ],
@@ -1269,65 +1269,65 @@
       {
        "name": "Push-ups (incline -> floor)",
        "sets": 3,
-       "reps": "8",
-       "target": "Rack bar 2 holes higher than week 1 (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
+       "reps": "8-10",
+       "target": "Rack bar 2 holes higher than week 1",
+       "cue": "Body straight like a plank, chest to the bar/bench, elbows at a 45-degree angle. Go lower only after all sets feel EASY with good form. Finish with 3 slow floor push-ups (3 seconds down, use knees to come up if needed).",
        "guide": 10
       },
       {
        "name": "One-arm row (Bowflex dumbbell)",
        "sets": 2,
        "reps": "12/arm",
-       "target": "Bowflex 10 lb (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
+       "target": "Bowflex 15 lb (hold here - no automatic increases)",
+       "cue": "One hand and knee on the bench, flat back. Pull the dumbbell to the hip, squeeze, lower slowly. Adult sets the Bowflex dials (both ends the same) in the tray.",
        "guide": 11
       },
       {
        "name": "Lat pulldown (light)",
        "sets": 2,
-       "reps": "12",
-       "target": "10 lb (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
+       "reps": "12-15",
+       "target": "10 lb",
+       "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
        "guide": 12
       },
       {
        "name": "TRX row (body angle)",
        "sets": 2,
-       "reps": "12",
-       "target": "Body almost upright (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
+       "reps": "12-15",
+       "target": "Same, or feet 1 small step in if EASY",
+       "cue": "Hold the handles, lean back with a straight body (plank), pull chest to hands, squeeze shoulder blades, 2 sec back. More upright = easier; feet closer to the anchor = harder.",
        "guide": 13
       },
       {
        "name": "Overhead press (form practice)",
        "sets": 2,
-       "reps": "8",
-       "target": "Two Bowflex 7.5 lb (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
+       "reps": "10",
+       "target": "EZ curl bar (15 lb)",
+       "cue": "Stand tall, squeeze glutes, ribs down, press straight up, lower slowly to shoulders. Squeeze belly and glutes - don't lean back.",
        "guide": 14
       },
       {
        "name": "Dead hang (pull-up bar)",
        "sets": 2,
-       "reps": "20 sec",
-       "target": "Dead hang (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
+       "reps": "20-25 sec",
+       "target": "Dead hang",
+       "cue": "Adult lifts him to the bar or uses a step. Arms long, shoulders 'away from ears'. Let go before grip gives out; step down, don't drop.",
        "guide": 15
       },
       {
        "name": "Dead bug (core)",
        "sets": 2,
-       "reps": "8/side",
-       "target": "Dead bug (easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
+       "reps": "8-10/side",
+       "target": "Dead bug, slow",
+       "cue": "Low back pressed into the floor. Slowly reach opposite arm and leg out, breathe out, return, switch.",
        "guide": 16
       },
       {
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
-       "reps": "10",
-       "target": "5 lb in each hand (both dials on 5, easy)",
-       "cue": "EASY WEEK: fewer sets, easier version. Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb in each hand only after both sets feel EASY with clean form for two sessions; if form slips, go back to 5 lb in each hand.",
+       "reps": "12",
+       "target": "5 lb in each hand (both dials on 5; 7.5 lb in each hand only after both sets feel EASY with clean form for two sessions)",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb in each hand only after both sets feel EASY with clean form for two sessions; if form slips, go back to 5 lb in each hand.",
        "guide": 17
       }
      ],
@@ -1343,7 +1343,7 @@
      "dayIndex": 3
     }
    ],
-   "deload": true,
+   "deload": false,
    "record": false,
    "baseline": false
   },
@@ -1416,7 +1416,7 @@
        "name": "Leg extension (bench attachment)",
        "sets": 2,
        "reps": "15",
-       "target": "Empty attachment (no plates)",
+       "target": "One 5 lb plate",
        "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
        "guide": 9
       }
@@ -1578,7 +1578,7 @@
        "name": "Leg extension (bench attachment)",
        "sets": 2,
        "reps": "15",
-       "target": "Empty attachment (no plates)",
+       "target": "One 5 lb plate",
        "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
        "guide": 9
       }
@@ -1749,7 +1749,7 @@
        "name": "Leg extension (bench attachment)",
        "sets": 2,
        "reps": "15",
-       "target": "Empty attachment (no plates)",
+       "target": "One 5 lb plate",
        "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
        "guide": 9
       }
@@ -1920,7 +1920,7 @@
        "name": "Leg extension (bench attachment)",
        "sets": 2,
        "reps": "15",
-       "target": "Empty attachment (no plates)",
+       "target": "One 5 lb plate",
        "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
        "guide": 9
       }
@@ -2082,7 +2082,7 @@
        "name": "Leg extension (bench attachment)",
        "sets": 2,
        "reps": "15",
-       "target": "Empty attachment (no plates)",
+       "target": "One 5 lb plate",
        "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
        "guide": 9
       }
@@ -2253,7 +2253,7 @@
        "name": "Leg extension (bench attachment)",
        "sets": 2,
        "reps": "12",
-       "target": "Empty attachment (no plates) (easy - 1 or 2 sets)",
+       "target": "Empty attachment or one 5 lb plate (easy)",
        "cue": "EASY WEEK: fewer sets, easier version. Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
        "guide": 9
       }
@@ -2424,7 +2424,7 @@
        "name": "Leg extension (bench attachment)",
        "sets": 2,
        "reps": "15",
-       "target": "Empty attachment; add a 5 lb plate only after all sets feel EASY at the empty attachment for two sessions",
+       "target": "One 5 lb plate; add a second 5 lb plate only after two EASY sessions with clean form",
        "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
        "guide": 9
       }
@@ -2586,7 +2586,7 @@
        "name": "Leg extension (bench attachment)",
        "sets": 2,
        "reps": "15",
-       "target": "Empty attachment; add a 5 lb plate only after all sets feel EASY at the empty attachment for two sessions",
+       "target": "One 5 lb plate; add a second 5 lb plate only after two EASY sessions with clean form",
        "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
        "guide": 9
       }
@@ -2757,7 +2757,7 @@
        "name": "Leg extension (bench attachment)",
        "sets": 2,
        "reps": "15",
-       "target": "Empty attachment; add a 5 lb plate only after all sets feel EASY at the empty attachment for two sessions",
+       "target": "One 5 lb plate; add a second 5 lb plate only after two EASY sessions with clean form",
        "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
        "guide": 9
       }
@@ -2928,7 +2928,7 @@
        "name": "Leg extension (bench attachment)",
        "sets": 2,
        "reps": "15",
-       "target": "Empty attachment; add a 5 lb plate only after all sets feel EASY at the empty attachment for two sessions",
+       "target": "One 5 lb plate; add a second 5 lb plate only after two EASY sessions with clean form",
        "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
        "guide": 9
       }
@@ -3090,7 +3090,7 @@
        "name": "Leg extension (bench attachment)",
        "sets": 2,
        "reps": "15",
-       "target": "Empty attachment; add a 5 lb plate only after all sets feel EASY at the empty attachment for two sessions",
+       "target": "One 5 lb plate; add a second 5 lb plate only after two EASY sessions with clean form",
        "cue": "Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
        "guide": 9
       }
@@ -3261,7 +3261,7 @@
        "name": "Leg extension (bench attachment)",
        "sets": 2,
        "reps": "15",
-       "target": "Same setting that felt EASY (empty or + one 5 lb plate) (easy)",
+       "target": "One 5 lb plate (easy)",
        "cue": "RECORD WEEK: light and fun. Adult supervises and sets it up. Sit tall, back against the pad, roller pad on the lower shins, toes pointed up. Lift slowly for 2 seconds, squeeze, lower for 3 seconds. No kicking or swinging. Stop if your knees hurt and tell a grown-up.",
        "guide": 9
       }
