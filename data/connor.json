@@ -1360,8 +1360,8 @@
        "name": "Squat",
        "sets": 2,
        "reps": "15",
-       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
+       "target": "20 lb total (10 lb Bowflex in each hand), box squat to bench. If any set feels HARD or form slips, go back to the last weight.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 10 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
@@ -1376,7 +1376,7 @@
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
@@ -1384,7 +1384,7 @@
        "name": "Hip hinge / RDL (form practice)",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
@@ -1522,8 +1522,8 @@
        "name": "Squat",
        "sets": 2,
        "reps": "15",
-       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
+       "target": "20 lb total (10 lb Bowflex in each hand), box squat to bench. If any set feels HARD or form slips, go back to the last weight.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 10 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
@@ -1538,7 +1538,7 @@
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
@@ -1546,7 +1546,7 @@
        "name": "Hip hinge / RDL (form practice)",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
@@ -1693,8 +1693,8 @@
        "name": "Squat",
        "sets": 2,
        "reps": "15",
-       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
+       "target": "20 lb total (10 lb Bowflex in each hand), box squat to bench. If any set feels HARD or form slips, go back to the last weight.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 10 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
@@ -1709,7 +1709,7 @@
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
@@ -1717,7 +1717,7 @@
        "name": "Hip hinge / RDL (form practice)",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
@@ -1864,8 +1864,8 @@
        "name": "Squat",
        "sets": 2,
        "reps": "15",
-       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
+       "target": "20 lb total (10 lb Bowflex in each hand), box squat to bench. If any set feels HARD or form slips, go back to the last weight.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 10 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
@@ -1880,7 +1880,7 @@
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
@@ -1888,7 +1888,7 @@
        "name": "Hip hinge / RDL (form practice)",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
@@ -2026,8 +2026,8 @@
        "name": "Squat",
        "sets": 2,
        "reps": "15",
-       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
+       "target": "20 lb total (10 lb Bowflex in each hand), box squat to bench. If any set feels HARD or form slips, go back to the last weight.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 10 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
@@ -2042,7 +2042,7 @@
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
@@ -2050,7 +2050,7 @@
        "name": "Hip hinge / RDL (form practice)",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
@@ -2368,8 +2368,8 @@
        "name": "Squat",
        "sets": 2,
        "reps": "15",
-       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
+       "target": "20 lb total (10 lb Bowflex in each hand), box squat to bench. If any set feels HARD or form slips, go back to the last weight.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 10 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
@@ -2384,7 +2384,7 @@
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
@@ -2392,7 +2392,7 @@
        "name": "Hip hinge / RDL (form practice)",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
@@ -2530,8 +2530,8 @@
        "name": "Squat",
        "sets": 2,
        "reps": "15",
-       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
+       "target": "20 lb total (10 lb Bowflex in each hand), box squat to bench. If any set feels HARD or form slips, go back to the last weight.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 10 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
@@ -2546,7 +2546,7 @@
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
@@ -2554,7 +2554,7 @@
        "name": "Hip hinge / RDL (form practice)",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
@@ -2701,8 +2701,8 @@
        "name": "Squat",
        "sets": 2,
        "reps": "15",
-       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
+       "target": "20 lb total (10 lb Bowflex in each hand), box squat to bench. If any set feels HARD or form slips, go back to the last weight.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 10 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
@@ -2717,7 +2717,7 @@
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
@@ -2725,7 +2725,7 @@
        "name": "Hip hinge / RDL (form practice)",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
@@ -2872,8 +2872,8 @@
        "name": "Squat",
        "sets": 2,
        "reps": "15",
-       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
+       "target": "20 lb total (10 lb Bowflex in each hand), box squat to bench. If any set feels HARD or form slips, go back to the last weight.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 10 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
@@ -2888,7 +2888,7 @@
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
@@ -2896,7 +2896,7 @@
        "name": "Hip hinge / RDL (form practice)",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
@@ -3034,8 +3034,8 @@
        "name": "Squat",
        "sets": 2,
        "reps": "15",
-       "target": "15 lb total (7.5 lb Bowflex in each hand), box squat to bench. After two EASY sessions with clean form, may go to 20 lb total (10 lb in each hand) - one step at a time.",
-       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 7.5 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
+       "target": "20 lb total (10 lb Bowflex in each hand), box squat to bench. If any set feels HARD or form slips, go back to the last weight.",
+       "cue": "Feet shoulder width, chest up, knees follow toes, sit back and down to the bench, stand tall. 10 lb Bowflex in each hand (adult sets both dials). The bench is still there as a target. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 2
       },
       {
@@ -3050,7 +3050,7 @@
        "name": "Glute bridge",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb resting on the hips, 2-sec squeeze. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Feet flat, push through heels, squeeze glutes at the top, ribs down, lower slowly. Rest the dumbbell gently across the hips (an adult can help place it). The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 4
       },
@@ -3058,7 +3058,7 @@
        "name": "Hip hinge / RDL (form practice)",
        "sets": 2,
        "reps": "15",
-       "target": "One Bowflex 10 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb - one step at a time.",
+       "target": "One Bowflex 12.5 lb held at the chest. After two EASY sessions with clean form, may go to 15 lb. If any set feels HARD or form slips, go back to the last weight.",
        "cue": "Flat back, soft knees, push hips BACK, hold the dumbbell at the chest. Slow and smooth. The weight sticks only with clean form and all reps; if form is sloppy, drop back for that exercise.",
        "guide": 5
       },
