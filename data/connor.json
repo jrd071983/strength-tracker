@@ -1627,8 +1627,8 @@
       {
        "name": "Lat pulldown (light)",
        "sets": 3,
-       "reps": "12-15",
-       "target": "10 lb, 3-sec return",
+       "reps": "12",
+       "target": "12.5 lb, 3-sec return. If a set feels HARD, go back to 10 lb",
        "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
        "guide": 12
       },
@@ -1789,8 +1789,8 @@
       {
        "name": "Lat pulldown (light)",
        "sets": 3,
-       "reps": "12-15",
-       "target": "10 lb, 3-sec return",
+       "reps": "12",
+       "target": "12.5 lb, 3-sec return. If a set feels HARD, go back to 10 lb",
        "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
        "guide": 12
       },
@@ -1960,8 +1960,8 @@
       {
        "name": "Lat pulldown (light)",
        "sets": 3,
-       "reps": "15",
-       "target": "10 lb",
+       "reps": "12-15",
+       "target": "12.5 lb, 3-sec return. If a set feels HARD, go back to 10 lb",
        "cue": "Pull bar to upper chest, elbows down, no leaning back or yanking, slow up.",
        "guide": 12
       },
