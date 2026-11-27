@@ -1667,9 +1667,9 @@
       {
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
-       "reps": "12",
-       "target": "5 lb in each hand (both dials on 5; 7.5 lb in each hand only after both sets feel EASY with clean form for two sessions)",
-       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb in each hand only after both sets feel EASY with clean form for two sessions; if form slips, go back to 5 lb in each hand.",
+       "reps": "12, then 10-12",
+       "target": "Set 1: 5 lb in each hand x12. Set 2: 7.5 lb in each hand x10-12 (both dials the same). If a set feels HARD, go back to 5 lb.",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Set 2 uses 7.5 lb in each hand now that a grown-up checked your form. If a set feels HARD or your elbows swing, go back to 5 lb in each hand.",
        "guide": 17
       }
      ],
@@ -1829,9 +1829,9 @@
       {
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
-       "reps": "12",
-       "target": "5 lb in each hand (both dials on 5; 7.5 lb in each hand only after both sets feel EASY with clean form for two sessions)",
-       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb in each hand only after both sets feel EASY with clean form for two sessions; if form slips, go back to 5 lb in each hand.",
+       "reps": "12, then 10-12",
+       "target": "Set 1: 5 lb in each hand x12. Set 2: 7.5 lb in each hand x10-12 (both dials the same). If a set feels HARD, go back to 5 lb.",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Set 2 uses 7.5 lb in each hand now that a grown-up checked your form. If a set feels HARD or your elbows swing, go back to 5 lb in each hand.",
        "guide": 17
       }
      ],
@@ -2000,9 +2000,9 @@
       {
        "name": "Biceps curl (Bowflex dumbbells)",
        "sets": 2,
-       "reps": "12",
-       "target": "5 lb in each hand (both dials on 5; 7.5 lb in each hand only after both sets feel EASY with clean form for two sessions)",
-       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Go up to 7.5 lb in each hand only after both sets feel EASY with clean form for two sessions; if form slips, go back to 5 lb in each hand.",
+       "reps": "12, then 10-12",
+       "target": "Set 1: 5 lb in each hand x12. Set 2: 7.5 lb in each hand x10-12 (both dials the same). If a set feels HARD, go back to 5 lb.",
+       "cue": "Stand tall, elbows pinned at your sides, palms up. Curl up, squeeze, then 2 seconds down. No swinging or leaning back. Adult sets BOTH dials on each dumbbell to the same number in the tray. Set 2 uses 7.5 lb in each hand now that a grown-up checked your form. If a set feels HARD or your elbows swing, go back to 5 lb in each hand.",
        "guide": 17
       }
      ],
